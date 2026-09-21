@@ -1,0 +1,14 @@
+Take camera footage from phone into davinci
+apply color grade 2.0 global saturation, set scale to 1.680 or 1.760
+add second node, apply ai magic 2.0, press overlay to see your selection
+once everything needed is in red, press the track forward, play button, from frame 0 and processing begins
+then add alpha output and drag from node, disable overlay to see transparency
+tweak settings to remove edge
+put solid blue background behind and export
+
+New Sprites strat
+merge all graphics
+boost contrast up all the way
+next create a 2 pixel transparent inside stroke
+duplicate layer, create high pass filter, then set blending mode overlay
+

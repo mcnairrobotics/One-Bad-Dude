@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: a58dab340cbdc68468903cf3d7e623c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3076508059837259193
+    second: Squid Master_0
+  - first:
+      213: 8374432466508041468
+    second: Squid Master_1
+  - first:
+      213: 2272385840762112932
+    second: Squid Master_2
+  - first:
+      213: -7357477680928769485
+    second: Squid Master_3
+  - first:
+      213: -3994505951616241141
+    second: Squid Master_4
+  - first:
+      213: -2388248812653983284
+    second: Squid Master_5
+  - first:
+      213: -6558666060175139680
+    second: Squid Master_6
+  - first:
+      213: -5845050004334788729
+    second: Squid Master_7
+  - first:
+      213: 4995480875927345905
+    second: Squid Master_8
+  - first:
+      213: 242208419107464345
+    second: Squid Master_9
+  - first:
+      213: -2239243636503885717
+    second: Squid Master_10
+  - first:
+      213: 2956246560154088980
+    second: Squid Master_11
+  - first:
+      213: 7235953252534040732
+    second: Squid Master_12
+  - first:
+      213: 2157721617609473727
+    second: Squid Master_13
+  - first:
+      213: 5049951529545314994
+    second: Squid Master_14
+  - first:
+      213: -5969713519695058210
+    second: Squid Master_15
+  - first:
+      213: 8419943099203412729
+    second: Squid Master_16
+  - first:
+      213: -7295769052268627277
+    second: Squid Master_17
+  - first:
+      213: -8995901510433984206
+    second: Squid Master_18
+  - first:
+      213: 3799601546481680266
+    second: Squid Master_19
+  - first:
+      213: 4580977628243428729
+    second: Squid Master_20
+  - first:
+      213: 8283099612329671119
+    second: Squid Master_21
+  - first:
+      213: -1645577289434018256
+    second: Squid Master_22
+  - first:
+      213: 3620908193927011189
+    second: Squid Master_23
+  - first:
+      213: 76012398616171650
+    second: Squid Master_24
+  - first:
+      213: 5178074616530539343
+    second: Squid Master_25
+  - first:
+      213: -251132097378639953
+    second: Squid Master_26
+  - first:
+      213: -6966391219866126325
+    second: Squid Master_27
+  - first:
+      213: -4826599068486069979
+    second: Squid Master_28
+  - first:
+      213: 7655629864424955411
+    second: Squid Master_29
+  - first:
+      213: -8464519298566693860
+    second: Squid Master_30
+  - first:
+      213: -4769479583576633443
+    second: Squid Master_31
+  - first:
+      213: -6592092751264549033
+    second: Squid Master_32
+  - first:
+      213: -5829215759234801084
+    second: Squid Master_33
+  - first:
+      213: -7904320038663074540
+    second: Squid Master_34
+  - first:
+      213: -5602784312606750310
+    second: Squid Master_35
+  - first:
+      213: -7137337730572187895
+    second: Squid Master_36
+  - first:
+      213: 7320942830403065635
+    second: Squid Master_37
+  - first:
+      213: -8088962035143823617
+    second: Squid Master_38
+  - first:
+      213: 4807124942222674749
+    second: Squid Master_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Squid Master_0
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3704
+        width: 329
+        height: 781
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdd937c7c3f1ba20800000000000000
+      internalID: 3076508059837259193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3704
+        width: 342
+        height: 764
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcc5b965f5f73470800000000000000
+      internalID: 8374432466508041468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_2
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3703
+        width: 345
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abc04fe1e2298f10800000000000000
+      internalID: 2272385840762112932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_3
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 3704
+        width: 326
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a3061e70df4e990800000000000000
+      internalID: -7357477680928769485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_4
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 3704
+        width: 300
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02fab4300aa098c0800000000000000
+      internalID: -3994505951616241141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_5
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 3703
+        width: 235
+        height: 789
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9c28ebb5c3bded0800000000000000
+      internalID: -2388248812653983284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_6
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 3703
+        width: 308
+        height: 803
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac99d2b7ffeaf4a0800000000000000
+      internalID: -6558666060175139680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_7
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 3702
+        width: 250
+        height: 799
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fba3d4df532eea0800000000000000
+      internalID: -5845050004334788729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_8
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 3701
+        width: 248
+        height: 792
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa18e3b363835540800000000000000
+      internalID: 4995480875927345905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2866
+        width: 312
+        height: 773
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994628e164f7c5300800000000000000
+      internalID: 242208419107464345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2855
+        width: 385
+        height: 777
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c1a0d6cb9ce0e0800000000000000
+      internalID: -2239243636503885717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_11
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2859
+        width: 500
+        height: 775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41674766592b60920800000000000000
+      internalID: 2956246560154088980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_12
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2863
+        width: 519
+        height: 779
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98bf9c35254b6460800000000000000
+      internalID: 7235953252534040732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_13
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 2862
+        width: 350
+        height: 781
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe3bcd0164c1fd10800000000000000
+      internalID: 2157721617609473727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_14
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 2876
+        width: 479
+        height: 734
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b23d7b0928051640800000000000000
+      internalID: 5049951529545314994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_15
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 2876
+        width: 527
+        height: 739
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaaab7ce21572da0800000000000000
+      internalID: -5969713519695058210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_16
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 2858
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2650153a5a9d470800000000000000
+      internalID: 8419943099203412729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_17
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 2861
+        width: 83
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba7d3c93b830ca90800000000000000
+      internalID: -7295769052268627277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1740
+        width: 290
+        height: 778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231be241d33282380800000000000000
+      internalID: -8995901510433984206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_19
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1737
+        width: 470
+        height: 734
+      alignment: 9
+      pivot: {x: 0.61719036, y: 0.50000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fb012b975eab430800000000000000
+      internalID: 3799601546481680266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_20
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1736
+        width: 444
+        height: 739
+      alignment: 9
+      pivot: {x: 0.63783634, y: 0.50000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975067fb1e6e29f30800000000000000
+      internalID: 4580977628243428729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_21
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 1777
+        width: 264
+        height: 741
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9f510363b73f270800000000000000
+      internalID: 8283099612329671119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_22
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 1795
+        width: 423
+        height: 698
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ec5d48c2cb929e0800000000000000
+      internalID: -1645577289434018256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_23
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 1794
+        width: 300
+        height: 771
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b125761dc004230800000000000000
+      internalID: 3620908193927011189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_24
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 1800
+        width: 262
+        height: 983
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284da02bfdc0e0100800000000000000
+      internalID: 76012398616171650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_25
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 1783
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4315cadd673cd740800000000000000
+      internalID: 5178074616530539343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_26
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 863
+        width: 400
+        height: 779
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf1c0020bcc38cf0800000000000000
+      internalID: -251132097378639953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_27
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 862
+        width: 434
+        height: 775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08ba755818625f90800000000000000
+      internalID: -6966391219866126325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_28
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 862
+        width: 396
+        height: 777
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52118a938b9740db0800000000000000
+      internalID: -4826599068486069979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_29
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 861
+        width: 378
+        height: 775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31edbe8ecc24e3a60800000000000000
+      internalID: 7655629864424955411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_30
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 848
+        width: 248
+        height: 781
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c5e7e7b8cf78a80800000000000000
+      internalID: -8464519298566693860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_31
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 847
+        width: 331
+        height: 902
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fcf69a6976fcdb0800000000000000
+      internalID: -4769479583576633443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2
+        width: 349
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757f272b19e2484a0800000000000000
+      internalID: -6592092751264549033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_33
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2
+        width: 376
+        height: 737
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44263b7c6277a1fa0800000000000000
+      internalID: -5829215759234801084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_34
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2
+        width: 342
+        height: 654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d4c70cdc63e4290800000000000000
+      internalID: -7904320038663074540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_35
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2
+        width: 326
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9981fd3a59ee32b0800000000000000
+      internalID: -5602784312606750310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_36
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2
+        width: 376
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9078047362513fc90800000000000000
+      internalID: -7137337730572187895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_37
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 1
+        width: 489
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3271e1b57b6399560800000000000000
+      internalID: 7320942830403065635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_38
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 1
+        width: 615
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffea1add2eb3ebf80800000000000000
+      internalID: -8088962035143823617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squid Master_39
+      rect:
+        serializedVersion: 2
+        x: 4042
+        y: 1
+        width: 520
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b4a1c6aa656b240800000000000000
+      internalID: 4807124942222674749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c3e4931addda15a4da387a4efec47303
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Squid Master_0: 3076508059837259193
+      Squid Master_1: 8374432466508041468
+      Squid Master_10: -2239243636503885717
+      Squid Master_11: 2956246560154088980
+      Squid Master_12: 7235953252534040732
+      Squid Master_13: 2157721617609473727
+      Squid Master_14: 5049951529545314994
+      Squid Master_15: -5969713519695058210
+      Squid Master_16: 8419943099203412729
+      Squid Master_17: -7295769052268627277
+      Squid Master_18: -8995901510433984206
+      Squid Master_19: 3799601546481680266
+      Squid Master_2: 2272385840762112932
+      Squid Master_20: 4580977628243428729
+      Squid Master_21: 8283099612329671119
+      Squid Master_22: -1645577289434018256
+      Squid Master_23: 3620908193927011189
+      Squid Master_24: 76012398616171650
+      Squid Master_25: 5178074616530539343
+      Squid Master_26: -251132097378639953
+      Squid Master_27: -6966391219866126325
+      Squid Master_28: -4826599068486069979
+      Squid Master_29: 7655629864424955411
+      Squid Master_3: -7357477680928769485
+      Squid Master_30: -8464519298566693860
+      Squid Master_31: -4769479583576633443
+      Squid Master_32: -6592092751264549033
+      Squid Master_33: -5829215759234801084
+      Squid Master_34: -7904320038663074540
+      Squid Master_35: -5602784312606750310
+      Squid Master_36: -7137337730572187895
+      Squid Master_37: 7320942830403065635
+      Squid Master_38: -8088962035143823617
+      Squid Master_39: 4807124942222674749
+      Squid Master_4: -3994505951616241141
+      Squid Master_5: -2388248812653983284
+      Squid Master_6: -6558666060175139680
+      Squid Master_7: -5845050004334788729
+      Squid Master_8: 4995480875927345905
+      Squid Master_9: 242208419107464345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

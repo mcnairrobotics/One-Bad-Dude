@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 58fc77a810e744347ac38740e867935e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8032004691015895255
+    second: machinegunguy aim purple_0
+  - first:
+      213: 3398789974582611441
+    second: machinegunguy aim purple_1
+  - first:
+      213: 7527990201183292168
+    second: machinegunguy aim purple_2
+  - first:
+      213: -6255195753602287490
+    second: machinegunguy aim purple_3
+  - first:
+      213: 1118323124959872354
+    second: machinegunguy aim purple_4
+  - first:
+      213: 8158537511053422055
+    second: machinegunguy aim purple_5
+  - first:
+      213: -5408615696563134343
+    second: machinegunguy aim purple_6
+  - first:
+      213: -6941485445857786246
+    second: machinegunguy aim purple_7
+  - first:
+      213: -4072561614675425271
+    second: machinegunguy aim purple_8
+  - first:
+      213: 2426163633450123489
+    second: machinegunguy aim purple_9
+  - first:
+      213: -5652579777391692048
+    second: machinegunguy aim purple_10
+  - first:
+      213: -5665365097873295978
+    second: machinegunguy aim purple_11
+  - first:
+      213: -1953446434057962995
+    second: machinegunguy aim purple_12
+  - first:
+      213: -1609100812975127909
+    second: machinegunguy aim purple_13
+  - first:
+      213: 2869460959844816998
+    second: machinegunguy aim purple_14
+  - first:
+      213: 1032947407894753149
+    second: machinegunguy aim purple_15
+  - first:
+      213: -2182037350318753834
+    second: machinegunguy aim purple_16
+  - first:
+      213: -5802862760536381452
+    second: machinegunguy aim purple_17
+  - first:
+      213: -8709234667824344437
+    second: machinegunguy aim purple_18
+  - first:
+      213: 5964239791589310473
+    second: machinegunguy aim purple_19
+  - first:
+      213: 1359841946243815665
+    second: machinegunguy aim purple_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: machinegunguy aim purple_0
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 2039
+        width: 419
+        height: 833
+      alignment: 9
+      pivot: {x: 0.48744977, y: 0.5126256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8064a06b9677f60800000000000000
+      internalID: 8032004691015895255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_1
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 1982
+        width: 299
+        height: 922
+      alignment: 9
+      pivot: {x: 0.605521, y: 0.45437378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdc72d697dea2f20800000000000000
+      internalID: 3398789974582611441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 960
+        width: 309
+        height: 925
+      alignment: 9
+      pivot: {x: 0.6021059, y: 0.43746713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bc626f33bc87860800000000000000
+      internalID: 7527990201183292168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 987
+        width: 299
+        height: 934
+      alignment: 9
+      pivot: {x: 0.5879341, y: 0.4324397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78f0028a941139a0800000000000000
+      internalID: -6255195753602287490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 999
+        width: 299
+        height: 931
+      alignment: 9
+      pivot: {x: 0.5879343, y: 0.44916645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265865ff4f4158f00800000000000000
+      internalID: 1118323124959872354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_5
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1011
+        width: 393
+        height: 901
+      alignment: 9
+      pivot: {x: 0.52676105, y: 0.47665545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ede909f3a2f83170800000000000000
+      internalID: 8158537511053422055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_6
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1050
+        width: 387
+        height: 816
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970a0c71eacb0f4b0800000000000000
+      internalID: -5408615696563134343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_7
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1800
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a764a1ab3c3eaaf90800000000000000
+      internalID: -6941485445857786246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_8
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1073
+        width: 464
+        height: 832
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48735985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908416fe9ca5b77c0800000000000000
+      internalID: -4072561614675425271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_9
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 1082
+        width: 460
+        height: 817
+      alignment: 9
+      pivot: {x: 0.39711702, y: 0.5064364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e004c268f67ba120800000000000000
+      internalID: 2426163633450123489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_10
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 1065
+        width: 544
+        height: 819
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6f20024a00e81b0800000000000000
+      internalID: -5652579777391692048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_11
+      rect:
+        serializedVersion: 2
+        x: 4411
+        y: 1037
+        width: 529
+        height: 831
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695bd5ab5749061b0800000000000000
+      internalID: -5665365097873295978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_12
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1028
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ab83a61d6f3e4e0800000000000000
+      internalID: -1953446434057962995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 40
+        width: 483
+        height: 819
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9243d206535ba9e0800000000000000
+      internalID: -1609100812975127909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_14
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 45
+        width: 467
+        height: 815
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668d6683a8f52d720800000000000000
+      internalID: 2869460959844816998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_15
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 61
+        width: 466
+        height: 799
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f2a37d134c55e00800000000000000
+      internalID: 1032947407894753149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_16
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 66
+        width: 452
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7bd9f3798d7b1e0800000000000000
+      internalID: -2182037350318753834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_17
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 66
+        width: 440
+        height: 788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7e2ed6017187fa0800000000000000
+      internalID: -5802862760536381452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_18
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 107
+        width: 432
+        height: 782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8210de8635922780800000000000000
+      internalID: -8709234667824344437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_19
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 112
+        width: 397
+        height: 798
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9004ee49d7c35c250800000000000000
+      internalID: 5964239791589310473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim purple_20
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 46
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8d98c9b012fd210800000000000000
+      internalID: 1359841946243815665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8ac70b4d544fd184bb1a3e9beeb0682a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      machinegunguy aim purple_0: 8032004691015895255
+      machinegunguy aim purple_1: 3398789974582611441
+      machinegunguy aim purple_10: -5652579777391692048
+      machinegunguy aim purple_11: -5665365097873295978
+      machinegunguy aim purple_12: -1953446434057962995
+      machinegunguy aim purple_13: -1609100812975127909
+      machinegunguy aim purple_14: 2869460959844816998
+      machinegunguy aim purple_15: 1032947407894753149
+      machinegunguy aim purple_16: -2182037350318753834
+      machinegunguy aim purple_17: -5802862760536381452
+      machinegunguy aim purple_18: -8709234667824344437
+      machinegunguy aim purple_19: 5964239791589310473
+      machinegunguy aim purple_2: 7527990201183292168
+      machinegunguy aim purple_20: 1359841946243815665
+      machinegunguy aim purple_3: -6255195753602287490
+      machinegunguy aim purple_4: 1118323124959872354
+      machinegunguy aim purple_5: 8158537511053422055
+      machinegunguy aim purple_6: -5408615696563134343
+      machinegunguy aim purple_7: -6941485445857786246
+      machinegunguy aim purple_8: -4072561614675425271
+      machinegunguy aim purple_9: 2426163633450123489
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

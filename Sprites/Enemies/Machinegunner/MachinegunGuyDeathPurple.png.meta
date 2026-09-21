@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 48efcce5f391b1445ab1e2282204f9c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2924106624106431734
+    second: MachinegunGuyDeath (1)_0
+  - first:
+      213: -6423794970177909784
+    second: MachinegunGuyDeath (1)_1
+  - first:
+      213: -745205971583786118
+    second: MachinegunGuyDeath (1)_2
+  - first:
+      213: 8555844683683388788
+    second: MachinegunGuyDeath (1)_3
+  - first:
+      213: -5738774510789575083
+    second: MachinegunGuyDeath (1)_4
+  - first:
+      213: 161371253100602649
+    second: MachinegunGuyDeath (1)_5
+  - first:
+      213: -6094030114287579993
+    second: MachinegunGuyDeath (1)_6
+  - first:
+      213: 8065590025484112283
+    second: MachinegunGuyDeath (1)_7
+  - first:
+      213: 3407987565093154604
+    second: MachinegunGuyDeath (1)_8
+  - first:
+      213: 4328186142485148816
+    second: MachinegunGuyDeath (1)_9
+  - first:
+      213: -7671472128047267616
+    second: MachinegunGuyDeath (1)_10
+  - first:
+      213: 7490920781841843056
+    second: MachinegunGuyDeath (1)_11
+  - first:
+      213: -926642868409685721
+    second: MachinegunGuyDeath (1)_12
+  - first:
+      213: 9122466375711947991
+    second: MachinegunGuyDeath (1)_13
+  - first:
+      213: -5667818028827726535
+    second: MachinegunGuyDeath (1)_14
+  - first:
+      213: -7661946370150246144
+    second: MachinegunGuyDeath (1)_15
+  - first:
+      213: -2477159773998409021
+    second: MachinegunGuyDeath (1)_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2695
+        width: 416
+        height: 838
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bf4c8948c7b67d0800000000000000
+      internalID: -2924106624106431734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2694
+        width: 440
+        height: 842
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebca9462881ad6a0800000000000000
+      internalID: -6423794970177909784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2690
+        width: 453
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73af3bfd1f78a5f0800000000000000
+      internalID: -745205971583786118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2688
+        width: 405
+        height: 852
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ddc54b8677cb670800000000000000
+      internalID: 8555844683683388788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 2694
+        width: 469
+        height: 677
+      alignment: 9
+      pivot: {x: 0.5471993, y: 0.5719342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e325edcf6cb50b0800000000000000
+      internalID: -5738774510789575083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 2691
+        width: 433
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915650abc4e4d3200800000000000000
+      internalID: 161371253100602649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 767
+        width: 541
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac0b5b06e7ad6ba0800000000000000
+      internalID: -6094030114287579993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1165
+        width: 310
+        height: 867
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b911ae4156bbeef60800000000000000
+      internalID: 8065590025484112283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_8
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1165
+        width: 379
+        height: 808
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f635852aa9b4f20800000000000000
+      internalID: 3407987565093154604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_9
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1165
+        width: 528
+        height: 765
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09478986d5ec01c30800000000000000
+      internalID: 4328186142485148816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_10
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 767
+        width: 637
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0ce67aeb4798590800000000000000
+      internalID: -7671472128047267616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 767
+        width: 687
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073464233c815f760800000000000000
+      internalID: 7490920781841843056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 767
+        width: 689
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729aac28837e323f0800000000000000
+      internalID: -926642868409685721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 307
+        height: 708
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc71c7f5d2899e70800000000000000
+      internalID: 9122466375711947991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_14
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2
+        width: 720
+        height: 421
+      alignment: 9
+      pivot: {x: 0.4853893, y: 0.2501206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d2b2c388dd751b0800000000000000
+      internalID: -5667818028827726535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2
+        width: 770
+        height: 329
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.26018485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009d91ffe5c4ba590800000000000000
+      internalID: -7661946370150246144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGuyDeath (1)_16
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 2
+        width: 769
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca10f26f4c5f9dd0800000000000000
+      internalID: -2477159773998409021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ba126912ec1f5ec4194a45aac06411d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MachinegunGuyDeath (1)_0: -2924106624106431734
+      MachinegunGuyDeath (1)_1: -6423794970177909784
+      MachinegunGuyDeath (1)_10: -7671472128047267616
+      MachinegunGuyDeath (1)_11: 7490920781841843056
+      MachinegunGuyDeath (1)_12: -926642868409685721
+      MachinegunGuyDeath (1)_13: 9122466375711947991
+      MachinegunGuyDeath (1)_14: -5667818028827726535
+      MachinegunGuyDeath (1)_15: -7661946370150246144
+      MachinegunGuyDeath (1)_16: -2477159773998409021
+      MachinegunGuyDeath (1)_2: -745205971583786118
+      MachinegunGuyDeath (1)_3: 8555844683683388788
+      MachinegunGuyDeath (1)_4: -5738774510789575083
+      MachinegunGuyDeath (1)_5: 161371253100602649
+      MachinegunGuyDeath (1)_6: -6094030114287579993
+      MachinegunGuyDeath (1)_7: 8065590025484112283
+      MachinegunGuyDeath (1)_8: 3407987565093154604
+      MachinegunGuyDeath (1)_9: 4328186142485148816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: 0224b3b3104ed9a4084629c751deb0f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8791136446782254354
+    second: GiantFeetStomp_0
+  - first:
+      213: 6287808489573614440
+    second: GiantFeetStomp_1
+  - first:
+      213: -317461809932524089
+    second: GiantFeetStomp_2
+  - first:
+      213: 4382017220675427281
+    second: GiantFeetStomp_3
+  - first:
+      213: -7597157455941945235
+    second: GiantFeetStomp_4
+  - first:
+      213: -8992434556515167531
+    second: GiantFeetStomp_5
+  - first:
+      213: 460489640317236730
+    second: GiantFeetStomp_6
+  - first:
+      213: 2875402484432677689
+    second: GiantFeetStomp_7
+  - first:
+      213: 190022034522937541
+    second: GiantFeetStomp_8
+  - first:
+      213: -7094916636058749735
+    second: GiantFeetStomp_9
+  - first:
+      213: -5146956418455314710
+    second: GiantFeetStomp_10
+  - first:
+      213: -2721247877055408192
+    second: GiantFeetStomp_11
+  - first:
+      213: -8217874865495292073
+    second: GiantFeetStomp_12
+  - first:
+      213: 1145306192889232301
+    second: GiantFeetStomp_13
+  - first:
+      213: 2895543516866073931
+    second: GiantFeetStomp_14
+  - first:
+      213: -4718746367542375877
+    second: GiantFeetStomp_15
+  - first:
+      213: -831645296318836307
+    second: GiantFeetStomp_16
+  - first:
+      213: 1246550983909057945
+    second: GiantFeetStomp_17
+  - first:
+      213: -1675349122792731568
+    second: GiantFeetStomp_18
+  - first:
+      213: -3410320749534777760
+    second: GiantFeetStomp_19
+  - first:
+      213: -5134053039530097503
+    second: GiantFeetStomp_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GiantFeetStomp_0
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2618
+        width: 730
+        height: 703
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2dd85aafb9ff580800000000000000
+      internalID: -8791136446782254354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_1
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 2624
+        width: 686
+        height: 701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86388bcc188c24750800000000000000
+      internalID: 6287808489573614440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_2
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 2650
+        width: 648
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c528357a26289bf0800000000000000
+      internalID: -317461809932524089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_3
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 2623
+        width: 610
+        height: 685
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbd00ef17d00dc30800000000000000
+      internalID: 4382017220675427281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1545
+        width: 620
+        height: 710
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68bed79b89719690800000000000000
+      internalID: -7597157455941945235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_7
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1533
+        width: 585
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ba2e6335b77e720800000000000000
+      internalID: 2875402484432677689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_9
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1524
+        width: 553
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d475b4f8eac98d90800000000000000
+      internalID: -7094916636058749735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_11
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1527
+        width: 522
+        height: 698
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7935e397f2c3ad0800000000000000
+      internalID: -2721247877055408192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_13
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1527
+        width: 517
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabb7321ae1f4ef00800000000000000
+      internalID: 1145306192889232301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_15
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 1524
+        width: 493
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ac8710e25a38eb0800000000000000
+      internalID: -4718746367542375877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 391
+        width: 394
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da19acd52076574f0800000000000000
+      internalID: -831645296318836307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_17
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 391
+        width: 426
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995205ee383ac4110800000000000000
+      internalID: 1246550983909057945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_18
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 237
+        width: 780
+        height: 841
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c4d2569d6ffb8e0800000000000000
+      internalID: -1675349122792731568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_19
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 223
+        width: 818
+        height: 855
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ee5d1d85b1ca0d0800000000000000
+      internalID: -3410320749534777760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantFeetStomp_20
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 225
+        width: 814
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a44bc046fd20c8b0800000000000000
+      internalID: -5134053039530097503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9648e19bf62f1444ead9aa51fb0cc075
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GiantFeetStomp_0: -8791136446782254354
+      GiantFeetStomp_1: 6287808489573614440
+      GiantFeetStomp_10: -5146956418455314710
+      GiantFeetStomp_11: -2721247877055408192
+      GiantFeetStomp_12: -8217874865495292073
+      GiantFeetStomp_13: 1145306192889232301
+      GiantFeetStomp_14: 2895543516866073931
+      GiantFeetStomp_15: -4718746367542375877
+      GiantFeetStomp_16: -831645296318836307
+      GiantFeetStomp_17: 1246550983909057945
+      GiantFeetStomp_18: -1675349122792731568
+      GiantFeetStomp_19: -3410320749534777760
+      GiantFeetStomp_2: -317461809932524089
+      GiantFeetStomp_20: -5134053039530097503
+      GiantFeetStomp_3: 4382017220675427281
+      GiantFeetStomp_4: -7597157455941945235
+      GiantFeetStomp_5: -8992434556515167531
+      GiantFeetStomp_6: 460489640317236730
+      GiantFeetStomp_7: 2875402484432677689
+      GiantFeetStomp_8: 190022034522937541
+      GiantFeetStomp_9: -7094916636058749735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

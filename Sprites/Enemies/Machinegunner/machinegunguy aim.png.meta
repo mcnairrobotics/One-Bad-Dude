@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: c2296d1cffcc37346bcb847a817c93ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8370718272686780757
+    second: machinegunguy aim_0
+  - first:
+      213: 2780549188851069491
+    second: machinegunguy aim_1
+  - first:
+      213: -5340236364868192425
+    second: machinegunguy aim_2
+  - first:
+      213: -1992148601479115540
+    second: machinegunguy aim_3
+  - first:
+      213: -1398834215033993194
+    second: machinegunguy aim_4
+  - first:
+      213: -176539611235862616
+    second: machinegunguy aim_5
+  - first:
+      213: 3360404861896056599
+    second: machinegunguy aim_6
+  - first:
+      213: 1104526233153529440
+    second: machinegunguy aim_7
+  - first:
+      213: -6730966440728690507
+    second: machinegunguy aim_8
+  - first:
+      213: -8126681654730048245
+    second: machinegunguy aim_9
+  - first:
+      213: -3682435545212405259
+    second: machinegunguy aim_10
+  - first:
+      213: -420070747122776285
+    second: machinegunguy aim_11
+  - first:
+      213: -1154723687158000230
+    second: machinegunguy aim_12
+  - first:
+      213: 7094841829903330386
+    second: machinegunguy aim_13
+  - first:
+      213: -6550004393004945078
+    second: machinegunguy aim_14
+  - first:
+      213: 953171682733792920
+    second: machinegunguy aim_15
+  - first:
+      213: 6799468910531137210
+    second: machinegunguy aim_16
+  - first:
+      213: 2264933264261904369
+    second: machinegunguy aim_17
+  - first:
+      213: 6215920426609742599
+    second: machinegunguy aim_18
+  - first:
+      213: -2982313294347433331
+    second: machinegunguy aim_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: machinegunguy aim_0
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 2038
+        width: 421
+        height: 835
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae02a9b41c35db80800000000000000
+      internalID: -8370718272686780757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_1
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 1981
+        width: 301
+        height: 924
+      alignment: 9
+      pivot: {x: 0.59900916, y: 0.44758904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332f7f951ce769620800000000000000
+      internalID: 2780549188851069491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 954
+        width: 311
+        height: 932
+      alignment: 9
+      pivot: {x: 0.6078039, y: 0.43604785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7577867e15ba3e5b0800000000000000
+      internalID: -5340236364868192425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 986
+        width: 301
+        height: 936
+      alignment: 9
+      pivot: {x: 0.6113853, y: 0.42040128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceccb0dd6677a54e0800000000000000
+      internalID: -1992148601479115540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 998
+        width: 301
+        height: 935
+      alignment: 9
+      pivot: {x: 0.62376183, y: 0.42828467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6188c3951b7569ce0800000000000000
+      internalID: -1398834215033993194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_5
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1010
+        width: 395
+        height: 903
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7308fa82ecc8df0800000000000000
+      internalID: -176539611235862616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_6
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1049
+        width: 424
+        height: 818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f5fceea6e82ae20800000000000000
+      internalID: 3360404861896056599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_7
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 1072
+        width: 466
+        height: 834
+      alignment: 9
+      pivot: {x: 0.4097256, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066673cc1c0145f00800000000000000
+      internalID: 1104526233153529440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_8
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 1076
+        width: 462
+        height: 819
+      alignment: 9
+      pivot: {x: 0.43170878, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b08a413fadc692a0800000000000000
+      internalID: -6730966440728690507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_9
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 1064
+        width: 546
+        height: 821
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0db12f871a383f80800000000000000
+      internalID: -8126681654730048245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_10
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 1036
+        width: 531
+        height: 833
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9b75bc16c55ecc0800000000000000
+      internalID: -3682435545212405259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_11
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1027
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327c63191eb9b2af0800000000000000
+      internalID: -420070747122776285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 39
+        width: 486
+        height: 821
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95d73dace899ffe0800000000000000
+      internalID: -1154723687158000230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_13
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 44
+        width: 469
+        height: 817
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c68f0ed01f57260800000000000000
+      internalID: 7094841829903330386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_14
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 60
+        width: 468
+        height: 801
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4131bd35b5b915a0800000000000000
+      internalID: -6550004393004945078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_15
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 65
+        width: 454
+        height: 802
+      alignment: 9
+      pivot: {x: 0.5579124, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e1f4768985a3d00800000000000000
+      internalID: 953171682733792920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_16
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 65
+        width: 442
+        height: 790
+      alignment: 9
+      pivot: {x: 0.57138294, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe4581f2f09c5e50800000000000000
+      internalID: 6799468910531137210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_17
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 106
+        width: 434
+        height: 784
+      alignment: 9
+      pivot: {x: 0.57269764, y: 0.49329296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7fb40cdc8ae6f10800000000000000
+      internalID: 2264933264261904369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_18
+      rect:
+        serializedVersion: 2
+        x: 4469
+        y: 111
+        width: 399
+        height: 800
+      alignment: 9
+      pivot: {x: 0.5790746, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7031b24d1b2634650800000000000000
+      internalID: 6215920426609742599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machinegunguy aim_19
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 45
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a0f791cd1bc96d0800000000000000
+      internalID: -2982313294347433331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 89d3bef1f249208458da93611ac7ed14
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      machinegunguy aim_0: -8370718272686780757
+      machinegunguy aim_1: 2780549188851069491
+      machinegunguy aim_10: -3682435545212405259
+      machinegunguy aim_11: -420070747122776285
+      machinegunguy aim_12: -1154723687158000230
+      machinegunguy aim_13: 7094841829903330386
+      machinegunguy aim_14: -6550004393004945078
+      machinegunguy aim_15: 953171682733792920
+      machinegunguy aim_16: 6799468910531137210
+      machinegunguy aim_17: 2264933264261904369
+      machinegunguy aim_18: 6215920426609742599
+      machinegunguy aim_19: -2982313294347433331
+      machinegunguy aim_2: -5340236364868192425
+      machinegunguy aim_3: -1992148601479115540
+      machinegunguy aim_4: -1398834215033993194
+      machinegunguy aim_5: -176539611235862616
+      machinegunguy aim_6: 3360404861896056599
+      machinegunguy aim_7: 1104526233153529440
+      machinegunguy aim_8: -6730966440728690507
+      machinegunguy aim_9: -8126681654730048245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

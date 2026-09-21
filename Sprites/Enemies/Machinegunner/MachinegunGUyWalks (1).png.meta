@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 0a04fae4cc1737d46a14d9c30a9afb42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6805025352964589947
+    second: MachinegunGUyWalks (1)_0
+  - first:
+      213: 1510488574641306269
+    second: MachinegunGUyWalks (1)_1
+  - first:
+      213: -16115644349813311
+    second: MachinegunGUyWalks (1)_2
+  - first:
+      213: 689802536247680448
+    second: MachinegunGUyWalks (1)_3
+  - first:
+      213: 4013627886639022802
+    second: MachinegunGUyWalks (1)_4
+  - first:
+      213: 6209061871691517433
+    second: MachinegunGUyWalks (1)_5
+  - first:
+      213: 400562144572152891
+    second: MachinegunGUyWalks (1)_6
+  - first:
+      213: -3562097005198849927
+    second: MachinegunGUyWalks (1)_7
+  - first:
+      213: 4237402664260906506
+    second: MachinegunGUyWalks (1)_8
+  - first:
+      213: -5488566822797396829
+    second: MachinegunGUyWalks (1)_9
+  - first:
+      213: -4408814546488124860
+    second: MachinegunGUyWalks (1)_10
+  - first:
+      213: -5810259368570496807
+    second: MachinegunGUyWalks (1)_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 43
+        width: 415
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b794bf2018e407e50800000000000000
+      internalID: 6805025352964589947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 37
+        width: 405
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9af7c01b5556f410800000000000000
+      internalID: 1510488574641306269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_2
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 52
+        width: 408
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cde33728eeb6cff0800000000000000
+      internalID: -16115644349813311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 31
+        width: 460
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdd43280cba29900800000000000000
+      internalID: 689802536247680448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 31
+        width: 486
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d288bb3c4543b730800000000000000
+      internalID: 4013627886639022802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 31
+        width: 409
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd489210e40b2650800000000000000
+      internalID: 6209061871691517433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 31
+        width: 414
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c11b1f5251f8500800000000000000
+      internalID: 400562144572152891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_7
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 31
+        width: 414
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978c3a585a3e09ec0800000000000000
+      internalID: -3562097005198849927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_8
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 30
+        width: 507
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ea09db5474eca30800000000000000
+      internalID: 4237402664260906506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_9
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 31
+        width: 522
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4ba29ed81b4d3b0800000000000000
+      internalID: -5488566822797396829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_10
+      rect:
+        serializedVersion: 2
+        x: 5161
+        y: 51
+        width: 417
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a1004678eb0d2c0800000000000000
+      internalID: -4408814546488124860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunGUyWalks (1)_11
+      rect:
+        serializedVersion: 2
+        x: 5638
+        y: 41
+        width: 410
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8587b63efcd5fa0800000000000000
+      internalID: -5810259368570496807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MachinegunGUyWalks (1)_0: 6805025352964589947
+      MachinegunGUyWalks (1)_1: 1510488574641306269
+      MachinegunGUyWalks (1)_10: -4408814546488124860
+      MachinegunGUyWalks (1)_11: -5810259368570496807
+      MachinegunGUyWalks (1)_2: -16115644349813311
+      MachinegunGUyWalks (1)_3: 689802536247680448
+      MachinegunGUyWalks (1)_4: 4013627886639022802
+      MachinegunGUyWalks (1)_5: 6209061871691517433
+      MachinegunGUyWalks (1)_6: 400562144572152891
+      MachinegunGUyWalks (1)_7: -3562097005198849927
+      MachinegunGUyWalks (1)_8: 4237402664260906506
+      MachinegunGUyWalks (1)_9: -5488566822797396829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

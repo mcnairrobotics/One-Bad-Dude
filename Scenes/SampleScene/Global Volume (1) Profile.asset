@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8167028614805436935
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66f335fb1ffd8684294ad653bf1c7564, type: 3}
+  m_Name: ColorAdjustments
+  m_EditorClassIdentifier: 
+  active: 1
+  postExposure:
+    m_OverrideState: 1
+    m_Value: 0.96
+  contrast:
+    m_OverrideState: 0
+    m_Value: 55.9
+  colorFilter:
+    m_OverrideState: 1
+    m_Value: {r: 0.81886786, g: 0.76154715, b: 0.6782698, a: 1}
+  hueShift:
+    m_OverrideState: 0
+    m_Value: 9
+  saturation:
+    m_OverrideState: 0
+    m_Value: 0
+--- !u!114 &-4770451656111274474
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5485954d14dfb9a4c8ead8edb0ded5b1, type: 3}
+  m_Name: LiftGammaGain
+  m_EditorClassIdentifier: 
+  active: 0
+  lift:
+    m_OverrideState: 1
+    m_Value: {x: 0.8870269, y: 1, z: 0.9472742, w: 0.010507774}
+  gamma:
+    m_OverrideState: 0
+    m_Value: {x: 1, y: 0.98334646, z: 0.90038186, w: -0.31873897}
+  gain:
+    m_OverrideState: 1
+    m_Value: {x: 1, y: 0.94012666, z: 0.8265434, w: -0.035025734}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: Global Volume (1) Profile
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: -8167028614805436935}
+  - {fileID: -4770451656111274474}

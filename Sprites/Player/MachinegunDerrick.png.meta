@@ -1,0 +1,4472 @@
+fileFormatVersion: 2
+guid: 75b20398c1006404fabb851b178bfddf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7153690789056926063
+    second: MachinegunDerrick_0
+  - first:
+      213: 1088544447477787685
+    second: MachinegunDerrick_1
+  - first:
+      213: 4211833444162937219
+    second: MachinegunDerrick_2
+  - first:
+      213: 4852034731735394295
+    second: MachinegunDerrick_3
+  - first:
+      213: -6708942989596408
+    second: MachinegunDerrick_4
+  - first:
+      213: 3639510521344693399
+    second: MachinegunDerrick_5
+  - first:
+      213: 8496604979281075600
+    second: MachinegunDerrick_6
+  - first:
+      213: -4257889565190953297
+    second: MachinegunDerrick_7
+  - first:
+      213: -3447377503056786758
+    second: MachinegunDerrick_8
+  - first:
+      213: 4456519335991881538
+    second: MachinegunDerrick_9
+  - first:
+      213: -323913881912385211
+    second: MachinegunDerrick_10
+  - first:
+      213: -6199724947892961058
+    second: MachinegunDerrick_11
+  - first:
+      213: 3746534251166402128
+    second: MachinegunDerrick_12
+  - first:
+      213: 2940945194258916325
+    second: MachinegunDerrick_13
+  - first:
+      213: -6779861914929088209
+    second: MachinegunDerrick_14
+  - first:
+      213: 5116580179041137802
+    second: MachinegunDerrick_15
+  - first:
+      213: 4298807062249111394
+    second: MachinegunDerrick_16
+  - first:
+      213: 3499214755323669822
+    second: MachinegunDerrick_17
+  - first:
+      213: 3543170700784645436
+    second: MachinegunDerrick_18
+  - first:
+      213: 8886044143022763556
+    second: MachinegunDerrick_19
+  - first:
+      213: -8787953594236497347
+    second: MachinegunDerrick_20
+  - first:
+      213: -7033539053350465754
+    second: MachinegunDerrick_21
+  - first:
+      213: 1738454798419941797
+    second: MachinegunDerrick_22
+  - first:
+      213: -5605911126167018307
+    second: MachinegunDerrick_23
+  - first:
+      213: -4163364078490882709
+    second: MachinegunDerrick_24
+  - first:
+      213: -4878114827159837442
+    second: MachinegunDerrick_25
+  - first:
+      213: 1578469563664968480
+    second: MachinegunDerrick_26
+  - first:
+      213: -6871864396877225501
+    second: MachinegunDerrick_27
+  - first:
+      213: 1806441308917399818
+    second: MachinegunDerrick_28
+  - first:
+      213: -434820197675700527
+    second: MachinegunDerrick_29
+  - first:
+      213: -6598806500095149429
+    second: MachinegunDerrick_30
+  - first:
+      213: 939066378933953172
+    second: MachinegunDerrick_31
+  - first:
+      213: -5123483119097975937
+    second: MachinegunDerrick_32
+  - first:
+      213: 8754233918130102191
+    second: MachinegunDerrick_33
+  - first:
+      213: 4647941769938802618
+    second: MachinegunDerrick_34
+  - first:
+      213: 2342640743576917324
+    second: MachinegunDerrick_35
+  - first:
+      213: -6874766688268802568
+    second: MachinegunDerrick_36
+  - first:
+      213: -8896983768530170389
+    second: MachinegunDerrick_37
+  - first:
+      213: 6054717693094068655
+    second: MachinegunDerrick_38
+  - first:
+      213: -4107848234980874179
+    second: MachinegunDerrick_39
+  - first:
+      213: 6333341060153833553
+    second: MachinegunDerrick_40
+  - first:
+      213: -8189322777399034481
+    second: MachinegunDerrick_41
+  - first:
+      213: -109326544122780681
+    second: MachinegunDerrick_42
+  - first:
+      213: -3656638245898855094
+    second: MachinegunDerrick_43
+  - first:
+      213: 2595420628306199919
+    second: MachinegunDerrick_44
+  - first:
+      213: -8042014057461037524
+    second: MachinegunDerrick_45
+  - first:
+      213: -6579395822084411536
+    second: MachinegunDerrick_46
+  - first:
+      213: -6654543798192269651
+    second: MachinegunDerrick_47
+  - first:
+      213: 8120635086487493301
+    second: MachinegunDerrick_48
+  - first:
+      213: -2844580304627870929
+    second: MachinegunDerrick_49
+  - first:
+      213: -1548185754739098447
+    second: MachinegunDerrick_50
+  - first:
+      213: -4080332592462424335
+    second: MachinegunDerrick_51
+  - first:
+      213: 4094424663703766106
+    second: MachinegunDerrick_52
+  - first:
+      213: -1466344964897518549
+    second: MachinegunDerrick_53
+  - first:
+      213: -8278746849184557447
+    second: MachinegunDerrick_54
+  - first:
+      213: 4839070746137110163
+    second: MachinegunDerrick_55
+  - first:
+      213: -3621261785008076879
+    second: MachinegunDerrick_56
+  - first:
+      213: -7345111612474545094
+    second: MachinegunDerrick_57
+  - first:
+      213: 7762767134059613445
+    second: MachinegunDerrick_58
+  - first:
+      213: -1179766562275607318
+    second: MachinegunDerrick_59
+  - first:
+      213: 9040043468822694373
+    second: MachinegunDerrick_60
+  - first:
+      213: -6737418932524327774
+    second: MachinegunDerrick_61
+  - first:
+      213: 5436446183423865784
+    second: MachinegunDerrick_62
+  - first:
+      213: 427618459293718571
+    second: MachinegunDerrick_63
+  - first:
+      213: 8244267867373296891
+    second: MachinegunDerrick_64
+  - first:
+      213: 3533744180413700167
+    second: MachinegunDerrick_65
+  - first:
+      213: -4233461684809987877
+    second: MachinegunDerrick_66
+  - first:
+      213: -916082865832822433
+    second: MachinegunDerrick_67
+  - first:
+      213: 9196969692871837354
+    second: MachinegunDerrick_68
+  - first:
+      213: 8040824196296976403
+    second: MachinegunDerrick_69
+  - first:
+      213: 5412784695468036970
+    second: MachinegunDerrick_70
+  - first:
+      213: -2224090359662282499
+    second: MachinegunDerrick_71
+  - first:
+      213: -8176652962711785537
+    second: MachinegunDerrick_72
+  - first:
+      213: -6896960650680445160
+    second: MachinegunDerrick_73
+  - first:
+      213: -5168787199811513449
+    second: MachinegunDerrick_74
+  - first:
+      213: -5698190503665047608
+    second: MachinegunDerrick_75
+  - first:
+      213: -2342798750346014900
+    second: MachinegunDerrick_76
+  - first:
+      213: -5370156390130626880
+    second: MachinegunDerrick_77
+  - first:
+      213: 2534680356717192099
+    second: MachinegunDerrick_78
+  - first:
+      213: 1556336624511015518
+    second: MachinegunDerrick_79
+  - first:
+      213: 370015096611730452
+    second: MachinegunDerrick_80
+  - first:
+      213: 8871252205992390347
+    second: MachinegunDerrick_81
+  - first:
+      213: -1043985772882500972
+    second: MachinegunDerrick_82
+  - first:
+      213: -9108354829547459811
+    second: MachinegunDerrick_83
+  - first:
+      213: 7245591172856320496
+    second: MachinegunDerrick_84
+  - first:
+      213: -2249126945776030785
+    second: MachinegunDerrick_85
+  - first:
+      213: 1567538728647126078
+    second: MachinegunDerrick_86
+  - first:
+      213: -1985235178314426662
+    second: MachinegunDerrick_87
+  - first:
+      213: -1226797528006743344
+    second: MachinegunDerrick_88
+  - first:
+      213: 1002988494553351312
+    second: MachinegunDerrick_89
+  - first:
+      213: -2978904207461199780
+    second: MachinegunDerrick_90
+  - first:
+      213: -6949401125140036161
+    second: MachinegunDerrick_91
+  - first:
+      213: 2734341699104050604
+    second: MachinegunDerrick_92
+  - first:
+      213: -7153824502430674652
+    second: MachinegunDerrick_93
+  - first:
+      213: -2958788755720694004
+    second: MachinegunDerrick_94
+  - first:
+      213: -5181215973789794779
+    second: MachinegunDerrick_95
+  - first:
+      213: 7916791563485658184
+    second: MachinegunDerrick_96
+  - first:
+      213: 7700827470508952613
+    second: MachinegunDerrick_97
+  - first:
+      213: 6232334515297368826
+    second: MachinegunDerrick_98
+  - first:
+      213: 8695496464468405212
+    second: MachinegunDerrick_99
+  - first:
+      213: 2139316700790800839
+    second: MachinegunDerrick_100
+  - first:
+      213: 997257472259840825
+    second: MachinegunDerrick_101
+  - first:
+      213: -3940664422376105480
+    second: MachinegunDerrick_102
+  - first:
+      213: -8484841020918714573
+    second: MachinegunDerrick_103
+  - first:
+      213: 4560439575636326036
+    second: MachinegunDerrick_104
+  - first:
+      213: -8463283406866182714
+    second: MachinegunDerrick_105
+  - first:
+      213: 5203792247723308466
+    second: MachinegunDerrick_106
+  - first:
+      213: -7408364908606434558
+    second: MachinegunDerrick_107
+  - first:
+      213: 8511966127147624770
+    second: MachinegunDerrick_108
+  - first:
+      213: 4194119750282313668
+    second: MachinegunDerrick_109
+  - first:
+      213: 7824293679816023796
+    second: MachinegunDerrick_110
+  - first:
+      213: 5186958747607272787
+    second: MachinegunDerrick_111
+  - first:
+      213: 2236328632173034506
+    second: MachinegunDerrick_112
+  - first:
+      213: 2243363092415615779
+    second: MachinegunDerrick_113
+  - first:
+      213: 2176336029733323478
+    second: MachinegunDerrick_114
+  - first:
+      213: 833390299387466905
+    second: MachinegunDerrick_115
+  - first:
+      213: -1998308552495865071
+    second: MachinegunDerrick_116
+  - first:
+      213: -5865320597470166927
+    second: MachinegunDerrick_117
+  - first:
+      213: -8866061092100678609
+    second: MachinegunDerrick_118
+  - first:
+      213: -2419974471492665607
+    second: MachinegunDerrick_119
+  - first:
+      213: 4126975255538284191
+    second: MachinegunDerrick_120
+  - first:
+      213: -8263347665316587243
+    second: MachinegunDerrick_121
+  - first:
+      213: -6256835493747969204
+    second: MachinegunDerrick_122
+  - first:
+      213: 7655408576802617969
+    second: MachinegunDerrick_123
+  - first:
+      213: -8297742382866065479
+    second: MachinegunDerrick_124
+  - first:
+      213: 7931339332787036787
+    second: MachinegunDerrick_125
+  - first:
+      213: 3943151648240560433
+    second: MachinegunDerrick_126
+  - first:
+      213: -186697124773157324
+    second: MachinegunDerrick_127
+  - first:
+      213: -3533655857045290535
+    second: MachinegunDerrick_128
+  - first:
+      213: -118165801669706733
+    second: MachinegunDerrick_129
+  - first:
+      213: 5917492863151552743
+    second: MachinegunDerrick_130
+  - first:
+      213: -8285534569120432550
+    second: MachinegunDerrick_131
+  - first:
+      213: -8932109813239558644
+    second: MachinegunDerrick_132
+  - first:
+      213: 6673662252754004013
+    second: MachinegunDerrick_133
+  - first:
+      213: 6849651191790505227
+    second: MachinegunDerrick_134
+  - first:
+      213: 345446557652639022
+    second: MachinegunDerrick_135
+  - first:
+      213: 3152686364392843976
+    second: MachinegunDerrick_136
+  - first:
+      213: 187146440786286710
+    second: MachinegunDerrick_137
+  - first:
+      213: -2999552961910107548
+    second: MachinegunDerrick_138
+  - first:
+      213: 7282758216585531050
+    second: MachinegunDerrick_139
+  - first:
+      213: -3506306868479821855
+    second: MachinegunDerrick_140
+  - first:
+      213: 5326538908386392199
+    second: MachinegunDerrick_141
+  - first:
+      213: 1008268674850563986
+    second: MachinegunDerrick_142
+  - first:
+      213: 6752486698499835195
+    second: MachinegunDerrick_143
+  - first:
+      213: 3110437730688669870
+    second: MachinegunDerrick_144
+  - first:
+      213: -8626151925946008399
+    second: MachinegunDerrick_145
+  - first:
+      213: 6112478432024024690
+    second: MachinegunDerrick_146
+  - first:
+      213: 8537732441680646633
+    second: MachinegunDerrick_147
+  - first:
+      213: -5242799357336054179
+    second: MachinegunDerrick_148
+  - first:
+      213: 8972456393696268108
+    second: MachinegunDerrick_149
+  - first:
+      213: -8332094751408043906
+    second: MachinegunDerrick_150
+  - first:
+      213: -9113333699756188212
+    second: MachinegunDerrick_151
+  - first:
+      213: -911707639445664976
+    second: MachinegunDerrick_152
+  - first:
+      213: -5783788367130942807
+    second: MachinegunDerrick_153
+  - first:
+      213: 8981609301388719800
+    second: MachinegunDerrick_154
+  - first:
+      213: -7156199761247202576
+    second: MachinegunDerrick_155
+  - first:
+      213: 7581140083510663302
+    second: MachinegunDerrick_156
+  - first:
+      213: 3503613815955277525
+    second: MachinegunDerrick_157
+  - first:
+      213: 5001318432201546013
+    second: MachinegunDerrick_158
+  - first:
+      213: 7861101300596291464
+    second: MachinegunDerrick_159
+  - first:
+      213: 3107531258261864058
+    second: MachinegunDerrick_160
+  - first:
+      213: -4391322914768445672
+    second: MachinegunDerrick_161
+  - first:
+      213: -3602569569298797803
+    second: MachinegunDerrick_162
+  - first:
+      213: 3801622633459617719
+    second: MachinegunDerrick_163
+  - first:
+      213: 1390267931946245794
+    second: MachinegunDerrick_164
+  - first:
+      213: 1071289818644740423
+    second: MachinegunDerrick_165
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MachinegunDerrick_0
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 4379
+        width: 347
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61d8baeed3074360800000000000000
+      internalID: 7153690789056926063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_1
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 4384
+        width: 349
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c232a58694b1f00800000000000000
+      internalID: 1088544447477787685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_2
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 4370
+        width: 318
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3812174c330737a30800000000000000
+      internalID: 4211833444162937219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_3
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 4368
+        width: 327
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f722fe91e3e55340800000000000000
+      internalID: 4852034731735394295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_4
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 4370
+        width: 360
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809694c704a28eff0800000000000000
+      internalID: -6708942989596408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_5
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 4360
+        width: 371
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7941c054983228230800000000000000
+      internalID: 3639510521344693399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_6
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 4367
+        width: 361
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d1dd236310ae570800000000000000
+      internalID: 8496604979281075600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_7
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 4373
+        width: 444
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa663fdefffe8e4c0800000000000000
+      internalID: -4257889565190953297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_8
+      rect:
+        serializedVersion: 2
+        x: 4903
+        y: 4378
+        width: 480
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba80ab0d647820d0800000000000000
+      internalID: -3447377503056786758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_9
+      rect:
+        serializedVersion: 2
+        x: 7528
+        y: 4397
+        width: 362
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fa47479bcb8dd30800000000000000
+      internalID: 4456519335991881538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_10
+      rect:
+        serializedVersion: 2
+        x: 8077
+        y: 4384
+        width: 388
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5416bc26a0a318bf0800000000000000
+      internalID: -323913881912385211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_11
+      rect:
+        serializedVersion: 2
+        x: 8716
+        y: 4348
+        width: 386
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed086b7e10726f9a0800000000000000
+      internalID: -6199724947892961058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_12
+      rect:
+        serializedVersion: 2
+        x: 9253
+        y: 4368
+        width: 376
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0568b9b2d0d5ef330800000000000000
+      internalID: 3746534251166402128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_13
+      rect:
+        serializedVersion: 2
+        x: 9780
+        y: 4377
+        width: 330
+        height: 815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3e1b7821650d820800000000000000
+      internalID: 2940945194258916325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_14
+      rect:
+        serializedVersion: 2
+        x: 10386
+        y: 4386
+        width: 336
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29b376728719e1a0800000000000000
+      internalID: -6779861914929088209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_15
+      rect:
+        serializedVersion: 2
+        x: 10933
+        y: 4382
+        width: 406
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a843d84609eb10740800000000000000
+      internalID: 5116580179041137802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_16
+      rect:
+        serializedVersion: 2
+        x: 11478
+        y: 4376
+        width: 445
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f7c4f3f3e68ab30800000000000000
+      internalID: 4298807062249111394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_17
+      rect:
+        serializedVersion: 2
+        x: 12007
+        y: 4372
+        width: 468
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6fd3c745bf8030800000000000000
+      internalID: 3499214755323669822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_18
+      rect:
+        serializedVersion: 2
+        x: 12592
+        y: 4369
+        width: 417
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3537d6dafedb2130800000000000000
+      internalID: 3543170700784645436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_19
+      rect:
+        serializedVersion: 2
+        x: 13191
+        y: 4368
+        width: 353
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eef4b5112915b70800000000000000
+      internalID: 8886044143022763556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_20
+      rect:
+        serializedVersion: 2
+        x: 13729
+        y: 4368
+        width: 308
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d329ae044caea0680800000000000000
+      internalID: -8787953594236497347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_21
+      rect:
+        serializedVersion: 2
+        x: 14203
+        y: 4385
+        width: 343
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f453b0f79d36e90800000000000000
+      internalID: -7033539053350465754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_22
+      rect:
+        serializedVersion: 2
+        x: 14566
+        y: 4964
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9d4edad6b302810800000000000000
+      internalID: 1738454798419941797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_23
+      rect:
+        serializedVersion: 2
+        x: 14715
+        y: 4357
+        width: 479
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4a76a388dc332b0800000000000000
+      internalID: -5605911126167018307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_24
+      rect:
+        serializedVersion: 2
+        x: 15418
+        y: 4366
+        width: 410
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dede6dd62c836c0800000000000000
+      internalID: -4163364078490882709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_25
+      rect:
+        serializedVersion: 2
+        x: 10120
+        y: 4952
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef46299f8647d4cb0800000000000000
+      internalID: -4878114827159837442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_26
+      rect:
+        serializedVersion: 2
+        x: 14047
+        y: 4946
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b240f74b9d7e510800000000000000
+      internalID: 1578469563664968480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_27
+      rect:
+        serializedVersion: 2
+        x: 10735
+        y: 4930
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1aa7f5dbb32a0a0800000000000000
+      internalID: -6871864396877225501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_28
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 4843
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a010d9dacc4c11910800000000000000
+      internalID: 1806441308917399818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_29
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 4850
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deef50855537f9f0800000000000000
+      internalID: -434820197675700527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_30
+      rect:
+        serializedVersion: 2
+        x: 5428
+        y: 3290
+        width: 368
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a3a4c33745c64a0800000000000000
+      internalID: -6598806500095149429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_31
+      rect:
+        serializedVersion: 2
+        x: 6034
+        y: 3288
+        width: 307
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492eed075eb380d00800000000000000
+      internalID: 939066378933953172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_32
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 3292
+        width: 351
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b6471af3bb5e8b0800000000000000
+      internalID: -5123483119097975937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_33
+      rect:
+        serializedVersion: 2
+        x: 7211
+        y: 3287
+        width: 372
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf12dadd594d7970800000000000000
+      internalID: 8754233918130102191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_34
+      rect:
+        serializedVersion: 2
+        x: 8805
+        y: 3295
+        width: 375
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab717e5f96ec08040800000000000000
+      internalID: 4647941769938802618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_35
+      rect:
+        serializedVersion: 2
+        x: 9326
+        y: 3279
+        width: 370
+        height: 777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45524d285bb28020800000000000000
+      internalID: 2342640743576917324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_36
+      rect:
+        serializedVersion: 2
+        x: 9792
+        y: 3293
+        width: 344
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5ac000f1ce790a0800000000000000
+      internalID: -6874766688268802568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_37
+      rect:
+        serializedVersion: 2
+        x: 10349
+        y: 3285
+        width: 367
+        height: 777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedc7589660978480800000000000000
+      internalID: -8896983768530170389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_38
+      rect:
+        serializedVersion: 2
+        x: 10870
+        y: 3305
+        width: 371
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa10520a9ada60450800000000000000
+      internalID: 6054717693094068655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_39
+      rect:
+        serializedVersion: 2
+        x: 11429
+        y: 3321
+        width: 374
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38efba6bcdfdf6c0800000000000000
+      internalID: -4107848234980874179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_40
+      rect:
+        serializedVersion: 2
+        x: 11972
+        y: 3303
+        width: 368
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1587dd3832c84e750800000000000000
+      internalID: 6333341060153833553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_41
+      rect:
+        serializedVersion: 2
+        x: 12560
+        y: 3279
+        width: 330
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d7d16a25ea95e80800000000000000
+      internalID: -8189322777399034481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_42
+      rect:
+        serializedVersion: 2
+        x: 12889
+        y: 3874
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f36a0d56189b7ef0800000000000000
+      internalID: -109326544122780681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_43
+      rect:
+        serializedVersion: 2
+        x: 13068
+        y: 3282
+        width: 369
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d571993e2014dc0800000000000000
+      internalID: -3656638245898855094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_44
+      rect:
+        serializedVersion: 2
+        x: 13885
+        y: 3270
+        width: 457
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6589e07f49c40420800000000000000
+      internalID: 2595420628306199919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_45
+      rect:
+        serializedVersion: 2
+        x: 14488
+        y: 3269
+        width: 398
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26465ab2d6056090800000000000000
+      internalID: -8042014057461037524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_46
+      rect:
+        serializedVersion: 2
+        x: 15031
+        y: 3281
+        width: 481
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f28f3eb5a41b4a0800000000000000
+      internalID: -6579395822084411536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_47
+      rect:
+        serializedVersion: 2
+        x: 15594
+        y: 3280
+        width: 412
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6987e3caf46a3a0800000000000000
+      internalID: -6654543798192269651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_48
+      rect:
+        serializedVersion: 2
+        x: 16208
+        y: 3307
+        width: 366
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba19a0169a42b070800000000000000
+      internalID: 8120635086487493301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_49
+      rect:
+        serializedVersion: 2
+        x: 16761
+        y: 3299
+        width: 299
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23559fb8450688d0800000000000000
+      internalID: -2844580304627870929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_50
+      rect:
+        serializedVersion: 2
+        x: 17311
+        y: 3299
+        width: 302
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcb47a324db38ae0800000000000000
+      internalID: -1548185754739098447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_51
+      rect:
+        serializedVersion: 2
+        x: 17853
+        y: 3299
+        width: 304
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f614dc202fbf57c0800000000000000
+      internalID: -4080332592462424335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_52
+      rect:
+        serializedVersion: 2
+        x: 18420
+        y: 3307
+        width: 307
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5449a7d98152d830800000000000000
+      internalID: 4094424663703766106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_53
+      rect:
+        serializedVersion: 2
+        x: 14885
+        y: 3790
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cc911060f76abe0800000000000000
+      internalID: -1466344964897518549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_54
+      rect:
+        serializedVersion: 2
+        x: 10136
+        y: 3767
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97658f47a9bfb1d80800000000000000
+      internalID: -8278746849184557447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2165
+        width: 287
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396ac728435d72340800000000000000
+      internalID: 4839070746137110163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_56
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2155
+        width: 289
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b785e1c791bebdc0800000000000000
+      internalID: -3621261785008076879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_57
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2160
+        width: 393
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cabde87ebe01a90800000000000000
+      internalID: -7345111612474545094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_58
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 2166
+        width: 385
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d43bb5493eabb60800000000000000
+      internalID: 7762767134059613445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_59
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 2165
+        width: 343
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecbda1ff80a0afe0800000000000000
+      internalID: -1179766562275607318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_60
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 2163
+        width: 385
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9444183afa47d70800000000000000
+      internalID: 9040043468822694373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_61
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2162
+        width: 372
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac55ef5d21ef72a0800000000000000
+      internalID: -6737418932524327774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_62
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 2191
+        width: 385
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3f1831003227b40800000000000000
+      internalID: 5436446183423865784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_63
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 2192
+        width: 406
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b281a9d19b43fe500800000000000000
+      internalID: 427618459293718571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_64
+      rect:
+        serializedVersion: 2
+        x: 8854
+        y: 2192
+        width: 385
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcd3f302f5896270800000000000000
+      internalID: 8244267867373296891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_65
+      rect:
+        serializedVersion: 2
+        x: 9583
+        y: 2197
+        width: 383
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74899a80c916a0130800000000000000
+      internalID: 3533744180413700167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_66
+      rect:
+        serializedVersion: 2
+        x: 10055
+        y: 2195
+        width: 404
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd88caa0709bf35c0800000000000000
+      internalID: -4233461684809987877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_67
+      rect:
+        serializedVersion: 2
+        x: 10632
+        y: 2196
+        width: 418
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f597635bc7b6943f0800000000000000
+      internalID: -916082865832822433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_68
+      rect:
+        serializedVersion: 2
+        x: 11134
+        y: 2445
+        width: 366
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6c8a1453332af70800000000000000
+      internalID: 9196969692871837354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_69
+      rect:
+        serializedVersion: 2
+        x: 11501
+        y: 2839
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318a5a1210fb69f60800000000000000
+      internalID: 8040824196296976403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_70
+      rect:
+        serializedVersion: 2
+        x: 11656
+        y: 2491
+        width: 376
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a631b0b90031e1b40800000000000000
+      internalID: 5412784695468036970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_71
+      rect:
+        serializedVersion: 2
+        x: 12215
+        y: 2203
+        width: 360
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df875f30a917221e0800000000000000
+      internalID: -2224090359662282499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_72
+      rect:
+        serializedVersion: 2
+        x: 12797
+        y: 2164
+        width: 375
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf2be1c371b68e80800000000000000
+      internalID: -8176652962711785537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_73
+      rect:
+        serializedVersion: 2
+        x: 13408
+        y: 2163
+        width: 394
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817585274d21940a0800000000000000
+      internalID: -6896960650680445160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_74
+      rect:
+        serializedVersion: 2
+        x: 14220
+        y: 2179
+        width: 378
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79316ab5d67c448b0800000000000000
+      internalID: -5168787199811513449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_75
+      rect:
+        serializedVersion: 2
+        x: 14769
+        y: 2178
+        width: 348
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c76a8e5de5fbe0b0800000000000000
+      internalID: -5698190503665047608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_76
+      rect:
+        serializedVersion: 2
+        x: 15272
+        y: 2177
+        width: 513
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f856103f4bc7fd0800000000000000
+      internalID: -2342798750346014900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_77
+      rect:
+        serializedVersion: 2
+        x: 15832
+        y: 2175
+        width: 550
+        height: 906
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce48f9273f5975b0800000000000000
+      internalID: -5370156390130626880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_78
+      rect:
+        serializedVersion: 2
+        x: 16432
+        y: 2177
+        width: 503
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3e949ea5efc2320800000000000000
+      internalID: 2534680356717192099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_79
+      rect:
+        serializedVersion: 2
+        x: 16990
+        y: 2162
+        width: 465
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ad8e60ae7399510800000000000000
+      internalID: 1556336624511015518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_80
+      rect:
+        serializedVersion: 2
+        x: 17550
+        y: 2163
+        width: 477
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414f21b15ce822500800000000000000
+      internalID: 370015096611730452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_81
+      rect:
+        serializedVersion: 2
+        x: 18104
+        y: 2163
+        width: 469
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcea31321e40d1b70800000000000000
+      internalID: 8871252205992390347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_82
+      rect:
+        serializedVersion: 2
+        x: 18632
+        y: 2162
+        width: 418
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492e6c888740381f0800000000000000
+      internalID: -1043985772882500972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_83
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 2184
+        width: 367
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b2c986a8f989180800000000000000
+      internalID: -9108354829547459811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_84
+      rect:
+        serializedVersion: 2
+        x: 4951
+        y: 2544
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f19ecd68c28d8460800000000000000
+      internalID: 7245591172856320496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_85
+      rect:
+        serializedVersion: 2
+        x: 5122
+        y: 2184
+        width: 394
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbba24e85fe79c0e0800000000000000
+      internalID: -2249126945776030785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_86
+      rect:
+        serializedVersion: 2
+        x: 5656
+        y: 2198
+        width: 348
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ceda42b2401c510800000000000000
+      internalID: 1567538728647126078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_87
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2189
+        width: 383
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad695f0af170374e0800000000000000
+      internalID: -1985235178314426662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_88
+      rect:
+        serializedVersion: 2
+        x: 6691
+        y: 2194
+        width: 383
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daa4dbe52a89fee0800000000000000
+      internalID: -1226797528006743344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_89
+      rect:
+        serializedVersion: 2
+        x: 7219
+        y: 2192
+        width: 390
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09408a3c8b45bed00800000000000000
+      internalID: 1002988494553351312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_90
+      rect:
+        serializedVersion: 2
+        x: 7776
+        y: 2194
+        width: 377
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50db5ef76ec8a6d0800000000000000
+      internalID: -2978904207461199780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_91
+      rect:
+        serializedVersion: 2
+        x: 8332
+        y: 2191
+        width: 371
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb504560f74ce8f90800000000000000
+      internalID: -6949401125140036161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_92
+      rect:
+        serializedVersion: 2
+        x: 6005
+        y: 2517
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad82a5c94552f520800000000000000
+      internalID: 2734341699104050604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_93
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 2151
+        width: 74
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4215223848288bc90800000000000000
+      internalID: -7153824502430674652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1118
+        width: 396
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0719d19d4540f6d0800000000000000
+      internalID: -2958788755720694004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_95
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1109
+        width: 337
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52efda9e58f9818b0800000000000000
+      internalID: -5181215973789794779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_96
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1108
+        width: 344
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c3f566bf71edd60800000000000000
+      internalID: 7916791563485658184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_97
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1135
+        width: 334
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c8140a8c5deda60800000000000000
+      internalID: 7700827470508952613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_98
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1136
+        width: 518
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afab4b9a833bd7650800000000000000
+      internalID: 6232334515297368826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_99
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 1116
+        width: 400
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbed46b6fb9ca870800000000000000
+      internalID: 8695496464468405212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_100
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 1118
+        width: 498
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c142bc643160bd10800000000000000
+      internalID: 2139316700790800839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_101
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 1124
+        width: 483
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bd6a72368f6dd00800000000000000
+      internalID: 997257472259840825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_102
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 1146
+        width: 401
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9904d1692ff49c0800000000000000
+      internalID: -3940664422376105480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_103
+      rect:
+        serializedVersion: 2
+        x: 4973
+        y: 1137
+        width: 346
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f2a7ccb0acf3a80800000000000000
+      internalID: -8484841020918714573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_104
+      rect:
+        serializedVersion: 2
+        x: 5456
+        y: 1128
+        width: 342
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496bf6db1afe94f30800000000000000
+      internalID: 4560439575636326036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_105
+      rect:
+        serializedVersion: 2
+        x: 5800
+        y: 1532
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd8844f4906c8a80800000000000000
+      internalID: -8463283406866182714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_106
+      rect:
+        serializedVersion: 2
+        x: 5985
+        y: 1135
+        width: 289
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5ba7a7a75973840800000000000000
+      internalID: 5203792247723308466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_107
+      rect:
+        serializedVersion: 2
+        x: 6472
+        y: 1135
+        width: 331
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2035b08ed53303990800000000000000
+      internalID: -7408364908606434558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_108
+      rect:
+        serializedVersion: 2
+        x: 7027
+        y: 1138
+        width: 377
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249aac42814902670800000000000000
+      internalID: 8511966127147624770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_109
+      rect:
+        serializedVersion: 2
+        x: 7575
+        y: 1140
+        width: 377
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cff60501b1843a30800000000000000
+      internalID: 4194119750282313668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_110
+      rect:
+        serializedVersion: 2
+        x: 8149
+        y: 1149
+        width: 370
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe94cb95a9759c60800000000000000
+      internalID: 7824293679816023796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_111
+      rect:
+        serializedVersion: 2
+        x: 8814
+        y: 1148
+        width: 269
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d8cbfcf77cbf740800000000000000
+      internalID: 5186958747607272787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_112
+      rect:
+        serializedVersion: 2
+        x: 9352
+        y: 1117
+        width: 392
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c75b9da09090f10800000000000000
+      internalID: 2236328632173034506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_113
+      rect:
+        serializedVersion: 2
+        x: 9913
+        y: 1124
+        width: 389
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32397a1c8d6022f10800000000000000
+      internalID: 2243363092415615779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_114
+      rect:
+        serializedVersion: 2
+        x: 10442
+        y: 1128
+        width: 372
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2832c9616e33e10800000000000000
+      internalID: 2176336029733323478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_115
+      rect:
+        serializedVersion: 2
+        x: 10944
+        y: 1132
+        width: 325
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9941f32df0cc09b00800000000000000
+      internalID: 833390299387466905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_116
+      rect:
+        serializedVersion: 2
+        x: 11421
+        y: 1135
+        width: 329
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113ebd085f49444e0800000000000000
+      internalID: -1998308552495865071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_117
+      rect:
+        serializedVersion: 2
+        x: 11985
+        y: 1134
+        width: 341
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170420e0ef13a9ea0800000000000000
+      internalID: -5865320597470166927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_118
+      rect:
+        serializedVersion: 2
+        x: 12942
+        y: 1152
+        width: 360
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c5d60496c65f480800000000000000
+      internalID: -8866061092100678609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_119
+      rect:
+        serializedVersion: 2
+        x: 13483
+        y: 1161
+        width: 363
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe7a2d2a068a6ed0800000000000000
+      internalID: -2419974471492665607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_120
+      rect:
+        serializedVersion: 2
+        x: 14105
+        y: 1156
+        width: 360
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96bf271126f54930800000000000000
+      internalID: 4126975255538284191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_121
+      rect:
+        serializedVersion: 2
+        x: 14770
+        y: 1165
+        width: 396
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51950495411b25d80800000000000000
+      internalID: -8263347665316587243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_122
+      rect:
+        serializedVersion: 2
+        x: 15412
+        y: 1164
+        width: 564
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43b811c4414b29a0800000000000000
+      internalID: -6256835493747969204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_123
+      rect:
+        serializedVersion: 2
+        x: 16095
+        y: 1164
+        width: 545
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a7cce5a897d3a60800000000000000
+      internalID: 7655408576802617969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_124
+      rect:
+        serializedVersion: 2
+        x: 16791
+        y: 1159
+        width: 516
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7909f144f78dc80800000000000000
+      internalID: -8297742382866065479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_125
+      rect:
+        serializedVersion: 2
+        x: 17459
+        y: 1158
+        width: 402
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372ead3e917c11e60800000000000000
+      internalID: 7931339332787036787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_126
+      rect:
+        serializedVersion: 2
+        x: 18103
+        y: 1174
+        width: 365
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139efd84883e8b630800000000000000
+      internalID: 3943151648240560433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_127
+      rect:
+        serializedVersion: 2
+        x: 18667
+        y: 1158
+        width: 381
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4362f4544f7b86df0800000000000000
+      internalID: -186697124773157324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_128
+      rect:
+        serializedVersion: 2
+        x: 6281
+        y: 1484
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1465a58bee5fec0800000000000000
+      internalID: -3533655857045290535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_129
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1394
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb0e654d03c5ef0800000000000000
+      internalID: -118165801669706733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_130
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1365
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8be0528682f1250800000000000000
+      internalID: 5917492863151552743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_131
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 114
+        width: 354
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e7b51453ed30d80800000000000000
+      internalID: -8285534569120432550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_132
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 116
+        width: 378
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e431ff275ca0480800000000000000
+      internalID: -8932109813239558644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_133
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 116
+        width: 376
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28e556d57c9d9c50800000000000000
+      internalID: 6673662252754004013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_134
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 116
+        width: 383
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d010ac779de0f50800000000000000
+      internalID: 6849651191790505227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_135
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 115
+        width: 347
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d54cd50d54bc400800000000000000
+      internalID: 345446557652639022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_136
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 116
+        width: 357
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca6ad57b8790cb20800000000000000
+      internalID: 3152686364392843976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_137
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 928
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6789b0442b0e89200800000000000000
+      internalID: 187146440786286710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_138
+      rect:
+        serializedVersion: 2
+        x: 10998
+        y: 101
+        width: 415
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462906439727f56d0800000000000000
+      internalID: -2999552961910107548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_139
+      rect:
+        serializedVersion: 2
+        x: 11913
+        y: 102
+        width: 427
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae43a4230e811560800000000000000
+      internalID: 7282758216585531050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_140
+      rect:
+        serializedVersion: 2
+        x: 12512
+        y: 96
+        width: 447
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e77fb6fa78175fc0800000000000000
+      internalID: -3506306868479821855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_141
+      rect:
+        serializedVersion: 2
+        x: 13154
+        y: 146
+        width: 362
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788faac7aeaabe940800000000000000
+      internalID: 5326538908386392199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_142
+      rect:
+        serializedVersion: 2
+        x: 17025
+        y: 142
+        width: 330
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2972f9a84071efd00800000000000000
+      internalID: 1008268674850563986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_143
+      rect:
+        serializedVersion: 2
+        x: 17619
+        y: 145
+        width: 382
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3502a640e6a5bd50800000000000000
+      internalID: 6752486698499835195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_144
+      rect:
+        serializedVersion: 2
+        x: 18143
+        y: 105
+        width: 429
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea89ba1e2ae7a2b20800000000000000
+      internalID: 3110437730688669870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_145
+      rect:
+        serializedVersion: 2
+        x: 18713
+        y: 107
+        width: 340
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcbf63d680c94880800000000000000
+      internalID: -8626151925946008399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_146
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 117
+        width: 349
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2765706afb2e3d450800000000000000
+      internalID: 6112478432024024690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_147
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 116
+        width: 342
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e114bdbb6e1c7670800000000000000
+      internalID: 8537732441680646633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_148
+      rect:
+        serializedVersion: 2
+        x: 9154
+        y: 115
+        width: 468
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56965513c5dd37b0800000000000000
+      internalID: -5242799357336054179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_149
+      rect:
+        serializedVersion: 2
+        x: 9754
+        y: 108
+        width: 459
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fc2fc4d81948c70800000000000000
+      internalID: 8972456393696268108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_150
+      rect:
+        serializedVersion: 2
+        x: 10335
+        y: 107
+        width: 433
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e784d6b08f37e5c80800000000000000
+      internalID: -8332094751408043906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_151
+      rect:
+        serializedVersion: 2
+        x: 13724
+        y: 143
+        width: 411
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd9f6ad84fe68180800000000000000
+      internalID: -9113333699756188212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_152
+      rect:
+        serializedVersion: 2
+        x: 14353
+        y: 145
+        width: 516
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bc4db7bb6f853f0800000000000000
+      internalID: -911707639445664976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_153
+      rect:
+        serializedVersion: 2
+        x: 15110
+        y: 146
+        width: 489
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2af19bf1bdbbfa0800000000000000
+      internalID: -5783788367130942807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_154
+      rect:
+        serializedVersion: 2
+        x: 15811
+        y: 143
+        width: 459
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b67e90b21615ac70800000000000000
+      internalID: 8981609301388719800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_155
+      rect:
+        serializedVersion: 2
+        x: 16417
+        y: 142
+        width: 301
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f210297b3210bc90800000000000000
+      internalID: -7156199761247202576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_156
+      rect:
+        serializedVersion: 2
+        x: 16715
+        y: 799
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688d0264dbe953960800000000000000
+      internalID: 7581140083510663302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_157
+      rect:
+        serializedVersion: 2
+        x: 4763
+        y: 122
+        width: 380
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d64a22e3365f9030800000000000000
+      internalID: 3503613815955277525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_158
+      rect:
+        serializedVersion: 2
+        x: 8539
+        y: 116
+        width: 453
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d199cffad90486540800000000000000
+      internalID: 5001318432201546013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_159
+      rect:
+        serializedVersion: 2
+        x: 18000
+        y: 763
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8873765abfd381d60800000000000000
+      internalID: 7861101300596291464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_160
+      rect:
+        serializedVersion: 2
+        x: 5313
+        y: 121
+        width: 413
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7efe19073b202b20800000000000000
+      internalID: 3107531258261864058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_161
+      rect:
+        serializedVersion: 2
+        x: 7389
+        y: 118
+        width: 452
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f91334313ee03c0800000000000000
+      internalID: -4391322914768445672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_162
+      rect:
+        serializedVersion: 2
+        x: 7987
+        y: 113
+        width: 421
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b205f501a110ec0800000000000000
+      internalID: -3602569569298797803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_163
+      rect:
+        serializedVersion: 2
+        x: 19058
+        y: 584
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf027da4a312c430800000000000000
+      internalID: 3801622633459617719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_164
+      rect:
+        serializedVersion: 2
+        x: 8833
+        y: 109
+        width: 65
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aed54271593b4310800000000000000
+      internalID: 1390267931946245794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachinegunDerrick_165
+      rect:
+        serializedVersion: 2
+        x: 11930
+        y: 87
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749ffc30a6cfdde00800000000000000
+      internalID: 1071289818644740423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MachinegunDerrick_0: 7153690789056926063
+      MachinegunDerrick_1: 1088544447477787685
+      MachinegunDerrick_10: -323913881912385211
+      MachinegunDerrick_100: 2139316700790800839
+      MachinegunDerrick_101: 997257472259840825
+      MachinegunDerrick_102: -3940664422376105480
+      MachinegunDerrick_103: -8484841020918714573
+      MachinegunDerrick_104: 4560439575636326036
+      MachinegunDerrick_105: -8463283406866182714
+      MachinegunDerrick_106: 5203792247723308466
+      MachinegunDerrick_107: -7408364908606434558
+      MachinegunDerrick_108: 8511966127147624770
+      MachinegunDerrick_109: 4194119750282313668
+      MachinegunDerrick_11: -6199724947892961058
+      MachinegunDerrick_110: 7824293679816023796
+      MachinegunDerrick_111: 5186958747607272787
+      MachinegunDerrick_112: 2236328632173034506
+      MachinegunDerrick_113: 2243363092415615779
+      MachinegunDerrick_114: 2176336029733323478
+      MachinegunDerrick_115: 833390299387466905
+      MachinegunDerrick_116: -1998308552495865071
+      MachinegunDerrick_117: -5865320597470166927
+      MachinegunDerrick_118: -8866061092100678609
+      MachinegunDerrick_119: -2419974471492665607
+      MachinegunDerrick_12: 3746534251166402128
+      MachinegunDerrick_120: 4126975255538284191
+      MachinegunDerrick_121: -8263347665316587243
+      MachinegunDerrick_122: -6256835493747969204
+      MachinegunDerrick_123: 7655408576802617969
+      MachinegunDerrick_124: -8297742382866065479
+      MachinegunDerrick_125: 7931339332787036787
+      MachinegunDerrick_126: 3943151648240560433
+      MachinegunDerrick_127: -186697124773157324
+      MachinegunDerrick_128: -3533655857045290535
+      MachinegunDerrick_129: -118165801669706733
+      MachinegunDerrick_13: 2940945194258916325
+      MachinegunDerrick_130: 5917492863151552743
+      MachinegunDerrick_131: -8285534569120432550
+      MachinegunDerrick_132: -8932109813239558644
+      MachinegunDerrick_133: 6673662252754004013
+      MachinegunDerrick_134: 6849651191790505227
+      MachinegunDerrick_135: 345446557652639022
+      MachinegunDerrick_136: 3152686364392843976
+      MachinegunDerrick_137: 187146440786286710
+      MachinegunDerrick_138: -2999552961910107548
+      MachinegunDerrick_139: 7282758216585531050
+      MachinegunDerrick_14: -6779861914929088209
+      MachinegunDerrick_140: -3506306868479821855
+      MachinegunDerrick_141: 5326538908386392199
+      MachinegunDerrick_142: 1008268674850563986
+      MachinegunDerrick_143: 6752486698499835195
+      MachinegunDerrick_144: 3110437730688669870
+      MachinegunDerrick_145: -8626151925946008399
+      MachinegunDerrick_146: 6112478432024024690
+      MachinegunDerrick_147: 8537732441680646633
+      MachinegunDerrick_148: -5242799357336054179
+      MachinegunDerrick_149: 8972456393696268108
+      MachinegunDerrick_15: 5116580179041137802
+      MachinegunDerrick_150: -8332094751408043906
+      MachinegunDerrick_151: -9113333699756188212
+      MachinegunDerrick_152: -911707639445664976
+      MachinegunDerrick_153: -5783788367130942807
+      MachinegunDerrick_154: 8981609301388719800
+      MachinegunDerrick_155: -7156199761247202576
+      MachinegunDerrick_156: 7581140083510663302
+      MachinegunDerrick_157: 3503613815955277525
+      MachinegunDerrick_158: 5001318432201546013
+      MachinegunDerrick_159: 7861101300596291464
+      MachinegunDerrick_16: 4298807062249111394
+      MachinegunDerrick_160: 3107531258261864058
+      MachinegunDerrick_161: -4391322914768445672
+      MachinegunDerrick_162: -3602569569298797803
+      MachinegunDerrick_163: 3801622633459617719
+      MachinegunDerrick_164: 1390267931946245794
+      MachinegunDerrick_165: 1071289818644740423
+      MachinegunDerrick_17: 3499214755323669822
+      MachinegunDerrick_18: 3543170700784645436
+      MachinegunDerrick_19: 8886044143022763556
+      MachinegunDerrick_2: 4211833444162937219
+      MachinegunDerrick_20: -8787953594236497347
+      MachinegunDerrick_21: -7033539053350465754
+      MachinegunDerrick_22: 1738454798419941797
+      MachinegunDerrick_23: -5605911126167018307
+      MachinegunDerrick_24: -4163364078490882709
+      MachinegunDerrick_25: -4878114827159837442
+      MachinegunDerrick_26: 1578469563664968480
+      MachinegunDerrick_27: -6871864396877225501
+      MachinegunDerrick_28: 1806441308917399818
+      MachinegunDerrick_29: -434820197675700527
+      MachinegunDerrick_3: 4852034731735394295
+      MachinegunDerrick_30: -6598806500095149429
+      MachinegunDerrick_31: 939066378933953172
+      MachinegunDerrick_32: -5123483119097975937
+      MachinegunDerrick_33: 8754233918130102191
+      MachinegunDerrick_34: 4647941769938802618
+      MachinegunDerrick_35: 2342640743576917324
+      MachinegunDerrick_36: -6874766688268802568
+      MachinegunDerrick_37: -8896983768530170389
+      MachinegunDerrick_38: 6054717693094068655
+      MachinegunDerrick_39: -4107848234980874179
+      MachinegunDerrick_4: -6708942989596408
+      MachinegunDerrick_40: 6333341060153833553
+      MachinegunDerrick_41: -8189322777399034481
+      MachinegunDerrick_42: -109326544122780681
+      MachinegunDerrick_43: -3656638245898855094
+      MachinegunDerrick_44: 2595420628306199919
+      MachinegunDerrick_45: -8042014057461037524
+      MachinegunDerrick_46: -6579395822084411536
+      MachinegunDerrick_47: -6654543798192269651
+      MachinegunDerrick_48: 8120635086487493301
+      MachinegunDerrick_49: -2844580304627870929
+      MachinegunDerrick_5: 3639510521344693399
+      MachinegunDerrick_50: -1548185754739098447
+      MachinegunDerrick_51: -4080332592462424335
+      MachinegunDerrick_52: 4094424663703766106
+      MachinegunDerrick_53: -1466344964897518549
+      MachinegunDerrick_54: -8278746849184557447
+      MachinegunDerrick_55: 4839070746137110163
+      MachinegunDerrick_56: -3621261785008076879
+      MachinegunDerrick_57: -7345111612474545094
+      MachinegunDerrick_58: 7762767134059613445
+      MachinegunDerrick_59: -1179766562275607318
+      MachinegunDerrick_6: 8496604979281075600
+      MachinegunDerrick_60: 9040043468822694373
+      MachinegunDerrick_61: -6737418932524327774
+      MachinegunDerrick_62: 5436446183423865784
+      MachinegunDerrick_63: 427618459293718571
+      MachinegunDerrick_64: 8244267867373296891
+      MachinegunDerrick_65: 3533744180413700167
+      MachinegunDerrick_66: -4233461684809987877
+      MachinegunDerrick_67: -916082865832822433
+      MachinegunDerrick_68: 9196969692871837354
+      MachinegunDerrick_69: 8040824196296976403
+      MachinegunDerrick_7: -4257889565190953297
+      MachinegunDerrick_70: 5412784695468036970
+      MachinegunDerrick_71: -2224090359662282499
+      MachinegunDerrick_72: -8176652962711785537
+      MachinegunDerrick_73: -6896960650680445160
+      MachinegunDerrick_74: -5168787199811513449
+      MachinegunDerrick_75: -5698190503665047608
+      MachinegunDerrick_76: -2342798750346014900
+      MachinegunDerrick_77: -5370156390130626880
+      MachinegunDerrick_78: 2534680356717192099
+      MachinegunDerrick_79: 1556336624511015518
+      MachinegunDerrick_8: -3447377503056786758
+      MachinegunDerrick_80: 370015096611730452
+      MachinegunDerrick_81: 8871252205992390347
+      MachinegunDerrick_82: -1043985772882500972
+      MachinegunDerrick_83: -9108354829547459811
+      MachinegunDerrick_84: 7245591172856320496
+      MachinegunDerrick_85: -2249126945776030785
+      MachinegunDerrick_86: 1567538728647126078
+      MachinegunDerrick_87: -1985235178314426662
+      MachinegunDerrick_88: -1226797528006743344
+      MachinegunDerrick_89: 1002988494553351312
+      MachinegunDerrick_9: 4456519335991881538
+      MachinegunDerrick_90: -2978904207461199780
+      MachinegunDerrick_91: -6949401125140036161
+      MachinegunDerrick_92: 2734341699104050604
+      MachinegunDerrick_93: -7153824502430674652
+      MachinegunDerrick_94: -2958788755720694004
+      MachinegunDerrick_95: -5181215973789794779
+      MachinegunDerrick_96: 7916791563485658184
+      MachinegunDerrick_97: 7700827470508952613
+      MachinegunDerrick_98: 6232334515297368826
+      MachinegunDerrick_99: 8695496464468405212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

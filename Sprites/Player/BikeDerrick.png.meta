@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: d843092c18b91024fbda1d4105716472
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6190298995209402651
+    second: BikeDerrick_0
+  - first:
+      213: -5264332412986760479
+    second: BikeDerrick_1
+  - first:
+      213: 6542050465960125628
+    second: BikeDerrick_2
+  - first:
+      213: -7957482864615250556
+    second: BikeDerrick_3
+  - first:
+      213: -5165028016255023218
+    second: BikeDerrick_4
+  - first:
+      213: 2418318410397652205
+    second: BikeDerrick_5
+  - first:
+      213: 8779968321090484990
+    second: BikeDerrick_6
+  - first:
+      213: -1175493499758954280
+    second: BikeDerrick_7
+  - first:
+      213: -1515105669274911275
+    second: BikeDerrick_8
+  - first:
+      213: 455763876252251347
+    second: BikeDerrick_9
+  - first:
+      213: 6660594350261257024
+    second: BikeDerrick_10
+  - first:
+      213: -4775582866337172780
+    second: BikeDerrick_11
+  - first:
+      213: -5252309633674249569
+    second: BikeDerrick_12
+  - first:
+      213: -1208755649718468406
+    second: BikeDerrick_13
+  - first:
+      213: -454522560765127689
+    second: BikeDerrick_14
+  - first:
+      213: 7161826889783157664
+    second: BikeDerrick_15
+  - first:
+      213: -680380113898895324
+    second: BikeDerrick_16
+  - first:
+      213: -1433271305411162181
+    second: BikeDerrick_17
+  - first:
+      213: -8428022184861762225
+    second: BikeDerrick_18
+  - first:
+      213: 4934071457383880656
+    second: BikeDerrick_19
+  - first:
+      213: 8563665650827676051
+    second: BikeDerrick_20
+  - first:
+      213: -3004317673016150623
+    second: BikeDerrick_21
+  - first:
+      213: -8562657864853289
+    second: BikeDerrick_22
+  - first:
+      213: -9150298566152407136
+    second: BikeDerrick_23
+  - first:
+      213: 7818970344841146105
+    second: BikeDerrick_24
+  - first:
+      213: -7234933685994610058
+    second: BikeDerrick_25
+  - first:
+      213: -3724409128152635629
+    second: BikeDerrick_26
+  - first:
+      213: 9185864904221693413
+    second: BikeDerrick_27
+  - first:
+      213: -1312802178638803290
+    second: BikeDerrick_28
+  - first:
+      213: 2545340556411615293
+    second: BikeDerrick_29
+  - first:
+      213: -2120543380831431022
+    second: BikeDerrick_30
+  - first:
+      213: -1274041034440197881
+    second: BikeDerrick_31
+  - first:
+      213: 8038583585290692269
+    second: BikeDerrick_32
+  - first:
+      213: 440268569932985350
+    second: BikeDerrick_33
+  - first:
+      213: -5641304926271414543
+    second: BikeDerrick_34
+  - first:
+      213: -2186977865381981574
+    second: BikeDerrick_35
+  - first:
+      213: 3602659449059352021
+    second: BikeDerrick_36
+  - first:
+      213: -3416272443343316795
+    second: BikeDerrick_37
+  - first:
+      213: -1525536540251393307
+    second: BikeDerrick_38
+  - first:
+      213: -6015969301149773862
+    second: BikeDerrick_39
+  - first:
+      213: -8666284980604336198
+    second: BikeDerrick_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BikeDerrick_0
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 5523
+        width: 1110
+        height: 951
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19f9e6732c58e550800000000000000
+      internalID: 6190298995209402651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_1
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 5537
+        width: 1093
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e26950ef8551f6b0800000000000000
+      internalID: -5264332412986760479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_2
+      rect:
+        serializedVersion: 2
+        x: 6598
+        y: 5525
+        width: 1063
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb46b3ecc380aca50800000000000000
+      internalID: 6542050465960125628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_3
+      rect:
+        serializedVersion: 2
+        x: 7788
+        y: 5512
+        width: 1014
+        height: 937
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485a954ce77519190800000000000000
+      internalID: -7957482864615250556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 4449
+        width: 965
+        height: 920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87cd2c72622258b0800000000000000
+      internalID: -5165028016255023218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_5
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 4459
+        width: 912
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de41a8d08c79f8120800000000000000
+      internalID: 2418318410397652205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_6
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 4482
+        width: 832
+        height: 917
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaf7c57ba6b8d970800000000000000
+      internalID: 8779968321090484990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_7
+      rect:
+        serializedVersion: 2
+        x: 3790
+        y: 4459
+        width: 722
+        height: 913
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d83617d3eecfafe0800000000000000
+      internalID: -1175493499758954280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_8
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 4445
+        width: 588
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd30b1db6349fae0800000000000000
+      internalID: -1515105669274911275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_9
+      rect:
+        serializedVersion: 2
+        x: 5422
+        y: 4459
+        width: 466
+        height: 910
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d47879a4d2335600800000000000000
+      internalID: 455763876252251347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_10
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 4459
+        width: 461
+        height: 910
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043cb40b54f2f6c50800000000000000
+      internalID: 6660594350261257024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_11
+      rect:
+        serializedVersion: 2
+        x: 7026
+        y: 4463
+        width: 554
+        height: 910
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2f7886fa8b9bdb0800000000000000
+      internalID: -4775582866337172780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_12
+      rect:
+        serializedVersion: 2
+        x: 7894
+        y: 4477
+        width: 709
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9afb72573c0c17b0800000000000000
+      internalID: -5252309633674249569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3374
+        width: 861
+        height: 906
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0c84e0423a93fe0800000000000000
+      internalID: -1208755649718468406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_14
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 3389
+        width: 956
+        height: 911
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3913f932631b9f0800000000000000
+      internalID: -454522560765127689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_15
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 3389
+        width: 998
+        height: 909
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3ad5c7c9be36360800000000000000
+      internalID: 7161826889783157664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_16
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 3396
+        width: 1007
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42801d624edce86f0800000000000000
+      internalID: -680380113898895324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_17
+      rect:
+        serializedVersion: 2
+        x: 5408
+        y: 3399
+        width: 1006
+        height: 918
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf053e675ffb1ce0800000000000000
+      internalID: -1433271305411162181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_18
+      rect:
+        serializedVersion: 2
+        x: 6581
+        y: 3375
+        width: 1002
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4df338f976a90b80800000000000000
+      internalID: -8428022184861762225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_19
+      rect:
+        serializedVersion: 2
+        x: 7762
+        y: 3410
+        width: 962
+        height: 928
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d792c149d7597440800000000000000
+      internalID: 4934071457383880656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_20
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2327
+        width: 1300
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3994cc4898048d670800000000000000
+      internalID: 8563665650827676051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_21
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 2327
+        width: 1298
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5b1737ef48e46d0800000000000000
+      internalID: -3004317673016150623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_22
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 2324
+        width: 1290
+        height: 952
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8d1abde4491eff0800000000000000
+      internalID: -8562657864853289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_23
+      rect:
+        serializedVersion: 2
+        x: 6091
+        y: 2314
+        width: 1256
+        height: 958
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a738b73feb930180800000000000000
+      internalID: -9150298566152407136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_24
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 2292
+        width: 1173
+        height: 980
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fee1991a10928c60800000000000000
+      internalID: 7818970344841146105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1179
+        width: 1106
+        height: 994
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672a8c8152a589b90800000000000000
+      internalID: -7234933685994610058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_26
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1166
+        width: 989
+        height: 1011
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3176d3671ad305cc0800000000000000
+      internalID: -3724409128152635629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_27
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 1168
+        width: 838
+        height: 1013
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e59cda267fba7f70800000000000000
+      internalID: 9185864904221693413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_28
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 1166
+        width: 708
+        height: 1015
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae00e1cf5df7cde0800000000000000
+      internalID: -1312802178638803290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_29
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 1166
+        width: 538
+        height: 1015
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d383f4110cdd25320800000000000000
+      internalID: 2545340556411615293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_30
+      rect:
+        serializedVersion: 2
+        x: 5330
+        y: 1173
+        width: 489
+        height: 1015
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2969cbeb7015292e0800000000000000
+      internalID: -2120543380831431022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_31
+      rect:
+        serializedVersion: 2
+        x: 6070
+        y: 1847
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709bbe8ed62b15ee0800000000000000
+      internalID: -1274041034440197881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_32
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 1167
+        width: 612
+        height: 1016
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6a98a3e29ce8f60800000000000000
+      internalID: 8038583585290692269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_33
+      rect:
+        serializedVersion: 2
+        x: 6767
+        y: 1159
+        width: 736
+        height: 1015
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604ff948ee52c1600800000000000000
+      internalID: 440268569932985350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_34
+      rect:
+        serializedVersion: 2
+        x: 7766
+        y: 1163
+        width: 904
+        height: 1013
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe5ee7fe0f06b1b0800000000000000
+      internalID: -5641304926271414543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_35
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 68
+        width: 1080
+        height: 1008
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72d342f73b46a1e0800000000000000
+      internalID: -2186977865381981574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_36
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 83
+        width: 1166
+        height: 991
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd13e36ea73ff130800000000000000
+      internalID: 3602659449059352021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_37
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 41
+        width: 1235
+        height: 974
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d09e1056f690d0800000000000000
+      internalID: -3416272443343316795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_38
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 51
+        width: 1262
+        height: 961
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2ff6a699434dae0800000000000000
+      internalID: -1525536540251393307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_39
+      rect:
+        serializedVersion: 2
+        x: 6126
+        y: 40
+        width: 1249
+        height: 969
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf00596bcbf28ca0800000000000000
+      internalID: -6015969301149773862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BikeDerrick_40
+      rect:
+        serializedVersion: 2
+        x: 7549
+        y: 12
+        width: 1193
+        height: 992
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab786c0e9bb2bb780800000000000000
+      internalID: -8666284980604336198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6fe9da9337b8ee64085289be9e952071
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BikeDerrick_0: 6190298995209402651
+      BikeDerrick_1: -5264332412986760479
+      BikeDerrick_10: 6660594350261257024
+      BikeDerrick_11: -4775582866337172780
+      BikeDerrick_12: -5252309633674249569
+      BikeDerrick_13: -1208755649718468406
+      BikeDerrick_14: -454522560765127689
+      BikeDerrick_15: 7161826889783157664
+      BikeDerrick_16: -680380113898895324
+      BikeDerrick_17: -1433271305411162181
+      BikeDerrick_18: -8428022184861762225
+      BikeDerrick_19: 4934071457383880656
+      BikeDerrick_2: 6542050465960125628
+      BikeDerrick_20: 8563665650827676051
+      BikeDerrick_21: -3004317673016150623
+      BikeDerrick_22: -8562657864853289
+      BikeDerrick_23: -9150298566152407136
+      BikeDerrick_24: 7818970344841146105
+      BikeDerrick_25: -7234933685994610058
+      BikeDerrick_26: -3724409128152635629
+      BikeDerrick_27: 9185864904221693413
+      BikeDerrick_28: -1312802178638803290
+      BikeDerrick_29: 2545340556411615293
+      BikeDerrick_3: -7957482864615250556
+      BikeDerrick_30: -2120543380831431022
+      BikeDerrick_31: -1274041034440197881
+      BikeDerrick_32: 8038583585290692269
+      BikeDerrick_33: 440268569932985350
+      BikeDerrick_34: -5641304926271414543
+      BikeDerrick_35: -2186977865381981574
+      BikeDerrick_36: 3602659449059352021
+      BikeDerrick_37: -3416272443343316795
+      BikeDerrick_38: -1525536540251393307
+      BikeDerrick_39: -6015969301149773862
+      BikeDerrick_4: -5165028016255023218
+      BikeDerrick_40: -8666284980604336198
+      BikeDerrick_5: 2418318410397652205
+      BikeDerrick_6: 8779968321090484990
+      BikeDerrick_7: -1175493499758954280
+      BikeDerrick_8: -1515105669274911275
+      BikeDerrick_9: 455763876252251347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

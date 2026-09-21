@@ -1,0 +1,2754 @@
+============================================================
+TITLE
+============================================================
+
+ORIGINAL ENGLISH:
+A BOY AND HIS GOD
+
+SPANISH:
+UN NIÑO Y SU DIOS
+
+BACK-TRANSLATED TO ENGLISH:
+A CHILD AND HIS GOD
+
+GERMAN:
+EIN JUNGE UND SEIN GOTT
+
+BACK-TRANSLATED TO ENGLISH:
+A BOY AND HIS GOD
+
+FRENCH:
+UN GARÇON ET SON DIEU
+
+BACK-TRANSLATED TO ENGLISH:
+A BOY AND HIS GOD
+
+ITALIAN:
+UN RAGAZZO E IL SUO DIO
+
+BACK-TRANSLATED TO ENGLISH:
+A BOY AND HIS GOD
+
+RUSSIAN:
+МАЛЬЧИК И ЕГО БОГ
+
+BACK-TRANSLATED TO ENGLISH:
+THE BOY AND HIS GOD
+
+JAPANESE:
+少年と神
+
+BACK-TRANSLATED TO ENGLISH:
+boy and god
+
+PORTUGUESE:
+UM MENINO E SEU DEUS
+
+BACK-TRANSLATED TO ENGLISH:
+A BOY AND HIS GOD
+
+CHINESE:
+一个男孩和他的上帝
+
+BACK-TRANSLATED TO ENGLISH:
+A boy and his god
+
+KOREAN:
+소년과 그의 신
+
+BACK-TRANSLATED TO ENGLISH:
+boy and his god
+
+
+============================================================
+BUTTON1
+============================================================
+
+ORIGINAL ENGLISH:
+Ready
+
+SPANISH:
+Listo
+
+BACK-TRANSLATED TO ENGLISH:
+Ready
+
+GERMAN:
+Bereit
+
+BACK-TRANSLATED TO ENGLISH:
+Ready
+
+FRENCH:
+Prêt
+
+BACK-TRANSLATED TO ENGLISH:
+Ready
+
+ITALIAN:
+Pronto
+
+BACK-TRANSLATED TO ENGLISH:
+Ready
+
+RUSSIAN:
+Готово
+
+BACK-TRANSLATED TO ENGLISH:
+Ready
+
+JAPANESE:
+準備完了
+
+BACK-TRANSLATED TO ENGLISH:
+Ready
+
+PORTUGUESE:
+Pronto
+
+BACK-TRANSLATED TO ENGLISH:
+Ready
+
+CHINESE:
+准备好了
+
+BACK-TRANSLATED TO ENGLISH:
+ready
+
+KOREAN:
+준비
+
+BACK-TRANSLATED TO ENGLISH:
+preparation
+
+
+============================================================
+BUTTONS
+============================================================
+
+ORIGINAL ENGLISH:
+START GAME
+
+SPANISH:
+INICIAR JUEGO
+
+BACK-TRANSLATED TO ENGLISH:
+START GAME
+
+GERMAN:
+SPIEL STARTEN
+
+BACK-TRANSLATED TO ENGLISH:
+START GAME
+
+FRENCH:
+COMMENCER
+
+BACK-TRANSLATED TO ENGLISH:
+TO START
+
+ITALIAN:
+INIZIA GIOCO
+
+BACK-TRANSLATED TO ENGLISH:
+START GAME
+
+RUSSIAN:
+НАЧАТЬ ИГРУ
+
+BACK-TRANSLATED TO ENGLISH:
+START GAME
+
+JAPANESE:
+ゲーム開始
+
+BACK-TRANSLATED TO ENGLISH:
+game start
+
+PORTUGUESE:
+INICIAR JOGO
+
+BACK-TRANSLATED TO ENGLISH:
+START GAME
+
+CHINESE:
+开始游戏
+
+BACK-TRANSLATED TO ENGLISH:
+Start game
+
+KOREAN:
+게임 시작
+
+BACK-TRANSLATED TO ENGLISH:
+game start
+
+
+============================================================
+BUTTONC
+============================================================
+
+ORIGINAL ENGLISH:
+CREDITS
+
+SPANISH:
+CRÉDITOS
+
+BACK-TRANSLATED TO ENGLISH:
+CREDITS
+
+GERMAN:
+CREDITS
+
+BACK-TRANSLATED TO ENGLISH:
+CREDITS
+
+FRENCH:
+CRÉDITS
+
+BACK-TRANSLATED TO ENGLISH:
+CREDITS
+
+ITALIAN:
+CREDITI
+
+BACK-TRANSLATED TO ENGLISH:
+CREDITS
+
+RUSSIAN:
+ТИТРЫ
+
+BACK-TRANSLATED TO ENGLISH:
+TITLES
+
+JAPANESE:
+クレジット
+
+BACK-TRANSLATED TO ENGLISH:
+credit
+
+PORTUGUESE:
+CRÉDITOS
+
+BACK-TRANSLATED TO ENGLISH:
+CREDITS
+
+CHINESE:
+制作人员
+
+BACK-TRANSLATED TO ENGLISH:
+production staff
+
+KOREAN:
+제작진
+
+BACK-TRANSLATED TO ENGLISH:
+crew
+
+
+============================================================
+BUTTOND
+============================================================
+
+ORIGINAL ENGLISH:
+DIFFICULTY
+
+SPANISH:
+DIFICULTAD
+
+BACK-TRANSLATED TO ENGLISH:
+DIFFICULTY
+
+GERMAN:
+SCHWIERIGKEIT
+
+BACK-TRANSLATED TO ENGLISH:
+DIFFICULTY
+
+FRENCH:
+DIFFICULTÉ
+
+BACK-TRANSLATED TO ENGLISH:
+DIFFICULTY
+
+ITALIAN:
+DIFFICOLTÀ
+
+BACK-TRANSLATED TO ENGLISH:
+DIFFICULTY
+
+RUSSIAN:
+СЛОЖНОСТЬ
+
+BACK-TRANSLATED TO ENGLISH:
+COMPLEXITY
+
+JAPANESE:
+難易度
+
+BACK-TRANSLATED TO ENGLISH:
+Difficulty level
+
+PORTUGUESE:
+DIFICULDADE
+
+BACK-TRANSLATED TO ENGLISH:
+DIFFICULTY
+
+CHINESE:
+难度
+
+BACK-TRANSLATED TO ENGLISH:
+difficulty
+
+KOREAN:
+난이도
+
+BACK-TRANSLATED TO ENGLISH:
+Difficulty level
+
+
+============================================================
+EASY
+============================================================
+
+ORIGINAL ENGLISH:
+EASY
+
+SPANISH:
+FÁCIL
+
+BACK-TRANSLATED TO ENGLISH:
+EASY
+
+GERMAN:
+EINFACH
+
+BACK-TRANSLATED TO ENGLISH:
+SIMPLY
+
+FRENCH:
+FACILE
+
+BACK-TRANSLATED TO ENGLISH:
+EASY
+
+ITALIAN:
+FACILE
+
+BACK-TRANSLATED TO ENGLISH:
+EASY
+
+RUSSIAN:
+ЛЕГКО
+
+BACK-TRANSLATED TO ENGLISH:
+EASILY
+
+JAPANESE:
+イージー
+
+BACK-TRANSLATED TO ENGLISH:
+easy
+
+PORTUGUESE:
+FÁCIL
+
+BACK-TRANSLATED TO ENGLISH:
+EASY
+
+CHINESE:
+简单
+
+BACK-TRANSLATED TO ENGLISH:
+Simple
+
+KOREAN:
+쉬움
+
+BACK-TRANSLATED TO ENGLISH:
+facility
+
+
+============================================================
+MEDI
+============================================================
+
+ORIGINAL ENGLISH:
+MEDIUM
+
+SPANISH:
+MEDIO
+
+BACK-TRANSLATED TO ENGLISH:
+HALF
+
+GERMAN:
+MITTEL
+
+BACK-TRANSLATED TO ENGLISH:
+MEDIUM
+
+FRENCH:
+MOYEN
+
+BACK-TRANSLATED TO ENGLISH:
+AVERAGE
+
+ITALIAN:
+MEDIO
+
+BACK-TRANSLATED TO ENGLISH:
+MEDIUM
+
+RUSSIAN:
+СРЕДНЕ
+
+BACK-TRANSLATED TO ENGLISH:
+AVERAGE
+
+JAPANESE:
+ノーマル
+
+BACK-TRANSLATED TO ENGLISH:
+normal
+
+PORTUGUESE:
+MÉDIO
+
+BACK-TRANSLATED TO ENGLISH:
+AVERAGE
+
+CHINESE:
+中等
+
+BACK-TRANSLATED TO ENGLISH:
+medium
+
+KOREAN:
+보통
+
+BACK-TRANSLATED TO ENGLISH:
+commonly
+
+
+============================================================
+HARD
+============================================================
+
+ORIGINAL ENGLISH:
+HARD
+
+SPANISH:
+DIFÍCIL
+
+BACK-TRANSLATED TO ENGLISH:
+DIFFICULT
+
+GERMAN:
+SCHWER
+
+BACK-TRANSLATED TO ENGLISH:
+DIFFICULT
+
+FRENCH:
+DIFFICILE
+
+BACK-TRANSLATED TO ENGLISH:
+DIFFICULT
+
+ITALIAN:
+DIFFICILE
+
+BACK-TRANSLATED TO ENGLISH:
+DIFFICULT
+
+RUSSIAN:
+СЛОЖНО
+
+BACK-TRANSLATED TO ENGLISH:
+DIFFICULT
+
+JAPANESE:
+ハード
+
+BACK-TRANSLATED TO ENGLISH:
+hard
+
+PORTUGUESE:
+DIFÍCIL
+
+BACK-TRANSLATED TO ENGLISH:
+DIFFICULT
+
+CHINESE:
+困难
+
+BACK-TRANSLATED TO ENGLISH:
+difficulty
+
+KOREAN:
+어려움
+
+BACK-TRANSLATED TO ENGLISH:
+difficulty
+
+
+============================================================
+CLIP
+============================================================
+
+ORIGINAL ENGLISH:
+CLIP
+
+SPANISH:
+CLIP
+
+BACK-TRANSLATED TO ENGLISH:
+CLIP
+
+GERMAN:
+CLIP
+
+BACK-TRANSLATED TO ENGLISH:
+CLIP
+
+FRENCH:
+CLIP
+
+BACK-TRANSLATED TO ENGLISH:
+CLIP
+
+ITALIAN:
+CLIP
+
+BACK-TRANSLATED TO ENGLISH:
+CLIP
+
+RUSSIAN:
+КЛИП
+
+BACK-TRANSLATED TO ENGLISH:
+CLIP
+
+JAPANESE:
+クリップ
+
+BACK-TRANSLATED TO ENGLISH:
+clip
+
+PORTUGUESE:
+CLIPE
+
+BACK-TRANSLATED TO ENGLISH:
+CLIP
+
+CHINESE:
+片段
+
+BACK-TRANSLATED TO ENGLISH:
+fragment
+
+KOREAN:
+클립
+
+BACK-TRANSLATED TO ENGLISH:
+clip
+
+
+============================================================
+AMMO
+============================================================
+
+ORIGINAL ENGLISH:
+AMMO
+
+SPANISH:
+MUNICIÓN
+
+BACK-TRANSLATED TO ENGLISH:
+AMMUNITION
+
+GERMAN:
+MUNITION
+
+BACK-TRANSLATED TO ENGLISH:
+AMMUNITION
+
+FRENCH:
+MUNITIONS
+
+BACK-TRANSLATED TO ENGLISH:
+AMMUNITION
+
+ITALIAN:
+MUNIZIONI
+
+BACK-TRANSLATED TO ENGLISH:
+AMMUNITION
+
+RUSSIAN:
+БОЕПРИПАСЫ
+
+BACK-TRANSLATED TO ENGLISH:
+AMMUNITION
+
+JAPANESE:
+弾薬
+
+BACK-TRANSLATED TO ENGLISH:
+ammunition
+
+PORTUGUESE:
+MUNIÇÃO
+
+BACK-TRANSLATED TO ENGLISH:
+AMMUNITION
+
+CHINESE:
+弹药
+
+BACK-TRANSLATED TO ENGLISH:
+ammunition
+
+KOREAN:
+탄약
+
+BACK-TRANSLATED TO ENGLISH:
+ammunition
+
+
+============================================================
+T1V1
+============================================================
+
+ORIGINAL ENGLISH:
+Vizio calls upon you once more
+to carry out his will.
+
+SPANISH:
+Vizio te llama una vez más
+para cumplir su voluntad.
+
+BACK-TRANSLATED TO ENGLISH:
+Vizio calls you once again
+to fulfill his will.
+
+GERMAN:
+Vizio ruft dich erneut,
+um seinen Willen auszuführen.
+
+BACK-TRANSLATED TO ENGLISH:
+Vizio is calling you again,
+to carry out his will.
+
+FRENCH:
+Vizio t'appelle une fois encore
+pour accomplir sa volonté.
+
+BACK-TRANSLATED TO ENGLISH:
+Vizio is calling you once again
+to accomplish his will.
+
+ITALIAN:
+Vizio ti chiama ancora una volta
+per compiere la sua volontà.
+
+BACK-TRANSLATED TO ENGLISH:
+Vizio is calling you once again
+to carry out his will.
+
+RUSSIAN:
+Визио снова призывает тебя,
+чтобы исполнить его волю.
+
+BACK-TRANSLATED TO ENGLISH:
+Visio calls you again
+to fulfill his will.
+
+JAPANESE:
+Vizioは再びお前を呼び、
+その意志を遂行させる。
+
+BACK-TRANSLATED TO ENGLISH:
+Vizio calls you again
+carry out that will.
+
+PORTUGUESE:
+Vizio te chama mais uma vez
+para cumprir sua vontade.
+
+BACK-TRANSLATED TO ENGLISH:
+Vizio calls you once again
+to fulfill your will.
+
+CHINESE:
+维齐奥再次召唤你，
+去执行他的意志。
+
+BACK-TRANSLATED TO ENGLISH:
+Vizio calls you again,
+to carry out his will.
+
+KOREAN:
+비지오가 다시 한번 너를 부른다.
+그의 뜻을 이루기 위해서다.
+
+BACK-TRANSLATED TO ENGLISH:
+Vizio calls you once again.
+To achieve his will.
+
+
+============================================================
+T1D1
+============================================================
+
+ORIGINAL ENGLISH:
+In pursuit of your will, I 
+have lost my sister Lily.
+She was taken by your enemies!
+
+SPANISH:
+En busca de tu voluntad,
+he perdido a mi hermana Lily.
+¡Tus enemigos se la llevaron!
+
+BACK-TRANSLATED TO ENGLISH:
+In search of your will,
+I have lost my sister Lily.
+Your enemies took her away!
+
+GERMAN:
+Auf der Suche nach deinem Willen
+habe ich meine Schwester Lily verloren.
+Deine Feinde haben sie mitgenommen!
+
+BACK-TRANSLATED TO ENGLISH:
+Looking for your will
+I lost my sister Lily.
+Your enemies have taken them!
+
+FRENCH:
+En poursuivant ta volonté,
+j'ai perdu ma sœur Lily.
+Tes ennemis l'ont emportée !
+
+BACK-TRANSLATED TO ENGLISH:
+Pursuing your will,
+I lost my sister Lily.
+Your enemies have taken it!
+
+ITALIAN:
+Nel perseguire la tua volontà,
+ho perso mia sorella Lily.
+I tuoi nemici l'hanno rapita!
+
+BACK-TRANSLATED TO ENGLISH:
+In pursuing your will,
+I lost my sister Lily.
+Your enemies have kidnapped her!
+
+RUSSIAN:
+В стремлении исполнить твою волю
+я потерял свою сестру Лили.
+Её забрали твои враги!
+
+BACK-TRANSLATED TO ENGLISH:
+In an effort to fulfill your will
+I lost my sister Lily.
+Your enemies took it!
+
+JAPANESE:
+あなたの意志を追い求める中で、
+妹のリリーを失った。
+彼女はお前の敵に連れ去られた！
+
+BACK-TRANSLATED TO ENGLISH:
+In pursuit of your will,
+I lost my sister Lily.
+She has been taken away by your enemy!
+
+PORTUGUESE:
+Ao perseguir a tua vontade,
+perdi minha irmã Lily.
+Seus inimigos a levaram!
+
+BACK-TRANSLATED TO ENGLISH:
+By pursuing your will,
+I lost my sister Lily.
+Her enemies took her!
+
+CHINESE:
+为了追随你的意志，
+我失去了我的妹妹莉莉。
+她被你的敌人带走了！
+
+BACK-TRANSLATED TO ENGLISH:
+To follow your will,
+I lost my sister Lily.
+She was taken by your enemies!
+
+KOREAN:
+네 뜻을 따르다가
+내 여동생 릴리를 잃었다.
+네 적들이 그녀를 데려갔다!
+
+BACK-TRANSLATED TO ENGLISH:
+Following your will
+I lost my sister Lily.
+Your enemies have taken her!
+
+
+============================================================
+T1V2
+============================================================
+
+ORIGINAL ENGLISH:
+Your sister is not yet gone, Darius.
+
+SPANISH:
+Tu hermana aún no se ha ido, Darius.
+
+BACK-TRANSLATED TO ENGLISH:
+Your sister is not gone yet, Darius.
+
+GERMAN:
+Deine Schwester ist noch nicht verloren, Darius.
+
+BACK-TRANSLATED TO ENGLISH:
+Your sister is not lost yet, Darius.
+
+FRENCH:
+Ta sœur n'est pas encore perdue, Darius.
+
+BACK-TRANSLATED TO ENGLISH:
+Your sister is not yet lost, Darius.
+
+ITALIAN:
+Tua sorella non è ancora perduta, Darius.
+
+BACK-TRANSLATED TO ENGLISH:
+Your sister is not lost yet, Darius.
+
+RUSSIAN:
+Твоя сестра ещё не потеряна, Дариус.
+
+BACK-TRANSLATED TO ENGLISH:
+Your sister is not lost yet, Darius.
+
+JAPANESE:
+お前の妹はまだ死んではいない、ダリウス。
+
+BACK-TRANSLATED TO ENGLISH:
+Your sister isn't dead yet, Darius.
+
+PORTUGUESE:
+Sua irmã ainda não se foi, Darius.
+
+BACK-TRANSLATED TO ENGLISH:
+Your sister isn't gone yet, Darius.
+
+CHINESE:
+你的妹妹还没有死，达里乌斯。
+
+BACK-TRANSLATED TO ENGLISH:
+Your sister is not dead yet, Darius.
+
+KOREAN:
+네 여동생은 아직 죽지 않았다, 다리우스.
+
+BACK-TRANSLATED TO ENGLISH:
+Your sister isn't dead yet, Darius.
+
+
+============================================================
+T1V3
+============================================================
+
+ORIGINAL ENGLISH:
+Destroy the squid demon Mulus, and she will be alive in your arms 
+once more.
+
+SPANISH:
+Destruye al demonio calamar Mulus y ella volverá a estar viva en tus brazos.
+
+BACK-TRANSLATED TO ENGLISH:
+Destroy the squid demon Mulus and she will be alive again in your arms.
+
+GERMAN:
+Vernichte den Tintenfischdämon Mulus, und sie wird wieder lebendig in deinen Armen liegen.
+
+BACK-TRANSLATED TO ENGLISH:
+Destroy the squid demon Mulus and she will be alive in your arms again.
+
+FRENCH:
+Détruis le démon calmar Mulus, et elle sera de nouveau vivante dans tes bras.
+
+BACK-TRANSLATED TO ENGLISH:
+Destroy the squid demon Mulus, and she will be alive again in your arms.
+
+ITALIAN:
+Distruggi il demone calamaro Mulus e lei sarà di nuovo viva tra le tue braccia.
+
+BACK-TRANSLATED TO ENGLISH:
+Destroy the squid demon Mulus and she will be alive again in your arms.
+
+RUSSIAN:
+Уничтожь демона-кальмара Мулуса, и она снова будет жива в твоих объятиях.
+
+BACK-TRANSLATED TO ENGLISH:
+Destroy the squid demon Mulus, and she will live again in your arms.
+
+JAPANESE:
+イカの悪魔ムルスを倒せ。そうすれば、彼女は再びお前の腕の中で生きる。
+
+BACK-TRANSLATED TO ENGLISH:
+Defeat the squid demon Murus. Then she will live in your arms again.
+
+PORTUGUESE:
+Destrua o demônio lula Mulus, e ela estará viva novamente em seus braços.
+
+BACK-TRANSLATED TO ENGLISH:
+Destroy the squid demon Mulus, and she will be alive again in your arms.
+
+CHINESE:
+消灭鱿鱼恶魔穆鲁斯，她就会再次活着回到你的怀抱。
+
+BACK-TRANSLATED TO ENGLISH:
+Destroy the squid demon Murus and she will return to you alive once more.
+
+KOREAN:
+오징어 악마 물루스를 처치해라. 그러면 그녀는 다시 네 품에서 살아날 것이다.
+
+BACK-TRANSLATED TO ENGLISH:
+Defeat the squid demon Mulus. Then she will come back to life in your arms.
+
+
+============================================================
+C1S1
+============================================================
+
+ORIGINAL ENGLISH:
+You will carry this girl through your
+almighty's madness no longer!!
+
+SPANISH:
+¡¡Ya no llevarás a esta chica a través de la locura de tu
+«todopoderoso»!!
+
+BACK-TRANSLATED TO ENGLISH:
+You will no longer carry this girl through the madness of your
+"almighty"!!
+
+GERMAN:
+Du wirst dieses Mädchen nicht länger durch den Wahnsinn deines
+„Allmächtigen“ schleppen!!
+
+BACK-TRANSLATED TO ENGLISH:
+You will no longer become this girl through the madness of yours
+Dragging “Almighty”!!
+
+FRENCH:
+Tu ne feras plus subir à cette fille la folie de ton
+« tout-puissant » !!
+
+BACK-TRANSLATED TO ENGLISH:
+You will no longer subject this girl to the madness of your
+“almighty”!!
+
+ITALIAN:
+Non trascinerai più questa ragazza nella follia del tuo
+«onnipotente»!!
+
+BACK-TRANSLATED TO ENGLISH:
+You will no longer drag this girl into your madness
+«omnipotent»!!
+
+RUSSIAN:
+Ты больше не будешь тащить эту девушку через безумие своего
+«всемогущего»!!
+
+BACK-TRANSLATED TO ENGLISH:
+You won't drag this girl through your madness anymore
+"almighty"!!
+
+JAPANESE:
+もうこの娘を、お前の
+「全能なる者」の狂気に巻き込ませはしない！！
+
+BACK-TRANSLATED TO ENGLISH:
+This girl is now yours.
+I won't let you get caught up in the madness of the "Almighty"! !
+
+PORTUGUESE:
+Você não vai mais arrastar essa garota pela loucura do seu
+“todo-poderoso”!!
+
+BACK-TRANSLATED TO ENGLISH:
+You will no longer drag this girl through the madness of your
+“almighty”!!
+
+CHINESE:
+你再也不会让这个女孩承受你那个
+“全能之神”的疯狂了！！
+
+BACK-TRANSLATED TO ENGLISH:
+You'll never let this girl take that from you again
+The "Almighty God" is crazy! !
+
+KOREAN:
+더 이상 이 소녀를 네
+“전능자”의 광기에 휘말리게 하지 않겠다!!
+
+BACK-TRANSLATED TO ENGLISH:
+I don't want this girl anymore
+I will not let you get caught up in the madness of the “Almighty”!!
+
+
+============================================================
+C1L1
+============================================================
+
+ORIGINAL ENGLISH:
+Darius, what if . . what if lord Vizio is just pretend? If he's not real?
+
+SPANISH:
+Darius, ¿y si... y si el señor Vizio es solo una mentira? ¿Y si no es real?
+
+BACK-TRANSLATED TO ENGLISH:
+Darius, what if... what if Mr. Vizio is just a lie? What if it's not real?
+
+GERMAN:
+Darius, was, wenn... was, wenn Lord Vizio nur erfunden ist? Wenn er nicht real ist?
+
+BACK-TRANSLATED TO ENGLISH:
+Darius, what if... what if Lord Vizio is just fiction? What if he isn't real?
+
+FRENCH:
+Darius, et si... et si le seigneur Vizio n'était qu'une invention ? Et s'il n'était pas réel ?
+
+BACK-TRANSLATED TO ENGLISH:
+Darius, what if... what if Lord Vizio was just an invention? What if he wasn't real?
+
+ITALIAN:
+Darius, e se... e se il signore Vizio fosse solo un'invenzione? E se non fosse reale?
+
+BACK-TRANSLATED TO ENGLISH:
+Darius, what if... what if Lord Vizio was just an invention? What if it's not real?
+
+RUSSIAN:
+Дариус, а что, если... что, если лорд Визио — лишь выдумка? Если его не существует?
+
+BACK-TRANSLATED TO ENGLISH:
+Darius, what if... what if Lord Visio is just a fantasy? What if it doesn't exist?
+
+JAPANESE:
+ダリウス、もし……もしヴィジオ様がただの作り話だったら？ 本当は存在しなかったら？
+
+BACK-TRANSLATED TO ENGLISH:
+Darius, what if... what if Master Vizio was just a made-up story? What if it didn't really exist?
+
+PORTUGUESE:
+Darius, e se... e se o senhor Vizio fosse apenas uma invenção? E se ele não fosse real?
+
+BACK-TRANSLATED TO ENGLISH:
+Darius, what if... what if Mr. Vizio was just an invention? What if he wasn't real?
+
+CHINESE:
+达里乌斯，如果……如果维齐奥大人只是虚构的呢？如果他根本不存在呢？
+
+BACK-TRANSLATED TO ENGLISH:
+Darius, what if... what if Lord Vizio is just a fiction? What if he didn't exist at all?
+
+KOREAN:
+다리우스, 만약... 만약 비지오 님이 그저 꾸며낸 존재라면? 진짜가 아니라면?
+
+BACK-TRANSLATED TO ENGLISH:
+Darius, what if... what if Vizio is just a fabrication? What if it's not real?
+
+
+============================================================
+C1D1
+============================================================
+
+ORIGINAL ENGLISH:
+These fools still challenge Vizio's 
+might. When will they learn?
+
+SPANISH:
+Estos necios aún desafían el poder de Vizio.
+¿Cuándo aprenderán?
+
+BACK-TRANSLATED TO ENGLISH:
+These fools still challenge the power of Vizio.
+When will they learn?
+
+GERMAN:
+Diese Narren fordern Vizios Macht immer noch heraus.
+Wann werden sie es endlich begreifen?
+
+BACK-TRANSLATED TO ENGLISH:
+These fools are still challenging Vizio's power.
+When will they finally understand?
+
+FRENCH:
+Ces imbéciles défient encore la puissance de Vizio.
+Quand comprendront-ils ?
+
+BACK-TRANSLATED TO ENGLISH:
+These fools still challenge the might of Vizio.
+When will they understand?
+
+ITALIAN:
+Questi sciocchi sfidano ancora il potere di Vizio.
+Quando impareranno?
+
+BACK-TRANSLATED TO ENGLISH:
+These fools still challenge the power of Vizio.
+When will they learn?
+
+RUSSIAN:
+Эти глупцы всё ещё бросают вызов могуществу Визио.
+Когда же они поймут?
+
+BACK-TRANSLATED TO ENGLISH:
+These fools still challenge Visio's might.
+When will they understand?
+
+JAPANESE:
+この愚か者たちはまだヴィジオの力に挑む。
+いつになったら理解する？
+
+BACK-TRANSLATED TO ENGLISH:
+These fools still challenge Vizio's power.
+When will you understand?
+
+PORTUGUESE:
+Esses tolos ainda desafiam o poder de Vizio.
+Quando vão aprender?
+
+BACK-TRANSLATED TO ENGLISH:
+These fools still challenge Vizio's power.
+When will they learn?
+
+CHINESE:
+这些蠢货还在挑战维齐奥的力量。
+他们什么时候才能明白？
+
+BACK-TRANSLATED TO ENGLISH:
+These idiots are still challenging Vizio's power.
+When will they understand?
+
+KOREAN:
+이 어리석은 자들은 아직도 비지오의 힘에 도전한다.
+대체 언제 깨달을 것인가?
+
+BACK-TRANSLATED TO ENGLISH:
+These fools still challenge Vizio's might.
+When will you realize it?
+
+
+============================================================
+C1D2
+============================================================
+
+ORIGINAL ENGLISH:
+Lily! Repent before it's too late! 
+If Vizio finds out you said that...
+
+SPANISH:
+¡Lily! ¡Arrepiéntete antes de que sea demasiado tarde!
+Si Vizio se entera de que dijiste eso...
+
+BACK-TRANSLATED TO ENGLISH:
+Lily! Repent before it's too late!
+If Vizio finds out you said that...
+
+GERMAN:
+Lily! Bereue, bevor es zu spät ist!
+Wenn Vizio erfährt, dass du das gesagt hast...
+
+BACK-TRANSLATED TO ENGLISH:
+Lily! Repent before it's too late!
+If Vizio finds out you said that...
+
+FRENCH:
+Lily ! Repens-toi avant qu'il ne soit trop tard !
+Si Vizio apprend que tu as dit ça...
+
+BACK-TRANSLATED TO ENGLISH:
+Lily! Repent before it is too late!
+If Vizio finds out you said that...
+
+ITALIAN:
+Lily! Pentiti prima che sia troppo tardi!
+Se Vizio scopre che hai detto questo...
+
+BACK-TRANSLATED TO ENGLISH:
+Lily! Repent before it's too late!
+If Vizio finds out you said this...
+
+RUSSIAN:
+Лили! Покайся, пока не поздно!
+Если Визио узнает, что ты это сказала...
+
+BACK-TRANSLATED TO ENGLISH:
+Lily! Repent before it's too late!
+If Visio finds out you said that...
+
+JAPANESE:
+リリー！ 手遅れになる前に悔い改めろ！
+ヴィジオにそんなことを言ったと知られたら……
+
+BACK-TRANSLATED TO ENGLISH:
+Lily! Repent before it's too late!
+If Vizio finds out that I said that...
+
+PORTUGUESE:
+Lily! Arrependa-se antes que seja tarde demais!
+Se Vizio descobrir que você disse isso...
+
+BACK-TRANSLATED TO ENGLISH:
+Lily! Repent before it's too late!
+If Vizio finds out you said that...
+
+CHINESE:
+莉莉！趁还来得及赶快忏悔！
+如果维齐奥发现你说了这种话……
+
+BACK-TRANSLATED TO ENGLISH:
+Lily! Repent before it's too late!
+If Vizio catches you saying this...
+
+KOREAN:
+릴리! 늦기 전에 회개해!
+비지오가 네가 그런 말을 했다는 걸 알게 되면...
+
+BACK-TRANSLATED TO ENGLISH:
+Lily! Repent before it’s too late!
+If Vizio finds out you said that...
+
+
+============================================================
+C1D3
+============================================================
+
+ORIGINAL ENGLISH:
+If you harm even a hair on her 
+head freak, I will- 
+
+SPANISH:
+Si le haces daño siquiera a un pelo de su cabeza, monstruo, ¡yo...!
+
+BACK-TRANSLATED TO ENGLISH:
+If you hurt even a hair on his head, monster, I...!
+
+GERMAN:
+Wenn du ihr auch nur ein Haar krümmst, Freak, werde ich-
+
+BACK-TRANSLATED TO ENGLISH:
+If you so much as harm her hair, freak, I'll-
+
+FRENCH:
+Si tu touches ne serait-ce qu'à un cheveu de sa tête, espèce de monstre, je vais-
+
+BACK-TRANSLATED TO ENGLISH:
+If you touch even one hair on his head, you monster, I will-
+
+ITALIAN:
+Se torci anche solo un capello sulla sua testa, mostro, io-
+
+BACK-TRANSLATED TO ENGLISH:
+If you even touch a hair on his head, you monster, I'll-
+
+RUSSIAN:
+Если ты причинишь ей хоть малейший вред, урод, я-
+
+BACK-TRANSLATED TO ENGLISH:
+If you cause her even the slightest harm, you freak, I-
+
+JAPANESE:
+彼女の髪の一本にでも傷をつけたら、この化け物、俺は――
+
+BACK-TRANSLATED TO ENGLISH:
+If I damage even one hair of her, this monster, I...
+
+PORTUGUESE:
+Se você machucar sequer um fio de cabelo dela, seu monstro, eu vou-
+
+BACK-TRANSLATED TO ENGLISH:
+If you hurt even one strand of her hair, you monster, I will-
+
+CHINESE:
+你要是敢伤她一根头发，你这个怪物，我就——
+
+BACK-TRANSLATED TO ENGLISH:
+If you dare to hurt a hair on her head, you monster, I will——
+
+KOREAN:
+그녀의 머리카락 한 올이라도 건드리면, 이 괴물아, 난-
+
+BACK-TRANSLATED TO ENGLISH:
+If you touch a single hair of hers, you monster, I-
+
+
+============================================================
+C1D4
+============================================================
+
+ORIGINAL ENGLISH:
+Damn! It won't matter if I save
+her from that Demon if Vizio finds
+out about this.
+
+SPANISH:
+¡Maldita sea! No importará si la salvo
+de ese demonio si Vizio se entera
+de esto.
+
+BACK-TRANSLATED TO ENGLISH:
+Damn! It won't matter if I save her
+of that demon if Vizio finds out
+of this.
+
+GERMAN:
+Verdammt! Es wird nichts bringen, wenn ich sie vor diesem Dämon rette,
+wenn Vizio davon erfährt.
+
+BACK-TRANSLATED TO ENGLISH:
+Damned! It won't do any good if I save her from this demon,
+if Vizio finds out about it.
+
+FRENCH:
+Merde ! Ça ne servira à rien de la sauver
+de ce démon si Vizio apprend
+ce qui s'est passé.
+
+BACK-TRANSLATED TO ENGLISH:
+Shit ! It won't do any good to save her
+of this demon if Vizio learns
+what happened.
+
+ITALIAN:
+Dannazione! Non servirà a nulla salvarla
+da quel demone se Vizio scoprirà
+quello che è successo.
+
+BACK-TRANSLATED TO ENGLISH:
+Damnation! There will be no point in saving her
+from that demon if Vizio will find out
+what happened.
+
+RUSSIAN:
+Чёрт! Не будет никакого смысла спасать её
+от этого демона, если Визио узнает
+об этом.
+
+BACK-TRANSLATED TO ENGLISH:
+Crap! There will be no point in saving her
+from this demon if Visio finds out
+about this.
+
+JAPANESE:
+くそっ！ あの悪魔から彼女を救っても、
+ヴィジオにこのことが知られたら
+何の意味もない。
+
+BACK-TRANSLATED TO ENGLISH:
+Damn it! Even if I save her from that demon,
+If Vizio finds out about this
+It doesn't make any sense.
+
+PORTUGUESE:
+Droga! Não vai adiantar salvá-la
+daquele demônio se Vizio descobrir
+o que aconteceu.
+
+BACK-TRANSLATED TO ENGLISH:
+Drug! There's no point in saving her
+of that demon if Vizio finds out
+what happened.
+
+CHINESE:
+该死！就算我把她从那个恶魔手里救出来，
+如果维齐奥知道了这件事，
+也没有任何意义。
+
+BACK-TRANSLATED TO ENGLISH:
+Damn it! Even if I rescue her from that devil,
+If Vizio knew about this,
+It doesn't make any sense either.
+
+KOREAN:
+젠장! 그 악마에게서 그녀를 구해도
+비지오가 이 일을 알게 된다면
+아무 소용이 없어.
+
+BACK-TRANSLATED TO ENGLISH:
+shit! Even if I save her from that devil
+If Vizio finds out about this
+It's no use.
+
+
+============================================================
+C2S1
+============================================================
+
+ORIGINAL ENGLISH:
+Believe it or not girl, you are
+much safer here than out there.
+
+SPANISH:
+Lo creas o no, chica, aquí estás
+mucho más segura que ahí fuera.
+
+BACK-TRANSLATED TO ENGLISH:
+Believe it or not, girl, here you are
+much safer than out there.
+
+GERMAN:
+Ob du es glaubst oder nicht, Mädchen, hier bist du
+viel sicherer als dort draußen.
+
+BACK-TRANSLATED TO ENGLISH:
+Believe it or not, girl, here you are
+much safer than out there.
+
+FRENCH:
+Que tu le croies ou non, fille, tu es
+bien plus en sécurité ici que dehors.
+
+BACK-TRANSLATED TO ENGLISH:
+Whether you believe it or not, girl, you are
+much safer here than outside.
+
+ITALIAN:
+Che tu ci creda o no, ragazza, qui sei
+molto più al sicuro che là fuori.
+
+BACK-TRANSLATED TO ENGLISH:
+Believe it or not, girl, here you are
+much safer than out there.
+
+RUSSIAN:
+Веришь ты или нет, девочка, здесь ты
+гораздо в большей безопасности, чем снаружи.
+
+BACK-TRANSLATED TO ENGLISH:
+Believe it or not, girl, here you are
+much safer than outside.
+
+JAPANESE:
+信じようと信じまいと、ここにいる方が
+外にいるよりずっと安全だ、娘。
+
+BACK-TRANSLATED TO ENGLISH:
+Believe it or not, it's better to be here
+It's much safer than being outside, girl.
+
+PORTUGUESE:
+Acredite ou não, garota, você está
+muito mais segura aqui do que lá fora.
+
+BACK-TRANSLATED TO ENGLISH:
+Believe it or not, girl, you are
+much safer here than out there.
+
+CHINESE:
+信不信由你，姑娘，你在这里
+比外面安全得多。
+
+BACK-TRANSLATED TO ENGLISH:
+Believe it or not, girl, you're here
+Much safer than outside.
+
+KOREAN:
+믿든 말든, 아가씨, 여긴
+밖보다 훨씬 안전해.
+
+BACK-TRANSLATED TO ENGLISH:
+Believe it or not, girl, this is
+It's much safer than outside.
+
+
+============================================================
+C2S2
+============================================================
+
+ORIGINAL ENGLISH:
+That madman cannot be allowed 
+to intefere with our plans.
+
+SPANISH:
+No se puede permitir que ese loco
+interfiera en nuestros planes.
+
+BACK-TRANSLATED TO ENGLISH:
+You can't allow that crazy
+interfere with our plans.
+
+GERMAN:
+Wir dürfen diesem Verrückten nicht erlauben,
+in unsere Pläne einzugreifen.
+
+BACK-TRANSLATED TO ENGLISH:
+We can't allow this madman
+to intervene in our plans.
+
+FRENCH:
+On ne peut pas laisser ce fou
+interférer avec nos plans.
+
+BACK-TRANSLATED TO ENGLISH:
+We can't let this fool
+interfere with our plans.
+
+ITALIAN:
+Non possiamo permettere a quel pazzo
+di interferire con i nostri piani.
+
+BACK-TRANSLATED TO ENGLISH:
+We can't let that madman
+to interfere with our plans.
+
+RUSSIAN:
+Нельзя позволить этому безумцу
+вмешаться в наши планы.
+
+BACK-TRANSLATED TO ENGLISH:
+We can't let this madman
+interfere with our plans.
+
+JAPANESE:
+あの狂人に我々の計画を
+邪魔させるわけにはいかない。
+
+BACK-TRANSLATED TO ENGLISH:
+give that madman our plan
+I can't let you get in the way.
+
+PORTUGUESE:
+Não podemos permitir que aquele louco
+interfira em nossos planos.
+
+BACK-TRANSLATED TO ENGLISH:
+We can't allow that crazy man
+interfere with our plans.
+
+CHINESE:
+绝不能让那个疯子
+干涉我们的计划。
+
+BACK-TRANSLATED TO ENGLISH:
+We must not let that lunatic
+interfere with our plans.
+
+KOREAN:
+그 미치광이가 우리의 계획을
+방해하게 둘 순 없어.
+
+BACK-TRANSLATED TO ENGLISH:
+The madman planned our plan
+I can't let you get in my way.
+
+
+============================================================
+C3S1
+============================================================
+
+ORIGINAL ENGLISH:
+It seems the madman Darius has
+managed to track us.
+
+SPANISH:
+Parece que el loco Darius ha
+conseguido encontrarnos.
+
+BACK-TRANSLATED TO ENGLISH:
+It seems that crazy Darius has
+managed to find us.
+
+GERMAN:
+Es scheint, dass der Verrückte Darius
+es geschafft hat, uns aufzuspüren.
+
+BACK-TRANSLATED TO ENGLISH:
+It seems that the madman Darius
+managed to track us down.
+
+FRENCH:
+On dirait que le fou de Darius a
+réussi à nous retrouver.
+
+BACK-TRANSLATED TO ENGLISH:
+Looks like crazy Darius has
+managed to find us.
+
+ITALIAN:
+Sembra che il pazzo Darius sia
+riuscito a rintracciarci.
+
+BACK-TRANSLATED TO ENGLISH:
+It seems crazy Darius is
+managed to track us down.
+
+RUSSIAN:
+Похоже, безумцу Дариусу
+удалось нас выследить.
+
+BACK-TRANSLATED TO ENGLISH:
+Looks like madman Darius
+managed to track us down.
+
+JAPANESE:
+どうやら狂人ダリウスが
+我々を追跡してきたようだ。
+
+BACK-TRANSLATED TO ENGLISH:
+Apparently the madman Darius
+It looks like they've been following us.
+
+PORTUGUESE:
+Parece que o louco Darius
+conseguiu nos rastrear.
+
+BACK-TRANSLATED TO ENGLISH:
+It seems that crazy Darius
+managed to track us down.
+
+CHINESE:
+看来那个疯子达里乌斯
+已经追踪到我们了。
+
+BACK-TRANSLATED TO ENGLISH:
+It seems that crazy Darius
+We've been tracked.
+
+KOREAN:
+미치광이 다리우스가
+우리를 추적해 온 모양이군.
+
+BACK-TRANSLATED TO ENGLISH:
+Darius the Madman
+Looks like they've been tracking us.
+
+
+============================================================
+C3T1
+============================================================
+
+ORIGINAL ENGLISH:
+Can what he says be true? About his mighty god leading him?
+
+SPANISH:
+¿Puede ser verdad lo que dice? ¿Que su poderoso dios lo está guiando?
+
+BACK-TRANSLATED TO ENGLISH:
+Can what he says be true? That his powerful god is guiding him?
+
+GERMAN:
+Kann das, was er sagt, wahr sein? Dass sein mächtiger Gott ihn führt?
+
+BACK-TRANSLATED TO ENGLISH:
+Can what he says be true? That his mighty God guides him?
+
+FRENCH:
+Ce qu'il dit peut-il être vrai ? Que son dieu tout-puissant le guide ?
+
+BACK-TRANSLATED TO ENGLISH:
+Could what he says be true? May his almighty god guide him?
+
+ITALIAN:
+Può essere vero ciò che dice? Che il suo potente dio lo stia guidando?
+
+BACK-TRANSLATED TO ENGLISH:
+Can what he says be true? That his mighty god is guiding him?
+
+RUSSIAN:
+Неужели то, что он говорит, правда? Что его могущественный бог ведёт его?
+
+BACK-TRANSLATED TO ENGLISH:
+Is what he says true? That his mighty god is leading him?
+
+JAPANESE:
+あいつの言っていることは本当なのか？ あの強大な神が彼を導いているというのか？
+
+BACK-TRANSLATED TO ENGLISH:
+Is what he's saying true? Is that mighty god guiding him?
+
+PORTUGUESE:
+Será verdade o que ele diz? Que seu poderoso deus o está guiando?
+
+BACK-TRANSLATED TO ENGLISH:
+Is what he says true? That your mighty god is guiding you?
+
+CHINESE:
+他说的是真的吗？他的强大神明正在引导他？
+
+BACK-TRANSLATED TO ENGLISH:
+Is what he said true? Is his powerful god guiding him?
+
+KOREAN:
+저자가 하는 말이 사실일까? 그의 위대한 신이 그를 이끌고 있다는 게?
+
+BACK-TRANSLATED TO ENGLISH:
+Is what the author says true? That his great god is leading him?
+
+
+============================================================
+C3S2
+============================================================
+
+ORIGINAL ENGLISH:
+FOOL! Belief in that false god
+only makes it more powerful!
+
+SPANISH:
+¡IDIOTA! ¡Creer en ese falso dios
+solo lo hace más poderoso!
+
+BACK-TRANSLATED TO ENGLISH:
+IDIOT! Believe in that false god
+it only makes it more powerful!
+
+GERMAN:
+NARR! Der Glaube an diesen falschen Gott
+macht ihn nur noch mächtiger!
+
+BACK-TRANSLATED TO ENGLISH:
+FOOL! Belief in this false god
+only makes him more powerful!
+
+FRENCH:
+IDIOT ! Croire en ce faux dieu
+ne fait que le rendre plus puissant !
+
+BACK-TRANSLATED TO ENGLISH:
+SILLY ! Believe in this false god
+only makes it more powerful!
+
+ITALIAN:
+STOLTO! Credere in quel falso dio
+lo rende solo più potente!
+
+BACK-TRANSLATED TO ENGLISH:
+FOOL! Believing in that false god
+it just makes it more powerful!
+
+RUSSIAN:
+ГЛУПЕЦ! Вера в этого ложного бога
+лишь делает его сильнее!
+
+BACK-TRANSLATED TO ENGLISH:
+FOOL! Believing in this false god
+only makes him stronger!
+
+JAPANESE:
+愚か者め！ あの偽りの神を信じることが
+奴をさらに強くしているだけだ！
+
+BACK-TRANSLATED TO ENGLISH:
+You fool! believing in that false god
+It's just making him stronger!
+
+PORTUGUESE:
+IDIOTA! Acreditar nesse falso deus
+apenas o torna mais poderoso!
+
+BACK-TRANSLATED TO ENGLISH:
+IDIOT! Believing in this false god
+it just makes you more powerful!
+
+CHINESE:
+蠢货！相信那个虚假的神
+只会让它变得更加强大！
+
+BACK-TRANSLATED TO ENGLISH:
+idiot! Believe in that false god
+It will only make it stronger!
+
+KOREAN:
+바보! 그 거짓된 신을 믿는 건
+놈을 더 강하게 만들 뿐이다!
+
+BACK-TRANSLATED TO ENGLISH:
+fool! Believing in that false god
+It only makes him stronger!
+
+
+============================================================
+F1D1
+============================================================
+
+ORIGINAL ENGLISH:
+Glad to see your tiny brain
+wasn't eaten!
+
+SPANISH:
+¡Me alegra ver que no se comieron
+tu diminuto cerebro!
+
+BACK-TRANSLATED TO ENGLISH:
+I'm glad to see they didn't eat
+your tiny brain!
+
+GERMAN:
+Schön zu sehen, dass dein winziges Gehirn
+nicht gefressen wurde!
+
+BACK-TRANSLATED TO ENGLISH:
+Nice to see your tiny brain
+wasn't eaten!
+
+FRENCH:
+Heureux de voir que ton minuscule cerveau
+n'a pas été mangé !
+
+BACK-TRANSLATED TO ENGLISH:
+Glad to see your tiny brain
+was not eaten!
+
+ITALIAN:
+Sono contento di vedere che il tuo minuscolo cervello
+non è stato mangiato!
+
+BACK-TRANSLATED TO ENGLISH:
+Glad to see your tiny brain
+it wasn't eaten!
+
+RUSSIAN:
+Рад видеть, что твой крошечный мозг
+не съели!
+
+BACK-TRANSLATED TO ENGLISH:
+Glad to see your tiny brain
+didn't eat!
+
+JAPANESE:
+お前のちっぽけな脳みそが
+食われてなくてよかったな！
+
+BACK-TRANSLATED TO ENGLISH:
+your little brain
+I'm glad I didn't get eaten!
+
+PORTUGUESE:
+Que bom ver que seu minúsculo cérebro
+não foi devorado!
+
+BACK-TRANSLATED TO ENGLISH:
+Good to see your tiny brain
+was not devoured!
+
+CHINESE:
+很高兴看到你那小小的脑子
+没有被吃掉！
+
+BACK-TRANSLATED TO ENGLISH:
+Nice to see your little brain
+Not eaten!
+
+KOREAN:
+네 작은 뇌가
+먹히지 않아서 다행이군!
+
+BACK-TRANSLATED TO ENGLISH:
+your little brain
+I'm glad it didn't work!
+
+
+============================================================
+F1L1
+============================================================
+
+ORIGINAL ENGLISH:
+Something's happened to me...
+
+SPANISH:
+Algo me ha pasado...
+
+BACK-TRANSLATED TO ENGLISH:
+Something has happened to me...
+
+GERMAN:
+Etwas ist mit mir passiert...
+
+BACK-TRANSLATED TO ENGLISH:
+Something happened to me...
+
+FRENCH:
+Quelque chose m'est arrivé...
+
+BACK-TRANSLATED TO ENGLISH:
+Something happened to me...
+
+ITALIAN:
+Mi è successo qualcosa...
+
+BACK-TRANSLATED TO ENGLISH:
+Something happened to me...
+
+RUSSIAN:
+Со мной что-то случилось...
+
+BACK-TRANSLATED TO ENGLISH:
+Something happened to me...
+
+JAPANESE:
+私に何かが起きた……
+
+BACK-TRANSLATED TO ENGLISH:
+Something happened to me...
+
+PORTUGUESE:
+Algo aconteceu comigo...
+
+BACK-TRANSLATED TO ENGLISH:
+Something happened to me...
+
+CHINESE:
+我身上发生了什么……
+
+BACK-TRANSLATED TO ENGLISH:
+What happened to me...
+
+KOREAN:
+나에게 무슨 일이 생긴 거야...
+
+BACK-TRANSLATED TO ENGLISH:
+What happened to me...
+
+
+============================================================
+F1V1
+============================================================
+
+ORIGINAL ENGLISH:
+You have completed
+your holy mission.
+
+SPANISH:
+Has cumplido
+tu misión sagrada.
+
+BACK-TRANSLATED TO ENGLISH:
+You have fulfilled
+your sacred mission.
+
+GERMAN:
+Du hast
+deine heilige Mission erfüllt.
+
+BACK-TRANSLATED TO ENGLISH:
+You have
+your holy mission accomplished.
+
+FRENCH:
+Tu as accompli
+ta mission sacrée.
+
+BACK-TRANSLATED TO ENGLISH:
+You have accomplished
+your sacred mission.
+
+ITALIAN:
+Hai compiuto
+la tua missione sacra.
+
+BACK-TRANSLATED TO ENGLISH:
+You've done it
+your sacred mission.
+
+RUSSIAN:
+Ты выполнил
+свою святую миссию.
+
+BACK-TRANSLATED TO ENGLISH:
+You have completed
+your holy mission.
+
+JAPANESE:
+お前は
+聖なる使命を果たした。
+
+BACK-TRANSLATED TO ENGLISH:
+you are
+fulfilled a sacred mission.
+
+PORTUGUESE:
+Você cumpriu
+sua missão sagrada.
+
+BACK-TRANSLATED TO ENGLISH:
+You fulfilled
+your sacred mission.
+
+CHINESE:
+你已经完成了
+你的神圣使命。
+
+BACK-TRANSLATED TO ENGLISH:
+you are done
+Your sacred mission.
+
+KOREAN:
+너는
+성스러운 임무를 완수했다.
+
+BACK-TRANSLATED TO ENGLISH:
+you
+The sacred mission was completed.
+
+
+============================================================
+F1V2
+============================================================
+
+ORIGINAL ENGLISH:
+With the death of Mulus, the non believers can no longer hide from
+ my sight.
+
+SPANISH:
+Con la muerte de Mulus, los no creyentes ya no pueden esconderse de
+mi vista.
+
+BACK-TRANSLATED TO ENGLISH:
+With the death of Mulus, non-believers can no longer hide from
+my sight
+
+GERMAN:
+Mit dem Tod von Mulus können sich die Ungläubigen nicht länger vor
+meinem Blick verbergen.
+
+BACK-TRANSLATED TO ENGLISH:
+With the death of Mulus, the infidels can no longer imagine
+hide from my view.
+
+FRENCH:
+Avec la mort de Mulus, les non-croyants ne peuvent plus se cacher de
+ma vue.
+
+BACK-TRANSLATED TO ENGLISH:
+With the death of Mulus, unbelievers can no longer hide from
+my sight.
+
+ITALIAN:
+Con la morte di Mulus, i non credenti non possono più nascondersi alla
+mia vista.
+
+BACK-TRANSLATED TO ENGLISH:
+With the death of Mulus, non-believers can no longer hide from the
+my sight.
+
+RUSSIAN:
+Со смертью Мулуса неверующие больше не могут скрываться от
+моего взора.
+
+BACK-TRANSLATED TO ENGLISH:
+With the death of Mulus, non-believers can no longer hide from
+my gaze.
+
+JAPANESE:
+ムルスの死によって、異教徒たちはもう
+私の目から隠れることはできない。
+
+BACK-TRANSLATED TO ENGLISH:
+With the death of Murus, the pagans were no longer
+You can't hide from my eyes.
+
+PORTUGUESE:
+Com a morte de Mulus, os descrentes não podem mais se esconder da
+minha vista.
+
+BACK-TRANSLATED TO ENGLISH:
+With the death of Mulus, the disbelievers can no longer hide from the
+my view.
+
+CHINESE:
+随着穆鲁斯的死亡，那些不信者再也无法躲避
+我的视线。
+
+BACK-TRANSLATED TO ENGLISH:
+With the death of Murus, those who disbelieve can no longer hide
+My sight.
+
+KOREAN:
+물루스가 죽었으니, 믿지 않는 자들은 더 이상
+내 시야에서 숨을 수 없다.
+
+BACK-TRANSLATED TO ENGLISH:
+Now that Mullus is dead, the unbelievers no longer
+You can't hide from my sight.
+
+
+============================================================
+F1V3
+============================================================
+
+ORIGINAL ENGLISH:
+All who challenge my existence
+must be punished,even your 
+sister.
+
+SPANISH:
+Todos los que desafíen mi existencia
+deben ser castigados, incluso tu
+hermana.
+
+BACK-TRANSLATED TO ENGLISH:
+All those who challenge my existence
+They must be punished, even you
+sister.
+
+GERMAN:
+Alle, die meine Existenz infrage stellen,
+müssen bestraft werden, sogar deine
+Schwester.
+
+BACK-TRANSLATED TO ENGLISH:
+Anyone who questions my existence
+must be punished, even yours
+Sister.
+
+FRENCH:
+Tous ceux qui défient mon existence
+doivent être punis, même ta
+sœur.
+
+BACK-TRANSLATED TO ENGLISH:
+All those who challenge my existence
+must be punished, even your
+sister.
+
+ITALIAN:
+Tutti coloro che sfidano la mia esistenza
+devono essere puniti, persino tua
+sorella.
+
+BACK-TRANSLATED TO ENGLISH:
+All those who challenge my existence
+must be punished, even yours
+sister.
+
+RUSSIAN:
+Все, кто бросает вызов моему существованию,
+должны быть наказаны, даже твоя
+сестра.
+
+BACK-TRANSLATED TO ENGLISH:
+Everyone who challenges my existence
+should be punished, even yours
+sister.
+
+JAPANESE:
+私の存在に異を唱える者は皆、
+罰を受けねばならない。たとえお前の
+妹であってもだ。
+
+BACK-TRANSLATED TO ENGLISH:
+All who object to my existence,
+must be punished. Even if your
+Even if it's my sister.
+
+PORTUGUESE:
+Todos os que desafiam minha existência
+devem ser punidos, até mesmo sua
+irmã.
+
+BACK-TRANSLATED TO ENGLISH:
+All who challenge my existence
+must be punished, even their
+sister.
+
+CHINESE:
+所有质疑我存在的人
+都必须受到惩罚，甚至包括你的
+妹妹。
+
+BACK-TRANSLATED TO ENGLISH:
+All those who question my existence
+Everyone must be punished, even yours
+sister.
+
+KOREAN:
+내 존재에 도전하는 자들은 모두
+벌을 받아야 한다. 네
+여동생조차도.
+
+BACK-TRANSLATED TO ENGLISH:
+Everyone who challenges my existence
+must be punished yes
+Even my little sister.
+
+
+============================================================
+F1D2
+============================================================
+
+ORIGINAL ENGLISH:
+Years of your will, and you take my own sister in front of me!?
+
+SPANISH:
+¡Después de años cumpliendo tu voluntad, te llevas a mi propia hermana delante de mí!?
+
+BACK-TRANSLATED TO ENGLISH:
+After years of doing your will, you take my own sister in front of me!?
+
+GERMAN:
+Jahrelang habe ich deinen Willen erfüllt, und nun nimmst du meine eigene Schwester vor meinen Augen!?
+
+BACK-TRANSLATED TO ENGLISH:
+For years I have fulfilled your will, and now you take my own sister in front of me!?
+
+FRENCH:
+Après des années à accomplir ta volonté, tu prends ma propre sœur sous mes yeux !?
+
+BACK-TRANSLATED TO ENGLISH:
+After years of doing your will, you take my own sister right before my eyes!?
+
+ITALIAN:
+Dopo anni passati a seguire la tua volontà, prendi mia sorella davanti ai miei occhi!?
+
+BACK-TRANSLATED TO ENGLISH:
+After years of following your will, you take my sister before my eyes!?
+
+RUSSIAN:
+Столько лет я исполнял твою волю, а ты забираешь мою собственную сестру прямо у меня на глазах!?
+
+BACK-TRANSLATED TO ENGLISH:
+For so many years I have carried out your will, and you take away my own sister right in front of my eyes!?
+
+JAPANESE:
+何年もお前の意志に従ってきたのに、目の前で俺の妹まで奪うのか！？
+
+BACK-TRANSLATED TO ENGLISH:
+I've been following your will for years, but now you're going to steal my sister right in front of me! ?
+
+PORTUGUESE:
+Depois de anos cumprindo sua vontade, você leva minha própria irmã diante dos meus olhos!?
+
+BACK-TRANSLATED TO ENGLISH:
+After years of fulfilling your will, you take my own sister before my eyes!?
+
+CHINESE:
+我多年遵循你的意志，你却当着我的面夺走我的亲妹妹！？
+
+BACK-TRANSLATED TO ENGLISH:
+I have followed your will for many years, but you took away my biological sister in front of me! ?
+
+KOREAN:
+수년 동안 네 뜻을 따랐는데, 내 눈앞에서 내 여동생을 데려가겠다고!?
+
+BACK-TRANSLATED TO ENGLISH:
+I've followed your wishes for years, and you're going to take my sister away right before my eyes!?
+
+
+============================================================
+F1V4
+============================================================
+
+ORIGINAL ENGLISH:
+SHE MADE HER DECISION DARIUS.
+
+SPANISH:
+ELLA TOMÓ SU DECISIÓN, DARIUS.
+
+BACK-TRANSLATED TO ENGLISH:
+SHE MADE HER DECISION, DARIUS.
+
+GERMAN:
+SIE HAT IHRE ENTSCHEIDUNG GETROFFEN, DARIUS.
+
+BACK-TRANSLATED TO ENGLISH:
+SHE HAS MADE HER DECISION, DARIUS.
+
+FRENCH:
+ELLE A FAIT SON CHOIX, DARIUS.
+
+BACK-TRANSLATED TO ENGLISH:
+SHE MADE HER CHOICE, DARIUS.
+
+ITALIAN:
+HA FATTO LA SUA SCELTA, DARIUS.
+
+BACK-TRANSLATED TO ENGLISH:
+HE MADE HIS CHOICE, DARIUS.
+
+RUSSIAN:
+ОНА СДЕЛАЛА СВОЙ ВЫБОР, ДАРИУС.
+
+BACK-TRANSLATED TO ENGLISH:
+SHE MADE HER CHOICE, DARIUS.
+
+JAPANESE:
+彼女は自分で決めたのだ、ダリウス。
+
+BACK-TRANSLATED TO ENGLISH:
+She made her own decision, Darius.
+
+PORTUGUESE:
+ELA FEZ A ESCOLHA DELA, DARIUS.
+
+BACK-TRANSLATED TO ENGLISH:
+SHE MADE HER CHOICE, DARIUS.
+
+CHINESE:
+她做出了自己的选择，达里乌斯。
+
+BACK-TRANSLATED TO ENGLISH:
+She made her choice, Darius.
+
+KOREAN:
+그녀가 스스로 선택했다, 다리우스.
+
+BACK-TRANSLATED TO ENGLISH:
+She made her own choice, Darius.
+
+
+============================================================
+F1V5
+============================================================
+
+ORIGINAL ENGLISH:
+She was alive in your arms, as I
+told you she would be. 
+Consider this mercy.
+
+SPANISH:
+Estaba viva en tus brazos, como te
+dije que estaría.
+Considera esto misericordia.
+
+BACK-TRANSLATED TO ENGLISH:
+I was alive in your arms, like you
+I said I would be.
+Consider this mercy.
+
+GERMAN:
+Sie war lebendig in deinen Armen, wie ich
+dir gesagt hatte.
+Betrachte dies als Gnade.
+
+BACK-TRANSLATED TO ENGLISH:
+She was alive in your arms, like me
+had told you.
+Consider this a grace.
+
+FRENCH:
+Elle était vivante dans tes bras, comme je
+te l'avais dit.
+Considère cela comme de la miséricorde.
+
+BACK-TRANSLATED TO ENGLISH:
+She was alive in your arms, as I
+told you so.
+Consider it mercy.
+
+ITALIAN:
+Era viva tra le tue braccia, come ti
+avevo detto.
+Considera questo un atto di misericordia.
+
+BACK-TRANSLATED TO ENGLISH:
+She was alive in your arms, like you
+I said.
+Consider this an act of mercy.
+
+RUSSIAN:
+Она была жива в твоих объятиях, как я
+тебе и говорил.
+Считай это милостью.
+
+BACK-TRANSLATED TO ENGLISH:
+She was alive in your arms, just like me
+I told you so.
+Consider it a mercy.
+
+JAPANESE:
+私が言った通り、彼女はお前の腕の中で
+生きていた。
+これを慈悲だと思え。
+
+BACK-TRANSLATED TO ENGLISH:
+Like I said, she's in your arms
+He was alive.
+Think of this as mercy.
+
+PORTUGUESE:
+Ela estava viva em seus braços, como eu
+lhe disse que estaria.
+Considere isso uma misericórdia.
+
+BACK-TRANSLATED TO ENGLISH:
+She was alive in your arms, like me
+I told him I would be.
+Consider it a mercy.
+
+CHINESE:
+她曾活着躺在你的怀里，就像我
+告诉你的那样。
+把这当作慈悲吧。
+
+BACK-TRANSLATED TO ENGLISH:
+She was alive in your arms, just like me
+Just as I told you.
+Consider this mercy.
+
+KOREAN:
+내가 말했듯이 그녀는 네 품에서
+살아 있었다.
+이것을 자비라고 여겨라.
+
+BACK-TRANSLATED TO ENGLISH:
+Like I said, she's in your arms
+was alive
+Consider this mercy.
+
+
+============================================================
+F1D3
+============================================================
+
+ORIGINAL ENGLISH:
+Mulus, he was the last thing protecting her.
+
+SPANISH:
+Mulus, él era lo último que la protegía.
+
+BACK-TRANSLATED TO ENGLISH:
+Mulus, he was the last thing that protected her.
+
+GERMAN:
+Mulus, er war das Letzte, was sie beschützt hat.
+
+BACK-TRANSLATED TO ENGLISH:
+Mulus, he was the last thing that protected her.
+
+FRENCH:
+Mulus, il était la dernière chose qui la protégeait.
+
+BACK-TRANSLATED TO ENGLISH:
+Mulus, he was the last thing that protected her.
+
+ITALIAN:
+Mulus, era l'ultima cosa che la proteggeva.
+
+BACK-TRANSLATED TO ENGLISH:
+Mulus, it was the last thing protecting her.
+
+RUSSIAN:
+Мулус, он был последним, что защищало её.
+
+BACK-TRANSLATED TO ENGLISH:
+Mulus, he was the last thing that protected her.
+
+JAPANESE:
+ムルス……あいつが彼女を守っていた最後の存在だった。
+
+BACK-TRANSLATED TO ENGLISH:
+Murus...he was the last thing protecting her.
+
+PORTUGUESE:
+Mulus, ele era a última coisa que a protegia.
+
+BACK-TRANSLATED TO ENGLISH:
+Mulus, he was the last thing that protected her.
+
+CHINESE:
+穆鲁斯，他是最后一个保护她的存在。
+
+BACK-TRANSLATED TO ENGLISH:
+Murus, he was the last one to protect her.
+
+KOREAN:
+물루스, 그가 그녀를 지켜주던 마지막 존재였어.
+
+BACK-TRANSLATED TO ENGLISH:
+Mulus, he was the last thing that protected her.
+
+
+============================================================
+F1D4
+============================================================
+
+ORIGINAL ENGLISH:
+By killing him, I doomed poor Lily. 
+What have I done?!
+
+SPANISH:
+Al matarlo, condené a la pobre Lily.
+¿Qué he hecho?!
+
+BACK-TRANSLATED TO ENGLISH:
+By killing him, I doomed poor Lily.
+What have I done?!
+
+GERMAN:
+Indem ich ihn getötet habe, habe ich die arme Lily ins Verderben gestürzt.
+Was habe ich getan?!
+
+BACK-TRANSLATED TO ENGLISH:
+By killing him I doomed poor Lily.
+What have I done?!
+
+FRENCH:
+En le tuant, j'ai condamné la pauvre Lily.
+Qu'est-ce que j'ai fait ?!
+
+BACK-TRANSLATED TO ENGLISH:
+By killing him, I doomed poor Lily.
+What have I done?!
+
+ITALIAN:
+Uccidendolo, ho condannato la povera Lily.
+Cosa ho fatto?!
+
+BACK-TRANSLATED TO ENGLISH:
+By killing him, I doomed poor Lily.
+What did I do?!
+
+RUSSIAN:
+Убив его, я обрёк бедную Лили.
+Что же я наделал?!
+
+BACK-TRANSLATED TO ENGLISH:
+By killing him, I doomed poor Lily.
+What have I done?!
+
+JAPANESE:
+あいつを殺したことで、哀れなリリーを破滅させてしまった。
+俺は何をしたんだ！？
+
+BACK-TRANSLATED TO ENGLISH:
+By killing him, I ruined poor Lily.
+What did I do? ?
+
+PORTUGUESE:
+Ao matá-lo, condenei a pobre Lily.
+O que foi que eu fiz?!
+
+BACK-TRANSLATED TO ENGLISH:
+By killing him, I condemned poor Lily.
+What did I do?!
+
+CHINESE:
+杀了他，我害惨了可怜的莉莉。
+我到底做了什么？！
+
+BACK-TRANSLATED TO ENGLISH:
+By killing him, I hurt poor Lily.
+What did I do? !
+
+KOREAN:
+그를 죽여서 불쌍한 릴리를 파멸시켰어.
+내가 무슨 짓을 한 거야?!
+
+BACK-TRANSLATED TO ENGLISH:
+By killing him, I destroyed poor Lily.
+What have I done?!
+
+
+============================================================
+F1N1
+============================================================
+
+ORIGINAL ENGLISH:
+Do not lose hope yet Darius.
+
+SPANISH:
+No pierdas la esperanza todavía, Darius.
+
+BACK-TRANSLATED TO ENGLISH:
+Don't lose hope yet, Darius.
+
+GERMAN:
+Verliere noch nicht die Hoffnung, Darius.
+
+BACK-TRANSLATED TO ENGLISH:
+Don't lose hope yet, Darius.
+
+FRENCH:
+Ne perds pas encore espoir, Darius.
+
+BACK-TRANSLATED TO ENGLISH:
+Don't give up hope yet, Darius.
+
+ITALIAN:
+Non perdere ancora la speranza, Darius.
+
+BACK-TRANSLATED TO ENGLISH:
+Don't lose hope yet, Darius.
+
+RUSSIAN:
+Не теряй надежду, Дариус.
+
+BACK-TRANSLATED TO ENGLISH:
+Don't lose hope, Darius.
+
+JAPANESE:
+まだ希望を失うな、ダリウス。
+
+BACK-TRANSLATED TO ENGLISH:
+Don't lose hope yet, Darius.
+
+PORTUGUESE:
+Não perca a esperança ainda, Darius.
+
+BACK-TRANSLATED TO ENGLISH:
+Don't lose hope yet, Darius.
+
+CHINESE:
+还不要失去希望，达里乌斯。
+
+BACK-TRANSLATED TO ENGLISH:
+Don't lose hope yet, Darius.
+
+KOREAN:
+아직 희망을 잃지 마, 다리우스.
+
+BACK-TRANSLATED TO ENGLISH:
+Don't lose hope yet, Darius.
+
+
+============================================================
+F1N2
+============================================================
+
+ORIGINAL ENGLISH:
+The lord of the underworld 
+demands an audience.
+
+SPANISH:
+El señor del inframundo
+exige una audiencia.
+
+BACK-TRANSLATED TO ENGLISH:
+the lord of the underworld
+demands a hearing.
+
+GERMAN:
+Der Herr der Unterwelt
+verlangt eine Audienz.
+
+BACK-TRANSLATED TO ENGLISH:
+The lord of the underworld
+demands an audience.
+
+FRENCH:
+Le seigneur des enfers
+exige une audience.
+
+BACK-TRANSLATED TO ENGLISH:
+The Lord of the Underworld
+requires a hearing.
+
+ITALIAN:
+Il signore degli inferi
+esige un'udienza.
+
+BACK-TRANSLATED TO ENGLISH:
+The lord of the underworld
+demands a hearing.
+
+RUSSIAN:
+Владыка подземного мира
+требует аудиенции.
+
+BACK-TRANSLATED TO ENGLISH:
+Lord of the Underworld
+demands an audience.
+
+JAPANESE:
+冥界の王が
+面会を求めている。
+
+BACK-TRANSLATED TO ENGLISH:
+the king of the underworld
+I'm asking for a meeting.
+
+PORTUGUESE:
+O senhor do submundo
+exige uma audiência.
+
+BACK-TRANSLATED TO ENGLISH:
+The lord of the underworld
+demands a hearing.
+
+CHINESE:
+冥界之主
+要求与你会面。
+
+BACK-TRANSLATED TO ENGLISH:
+Lord of the underworld
+Request to meet with you.
+
+KOREAN:
+저승의 군주가
+알현을 요구한다.
+
+BACK-TRANSLATED TO ENGLISH:
+The lord of the underworld
+Request an audience.
+
+
+============================================================
+PAR2
+============================================================
+
+ORIGINAL ENGLISH:
+Part2?
+
+SPANISH:
+Parte 2?
+
+BACK-TRANSLATED TO ENGLISH:
+Part 2?
+
+GERMAN:
+Teil 2?
+
+BACK-TRANSLATED TO ENGLISH:
+Part 2?
+
+FRENCH:
+Partie 2 ?
+
+BACK-TRANSLATED TO ENGLISH:
+Part 2?
+
+ITALIAN:
+Parte 2?
+
+BACK-TRANSLATED TO ENGLISH:
+Part 2?
+
+RUSSIAN:
+Часть 2?
+
+BACK-TRANSLATED TO ENGLISH:
+Part 2?
+
+JAPANESE:
+パート2？
+
+BACK-TRANSLATED TO ENGLISH:
+Part 2?
+
+PORTUGUESE:
+Parte 2?
+
+BACK-TRANSLATED TO ENGLISH:
+Part 2?
+
+CHINESE:
+第二部分？
+
+BACK-TRANSLATED TO ENGLISH:
+Part two?
+
+KOREAN:
+파트 2?
+
+BACK-TRANSLATED TO ENGLISH:
+Part 2?
+

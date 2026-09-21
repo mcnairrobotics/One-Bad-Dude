@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: d7dc3d03a56c8d54e9cf81489d19048b
+timeCreated: 1506184048
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101076
+  packageName: Nathanael Gazzard's Game Music Volume 1
+  packageVersion: 1.0
+  assetPath: Assets/Nathanael Gazzard's Game Music Volume 1/The Final Mile/The Final
+    Mile Segment 3.wav
+  uploadId: 202625

@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: dc05814a16742fb40a05db0cb08e077e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6997295087425429852
+    second: StaffSittingJoey_0
+  - first:
+      213: -4507666684571716827
+    second: StaffSittingJoey_1
+  - first:
+      213: 1069428873340390352
+    second: StaffSittingJoey_2
+  - first:
+      213: 4297002764714979573
+    second: StaffSittingJoey_3
+  - first:
+      213: 4297753807317381966
+    second: StaffSittingJoey_4
+  - first:
+      213: -567443310101905762
+    second: StaffSittingJoey_5
+  - first:
+      213: -9207818611279709046
+    second: StaffSittingJoey_6
+  - first:
+      213: 7988150766779464809
+    second: StaffSittingJoey_7
+  - first:
+      213: 1474507653553514544
+    second: StaffSittingJoey_8
+  - first:
+      213: -6891300384221766598
+    second: StaffSittingJoey_9
+  - first:
+      213: 4139118329213979998
+    second: StaffSittingJoey_10
+  - first:
+      213: -6305045284174320608
+    second: StaffSittingJoey_11
+  - first:
+      213: 595086793472616025
+    second: StaffSittingJoey_12
+  - first:
+      213: -1461975824199425592
+    second: StaffSittingJoey_13
+  - first:
+      213: -4087833440856113044
+    second: StaffSittingJoey_14
+  - first:
+      213: -3221767944042365843
+    second: StaffSittingJoey_15
+  - first:
+      213: 704277990210755375
+    second: StaffSittingJoey_16
+  - first:
+      213: -1156214542568261419
+    second: StaffSittingJoey_17
+  - first:
+      213: 5434250978112235011
+    second: StaffSittingJoey_18
+  - first:
+      213: -335163517492966950
+    second: StaffSittingJoey_19
+  - first:
+      213: 8720806737439362380
+    second: StaffSittingJoey_20
+  - first:
+      213: 332797402921887171
+    second: StaffSittingJoey_21
+  - first:
+      213: -7739216520180588624
+    second: StaffSittingJoey_22
+  - first:
+      213: 3718956367627083252
+    second: StaffSittingJoey_23
+  - first:
+      213: -3805012496234795160
+    second: StaffSittingJoey_24
+  - first:
+      213: -2524797619390869800
+    second: StaffSittingJoey_25
+  - first:
+      213: -9059339890516789119
+    second: StaffSittingJoey_26
+  - first:
+      213: 1849041081189371169
+    second: StaffSittingJoey_27
+  - first:
+      213: 1152216723158911025
+    second: StaffSittingJoey_28
+  - first:
+      213: 3198036354392550932
+    second: StaffSittingJoey_29
+  - first:
+      213: 6428243198633306499
+    second: StaffSittingJoey_30
+  - first:
+      213: 1551144910014954329
+    second: StaffSittingJoey_31
+  - first:
+      213: 1671914349069819508
+    second: StaffSittingJoey_32
+  - first:
+      213: 6995004884994627531
+    second: StaffSittingJoey_33
+  - first:
+      213: 8071177244547267409
+    second: StaffSittingJoey_34
+  - first:
+      213: 6639217295505663869
+    second: StaffSittingJoey_35
+  - first:
+      213: -4042569150105547757
+    second: StaffSittingJoey_36
+  - first:
+      213: 3790467388345693681
+    second: StaffSittingJoey_37
+  - first:
+      213: 3305069587632312361
+    second: StaffSittingJoey_38
+  - first:
+      213: -2946247137568704207
+    second: StaffSittingJoey_39
+  - first:
+      213: 7155112382158233381
+    second: StaffSittingJoey_40
+  - first:
+      213: 6383666996627718831
+    second: StaffSittingJoey_41
+  - first:
+      213: 7161794062128957909
+    second: StaffSittingJoey_42
+  - first:
+      213: 5640151248108284607
+    second: StaffSittingJoey_43
+  - first:
+      213: -7195479187026030837
+    second: StaffSittingJoey_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StaffSittingJoey_0
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2262
+        width: 515
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51249a0fc26b1160800000000000000
+      internalID: 6997295087425429852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_1
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 2271
+        width: 514
+        height: 1069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5237d34780d8171c0800000000000000
+      internalID: -4507666684571716827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_2
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2270
+        width: 529
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db000ce4ef57de00800000000000000
+      internalID: 1069428873340390352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_3
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 2259
+        width: 508
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f035bd7f3502ab30800000000000000
+      internalID: 4297002764714979573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_4
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2263
+        width: 488
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e433c393150b4ab30800000000000000
+      internalID: 4297753807317381966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_5
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 2262
+        width: 495
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e343fd0590028f0800000000000000
+      internalID: -567443310101905762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_6
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 2259
+        width: 493
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c317612c1473080800000000000000
+      internalID: -9207818611279709046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_7
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2257
+        width: 489
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c7722accc9bde60800000000000000
+      internalID: 7988150766779464809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_8
+      rect:
+        serializedVersion: 2
+        x: 5782
+        y: 2255
+        width: 491
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038e6ac06e0867410800000000000000
+      internalID: 1474507653553514544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_9
+      rect:
+        serializedVersion: 2
+        x: 6363
+        y: 2254
+        width: 484
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cd2fdefce2d50a0800000000000000
+      internalID: -6891300384221766598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_10
+      rect:
+        serializedVersion: 2
+        x: 6901
+        y: 2252
+        width: 478
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d8b10c03a117930800000000000000
+      internalID: 4139118329213979998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_11
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2251
+        width: 479
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ca90838baff78a0800000000000000
+      internalID: -6305045284174320608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_12
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2260
+        width: 63
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9562677294c224800800000000000000
+      internalID: 595086793472616025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_13
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2260
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c16268dbb406bbe0800000000000000
+      internalID: -1461975824199425592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1202
+        width: 476
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c600fc0d4291547c0800000000000000
+      internalID: -4087833440856113044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_15
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1201
+        width: 477
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c3d92ef1bf943d0800000000000000
+      internalID: -3221767944042365843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_16
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1189
+        width: 455
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b53a5c91916c900800000000000000
+      internalID: 704277990210755375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_17
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1190
+        width: 496
+        height: 1065
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8f31adffc44ffe0800000000000000
+      internalID: -1156214542568261419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_18
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 1192
+        width: 466
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306e2b209765a6b40800000000000000
+      internalID: 5434250978112235011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_19
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1192
+        width: 476
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9492e7e82495bf0800000000000000
+      internalID: -335163517492966950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_20
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 1191
+        width: 486
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d08ebd587860970800000000000000
+      internalID: 8720806737439362380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_21
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 1157
+        width: 497
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5e45789755e9400800000000000000
+      internalID: 332797402921887171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_22
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 1156
+        width: 513
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf1dca3497c89490800000000000000
+      internalID: -7739216520180588624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_23
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 1155
+        width: 505
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdd69bcc136c9330800000000000000
+      internalID: 3718956367627083252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_24
+      rect:
+        serializedVersion: 2
+        x: 6729
+        y: 1155
+        width: 482
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fa0046b41e13bc0800000000000000
+      internalID: -3805012496234795160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_25
+      rect:
+        serializedVersion: 2
+        x: 7333
+        y: 1154
+        width: 504
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de847e21fd16fcd0800000000000000
+      internalID: -2524797619390869800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_26
+      rect:
+        serializedVersion: 2
+        x: 7346
+        y: 2133
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18878363e52c64280800000000000000
+      internalID: -9059339890516789119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_27
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 1178
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d8563111d19a910800000000000000
+      internalID: 1849041081189371169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_28
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 1178
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138c628410f7dff00800000000000000
+      internalID: 1152216723158911025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_29
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 11
+        width: 518
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e6a52de15b16c20800000000000000
+      internalID: 3198036354392550932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_30
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 9
+        width: 536
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389eb508125b53950800000000000000
+      internalID: 6428243198633306499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_31
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 10
+        width: 515
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bb89cc316c68510800000000000000
+      internalID: 1551144910014954329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_32
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 9
+        width: 547
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e5f270e35d33710800000000000000
+      internalID: 1671914349069819508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_33
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 13
+        width: 544
+        height: 1069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc71a3cb1ef331160800000000000000
+      internalID: 6995004884994627531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_34
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 12
+        width: 538
+        height: 1069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bb474e0f4920070800000000000000
+      internalID: 8071177244547267409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_35
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 4
+        width: 550
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ae3544fc332c50800000000000000
+      internalID: 6639217295505663869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_36
+      rect:
+        serializedVersion: 2
+        x: 4847
+        y: 10
+        width: 530
+        height: 1051
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c8104c6c8e5e7c0800000000000000
+      internalID: -4042569150105547757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_37
+      rect:
+        serializedVersion: 2
+        x: 5456
+        y: 17
+        width: 528
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f53c07c1027a9430800000000000000
+      internalID: 3790467388345693681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_38
+      rect:
+        serializedVersion: 2
+        x: 6061
+        y: 16
+        width: 517
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92055c86747fddd20800000000000000
+      internalID: 3305069587632312361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_39
+      rect:
+        serializedVersion: 2
+        x: 6772
+        y: 8
+        width: 510
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139b4b896d3dc17d0800000000000000
+      internalID: -2946247137568704207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_40
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 3
+        width: 502
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f5a8a5dc01c4360800000000000000
+      internalID: 7155112382158233381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_41
+      rect:
+        serializedVersion: 2
+        x: 5018
+        y: 0
+        width: 67
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa24162bf47579850800000000000000
+      internalID: 6383666996627718831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_42
+      rect:
+        serializedVersion: 2
+        x: 5233
+        y: 0
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9c2b331cdc36360800000000000000
+      internalID: 7161794062128957909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_43
+      rect:
+        serializedVersion: 2
+        x: 5627
+        y: 9
+        width: 67
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba68f66da7d54e40800000000000000
+      internalID: 5640151248108284607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaffSittingJoey_44
+      rect:
+        serializedVersion: 2
+        x: 5842
+        y: 9
+        width: 63
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fc89c7dc5842c90800000000000000
+      internalID: -7195479187026030837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StaffSittingJoey_0: 6997295087425429852
+      StaffSittingJoey_1: -4507666684571716827
+      StaffSittingJoey_10: 4139118329213979998
+      StaffSittingJoey_11: -6305045284174320608
+      StaffSittingJoey_12: 595086793472616025
+      StaffSittingJoey_13: -1461975824199425592
+      StaffSittingJoey_14: -4087833440856113044
+      StaffSittingJoey_15: -3221767944042365843
+      StaffSittingJoey_16: 704277990210755375
+      StaffSittingJoey_17: -1156214542568261419
+      StaffSittingJoey_18: 5434250978112235011
+      StaffSittingJoey_19: -335163517492966950
+      StaffSittingJoey_2: 1069428873340390352
+      StaffSittingJoey_20: 8720806737439362380
+      StaffSittingJoey_21: 332797402921887171
+      StaffSittingJoey_22: -7739216520180588624
+      StaffSittingJoey_23: 3718956367627083252
+      StaffSittingJoey_24: -3805012496234795160
+      StaffSittingJoey_25: -2524797619390869800
+      StaffSittingJoey_26: -9059339890516789119
+      StaffSittingJoey_27: 1849041081189371169
+      StaffSittingJoey_28: 1152216723158911025
+      StaffSittingJoey_29: 3198036354392550932
+      StaffSittingJoey_3: 4297002764714979573
+      StaffSittingJoey_30: 6428243198633306499
+      StaffSittingJoey_31: 1551144910014954329
+      StaffSittingJoey_32: 1671914349069819508
+      StaffSittingJoey_33: 6995004884994627531
+      StaffSittingJoey_34: 8071177244547267409
+      StaffSittingJoey_35: 6639217295505663869
+      StaffSittingJoey_36: -4042569150105547757
+      StaffSittingJoey_37: 3790467388345693681
+      StaffSittingJoey_38: 3305069587632312361
+      StaffSittingJoey_39: -2946247137568704207
+      StaffSittingJoey_4: 4297753807317381966
+      StaffSittingJoey_40: 7155112382158233381
+      StaffSittingJoey_41: 6383666996627718831
+      StaffSittingJoey_42: 7161794062128957909
+      StaffSittingJoey_43: 5640151248108284607
+      StaffSittingJoey_44: -7195479187026030837
+      StaffSittingJoey_5: -567443310101905762
+      StaffSittingJoey_6: -9207818611279709046
+      StaffSittingJoey_7: 7988150766779464809
+      StaffSittingJoey_8: 1474507653553514544
+      StaffSittingJoey_9: -6891300384221766598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
