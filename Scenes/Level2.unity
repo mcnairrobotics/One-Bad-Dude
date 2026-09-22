@@ -3818,6 +3818,10 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: b20b47c2be687214db3d8d80ad4fb091, type: 3}
+    - target: {fileID: 474478602149139582, guid: f244166dca997a34886e95ee5e9111ba, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 26.7
+      objectReference: {fileID: 0}
     - target: {fileID: 3610134326656226391, guid: f244166dca997a34886e95ee5e9111ba, type: 3}
       propertyPath: m_Name
       value: PlayerComposite
@@ -4754,11 +4758,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4202713775657582928, guid: f9fd781bf1214c249a73583dac76ddc9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 125.02
+      value: 124.13
       objectReference: {fileID: 0}
     - target: {fileID: 4202713775657582928, guid: f9fd781bf1214c249a73583dac76ddc9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 22.14
+      value: 22.06
       objectReference: {fileID: 0}
     - target: {fileID: 8758873111428092020, guid: f9fd781bf1214c249a73583dac76ddc9, type: 3}
       propertyPath: m_LocalScale.x

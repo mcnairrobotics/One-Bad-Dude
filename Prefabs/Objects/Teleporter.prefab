@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2179050865635598125}
   - component: {fileID: 4313740075136365970}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1893656224912603387}
   - component: {fileID: 3329594036048560865}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: TeleportSound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -222,7 +222,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2280517532810327551}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: OutSpot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -258,7 +258,7 @@ GameObject:
   - component: {fileID: 7836717622510024044}
   - component: {fileID: 6594668839841452973}
   - component: {fileID: 4556933480623058756}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Teleporter
   m_TagString: Untagged
   m_Icon: {fileID: 0}

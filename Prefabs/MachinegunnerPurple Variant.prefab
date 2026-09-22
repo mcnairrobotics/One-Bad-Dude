@@ -65,8 +65,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7676570658719858286, guid: b21076a4af5857743a3f51a0273adf18, type: 3}
+      propertyPath: visionRange
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 7676570658719858286, guid: b21076a4af5857743a3f51a0273adf18, type: 3}
       propertyPath: yVisionRange
-      value: 4
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

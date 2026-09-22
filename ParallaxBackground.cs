@@ -8,7 +8,7 @@ public class ParallaxBackground : MonoBehaviour
     [Range(0f, 1f)]
     public float parallaxFactor = 0.5f;
 
-    [Header("Three Background Pieces (Left, Middle, Right)")]
+    [Header("Three Background Pieces")]
     public SpriteRenderer leftRenderer;
     public SpriteRenderer midRenderer;
     public SpriteRenderer rightRenderer;
@@ -19,7 +19,7 @@ public class ParallaxBackground : MonoBehaviour
     private float spriteWidth;
     private Transform camTransform;
 
-    private float camX;
+    private float parallaxX;
 
     void Start()
     {
@@ -44,19 +44,20 @@ public class ParallaxBackground : MonoBehaviour
             return;
         }
 
-        // Get width from the middle sprite.
+        // Width of one background piece.
         spriteWidth = midRenderer.bounds.size.x;
 
-        // Make sure the three sprites are correctly ordered.
+        // Make sure references are actually left/middle/right.
         SortRenderersByX();
 
-        // Force them into a perfect three-tile formation.
+        // Establish a perfect three-piece arrangement.
         SetupSpritePositions();
 
-        // Initialize parallax position.
-        camX = camTransform.position.x * parallaxFactor;
+        // Initial parallax position.
+        parallaxX = camTransform.position.x * parallaxFactor;
+
         transform.position = new Vector3(
-            camX,
+            parallaxX,
             transform.position.y,
             transform.position.z
         );
@@ -65,26 +66,28 @@ public class ParallaxBackground : MonoBehaviour
     void Update()
     {
         // -----------------------------------------
-        // Move the parallax layer
+        // PARALLAX MOVEMENT
         // -----------------------------------------
 
         if (!autoScroll)
         {
-            camX = camTransform.position.x * parallaxFactor;
+            parallaxX =
+                camTransform.position.x * parallaxFactor;
         }
         else
         {
-            camX -= Time.deltaTime * parallaxFactor;
+            parallaxX -=
+                Time.deltaTime * parallaxFactor;
         }
 
         transform.position = new Vector3(
-            camX,
+            parallaxX,
             transform.position.y,
             transform.position.z
         );
 
         // -----------------------------------------
-        // Check for looping
+        // LOOP BACKGROUND
         // -----------------------------------------
 
         CheckAndRepositionSprites();
@@ -92,38 +95,37 @@ public class ParallaxBackground : MonoBehaviour
 
     void CheckAndRepositionSprites()
     {
-        /*
-         * Convert the camera position into the parallax
-         * object's local coordinate space.
-         *
-         * This is much more stable than checking the camera's
-         * viewport edges against sprite edges.
-         */
-        float cameraLocalX =
-            camTransform.position.x - transform.position.x;
+        float cameraX = camTransform.position.x;
 
-        /*
-         * Camera has moved far enough to the RIGHT.
-         *
-         * Example:
-         *
-         *     LEFT    MID    RIGHT
-         *      -W      0       +W
-         *
-         * Once the camera passes halfway between MID and RIGHT,
-         * recycle LEFT to the far RIGHT.
-         */
-        if (cameraLocalX > spriteWidth * 0.5f)
+        float cameraHalfWidth =
+            cam.orthographicSize * cam.aspect;
+
+        float cameraLeft =
+            cameraX - cameraHalfWidth;
+
+        float cameraRight =
+            cameraX + cameraHalfWidth;
+
+        float leftEdge =
+            leftRenderer.bounds.max.x;
+
+        float rightEdge =
+            rightRenderer.bounds.min.x;
+
+        // -----------------------------------------
+        // CAMERA MOVED RIGHT
+        // -----------------------------------------
+
+        if (cameraLeft > leftEdge)
         {
             MoveLeftToRight();
         }
 
-        /*
-         * Camera has moved far enough to the LEFT.
-         *
-         * Recycle RIGHT to the far LEFT.
-         */
-        else if (cameraLocalX < -spriteWidth * 0.5f)
+        // -----------------------------------------
+        // CAMERA MOVED LEFT
+        // -----------------------------------------
+
+        else if (cameraRight < rightEdge)
         {
             MoveRightToLeft();
         }
@@ -131,50 +133,60 @@ public class ParallaxBackground : MonoBehaviour
 
     void MoveLeftToRight()
     {
-        // Remember the current left sprite.
-        SpriteRenderer oldLeft = leftRenderer;
+        // Save the current left sprite.
+        SpriteRenderer recycled = leftRenderer;
 
         // Shift references.
         leftRenderer = midRenderer;
         midRenderer = rightRenderer;
-        rightRenderer = oldLeft;
+        rightRenderer = recycled;
 
-        // Put recycled sprite exactly one tile beyond the new right.
+        // Put recycled sprite exactly after the right sprite.
         rightRenderer.transform.position =
-            midRenderer.transform.position +
-            Vector3.right * spriteWidth;
+            new Vector3(
+                midRenderer.transform.position.x + spriteWidth,
+                rightRenderer.transform.position.y,
+                rightRenderer.transform.position.z
+            );
     }
 
     void MoveRightToLeft()
     {
-        // Remember the current right sprite.
-        SpriteRenderer oldRight = rightRenderer;
+        // Save the current right sprite.
+        SpriteRenderer recycled = rightRenderer;
 
         // Shift references.
         rightRenderer = midRenderer;
         midRenderer = leftRenderer;
-        leftRenderer = oldRight;
+        leftRenderer = recycled;
 
-        // Put recycled sprite exactly one tile beyond the new left.
+        // Put recycled sprite exactly before the left sprite.
         leftRenderer.transform.position =
-            midRenderer.transform.position +
-            Vector3.left * spriteWidth;
+            new Vector3(
+                midRenderer.transform.position.x - spriteWidth,
+                leftRenderer.transform.position.y,
+                leftRenderer.transform.position.z
+            );
     }
 
     void SetupSpritePositions()
     {
-        /*
-         * Keep the middle sprite where it currently is,
-         * then place the other two exactly one width away.
-         */
-
-        Vector3 middlePosition = midRenderer.transform.position;
+        Vector3 middlePosition =
+            midRenderer.transform.position;
 
         leftRenderer.transform.position =
-            middlePosition + Vector3.left * spriteWidth;
+            new Vector3(
+                middlePosition.x - spriteWidth,
+                leftRenderer.transform.position.y,
+                leftRenderer.transform.position.z
+            );
 
         rightRenderer.transform.position =
-            middlePosition + Vector3.right * spriteWidth;
+            new Vector3(
+                middlePosition.x + spriteWidth,
+                rightRenderer.transform.position.y,
+                rightRenderer.transform.position.z
+            );
     }
 
     void SortRenderersByX()
