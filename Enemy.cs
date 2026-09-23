@@ -36,6 +36,7 @@ public class Enemy : MonoBehaviour
     public AudioClip[] clips;
     public Transform Eyes;
     public bool inMyMeleeRange;
+    public bool hasMeleeAttack;
     public bool disableParentAnimator;
     public float deathTime = 1;
     private bool playerInSight = false;
@@ -144,6 +145,8 @@ public class Enemy : MonoBehaviour
         {
             player.GetComponent<PlayerMovement2D>().Melee = true;
             inMyMeleeRange = true;
+            if(hasMeleeAttack)
+                anim.SetTrigger("Melee");
         }
         else
         {

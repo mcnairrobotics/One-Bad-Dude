@@ -391,6 +391,12 @@ public class PlayerMovement2D : MonoBehaviour
         {
             animator.Play("PlayerDisappear");
         }
+        if (collision.gameObject.CompareTag("DangerSmall") && dead == false)
+        {
+            rb.linearVelocity = new Vector2(jumpForce*-2*transform.localScale.x, jumpForce * 1.7f);
+            PlayClip(8);
+            takeDmg();
+        }
     }
     private void OnEnable() {
         justGotOffGround = true;
