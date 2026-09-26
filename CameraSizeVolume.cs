@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[RequireComponent(typeof(BoxCollider))]
+[RequireComponent(typeof(BoxCollider2D))]
 public class CameraSizeVolume : MonoBehaviour
 {
     public Camera targetCamera;
@@ -43,6 +43,7 @@ private float velocity;
 
         if (bounds.Contains(player.position))
         {
+            print("player in bounds");
             t = 1f;
         }
         else
