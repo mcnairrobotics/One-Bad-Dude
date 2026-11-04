@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EvilThrone_0: -4012324658465217332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

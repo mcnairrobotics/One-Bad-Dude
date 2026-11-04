@@ -69,6 +69,12 @@ public class PlayerMovement2D : MonoBehaviour
     [SerializeField]
     private RuntimeAnimatorController machinegunController;
     private InputManager input;
+    [Header("Step Assist")]
+    public float maxStepHeight = 0.25f;
+    public float stepProbeForward = 0.08f;
+    public float stepSkin = 0.02f;
+
+    private Collider2D playerCollider;
 
     void Start()
     {
@@ -80,6 +86,7 @@ public class PlayerMovement2D : MonoBehaviour
         audio = gameObject.GetComponent<AudioSource>();
         clipAmmo = clipSize;
         flash.SetActive(true);
+        playerCollider = GetComponent<Collider2D>();
     }
     public void PlayClip(int clipNum)
     {
@@ -289,24 +296,157 @@ public class PlayerMovement2D : MonoBehaviour
     {
         groundLayer |= (1 << 6);
     }
-    void FixedUpdate()
+void FixedUpdate()
+{
+    if (dead) return;
+
+    if (!canMove)
+        moveInput = 0;
+
+    if (isGrounded)
     {
-        if (dead) return;
-        if (!canMove)
-            moveInput = 0;
-        if (isGrounded)
+        if (upDownInput >= 0 &&
+            !(animator.GetCurrentAnimatorStateInfo(0).IsName("Duck") ||
+              animator.GetCurrentAnimatorStateInfo(0).IsName("DuckShoot") ||
+              animator.GetCurrentAnimatorStateInfo(0).IsName("DuckKick")))
         {
-            // Full movement on ground
-            if (upDownInput >= 0 && !(animator.GetCurrentAnimatorStateInfo(0).IsName("Duck") || animator.GetCurrentAnimatorStateInfo(0).IsName("DuckShoot") || animator.GetCurrentAnimatorStateInfo(0).IsName("DuckKick")))
-                rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+            // Automatically climb small floor-height differences.
+            if (moveInput != 0)
+                TryStepUp(Mathf.Sign(moveInput));
+
+            rb.linearVelocity = new Vector2(
+                moveInput * moveSpeed,
+                rb.linearVelocity.y
+            );
         }
-        else
+    }
+    else
+    {
+        // Reduced air control.
+        float targetXVel = moveInput * moveSpeed;
+
+        float smoothedXVel = Mathf.Lerp(
+            rb.linearVelocity.x,
+            targetXVel,
+            airControlFactor * Time.fixedDeltaTime * 10f
+        );
+
+        rb.linearVelocity = new Vector2(
+            smoothedXVel,
+            rb.linearVelocity.y
+        );
+    }
+}
+    private void TryStepUp(float direction)
+    {
+        if (!isGrounded || direction == 0 || playerCollider == null)
+            return;
+
+        Bounds bounds = playerCollider.bounds;
+
+        // Position just beyond the player's feet.
+        float probeX = bounds.center.x +
+                       direction * (bounds.extents.x + stepProbeForward);
+
+        Vector2 rayOrigin = new Vector2(
+            probeX,
+            bounds.min.y + maxStepHeight + stepSkin
+        );
+
+        float rayDistance = maxStepHeight + stepSkin * 2f;
+
+        LayerMask stepLayers = groundLayer | groundLayerSolid;
+
+        RaycastHit2D hit = Physics2D.Raycast(
+            rayOrigin,
+            Vector2.down,
+            rayDistance,
+            stepLayers
+        );
+
+        // Visualize the detection ray.
+        Debug.DrawRay(
+            rayOrigin,
+            Vector2.down * rayDistance,
+            hit.collider ? Color.green : Color.red
+        );
+
+        if (!hit.collider)
+            return;
+
+        float stepHeight = hit.point.y - bounds.min.y;
+
+        // Ignore surfaces that are not small upward steps.
+        if (stepHeight <= stepSkin || stepHeight > maxStepHeight)
+            return;
+
+        // Check space above the new position.
+        Vector2 newCenter = (Vector2)bounds.center +
+                            Vector2.up * stepHeight;
+
+        Vector2 checkSize = new Vector2(
+            bounds.size.x - stepSkin * 2f,
+            bounds.size.y - stepSkin * 2f
+        );
+
+        Collider2D[] overlaps = Physics2D.OverlapBoxAll(
+            newCenter,
+            checkSize,
+            0f,
+            stepLayers
+        );
+
+        foreach (Collider2D col in overlaps)
         {
-            // Reduced air control (momentum dominant)
-            float targetXVel = moveInput * moveSpeed;
-            float smoothedXVel = Mathf.Lerp(rb.linearVelocity.x, targetXVel, airControlFactor * Time.fixedDeltaTime * 10f);
-            rb.linearVelocity = new Vector2(smoothedXVel, rb.linearVelocity.y);
+            if (col != playerCollider &&
+                col != hit.collider &&
+                !col.isTrigger)
+            {
+                return;
+            }
         }
+
+        rb.position += Vector2.up * stepHeight;
+    }
+
+    private void OnDrawGizmos()
+    {
+        Collider2D col = GetComponent<Collider2D>();
+
+        if (col == null)
+            return;
+
+        Bounds bounds = col.bounds;
+
+        // Draw the actual collider bounds in white.
+        Gizmos.color = Color.white;
+        Gizmos.DrawWireCube(bounds.center, bounds.size);
+
+        // Draw the bottom of the collider in yellow.
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawSphere(
+            new Vector3(bounds.center.x, bounds.min.y, 0),
+            0.06f
+        );
+
+        // Draw the step detection point in cyan.
+        float direction = facingRight ? 1f : -1f;
+
+        float probeX = bounds.center.x +
+                       direction * (bounds.extents.x + stepProbeForward);
+
+        Gizmos.color = Color.cyan;
+        Gizmos.DrawSphere(
+            new Vector3(probeX, bounds.min.y, 0),
+            0.06f
+        );
+
+        // Draw the maximum step height in blue.
+        Gizmos.color = Color.blue;
+        Gizmos.DrawLine(
+            new Vector3(probeX, bounds.min.y, 0),
+            new Vector3(probeX, bounds.min.y + maxStepHeight, 0)
+        );
     }
 
     void Flip()

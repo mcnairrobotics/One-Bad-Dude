@@ -66,8 +66,8 @@ public class Enemy : MonoBehaviour
     }
     void Update()
     {
-        if(spriteLight != null)
-            spriteLight.m_LightCookieSprite = sr.sprite;
+       // if(spriteLight != null)
+        //    spriteLight.m_LightCookieSprite = sr.sprite;
         if (dead) return;
         if (player == null)
         {

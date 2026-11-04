@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BikeShootBack_0: 8212862922796760958
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

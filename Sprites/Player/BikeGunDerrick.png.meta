@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BikeGunDerrick_0: 9186581014431294210
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

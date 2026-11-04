@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lightning-bolt-png-16_0: -497466628773810485
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1570,7 +1570,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -818, y: -289.8}
+  m_AnchoredPosition: {x: -818, y: -304}
   m_SizeDelta: {x: 2096, y: 3334}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &807283024560777046
@@ -8230,7 +8230,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -731, y: -289.8}
+  m_AnchoredPosition: {x: -731, y: -304}
   m_SizeDelta: {x: 2096, y: 3334}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2671222299561985753
@@ -8956,6 +8956,9 @@ MonoBehaviour:
   waitTillNextFire: 0
   standardController: {fileID: 9100000, guid: fa9cc7cc285f66840a68f37ab9148b8f, type: 2}
   machinegunController: {fileID: 22100000, guid: aa41944cb26612a478c099d2858e519a, type: 2}
+  maxStepHeight: 1.2
+  stepProbeForward: 0.08
+  stepSkin: 0.02
 --- !u!50 &3667069601036399730
 Rigidbody2D:
   serializedVersion: 5
@@ -8972,7 +8975,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 3
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 824c91feb2aaa1c41b65d54b2ff81053, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -9354,7 +9357,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -899, y: -289.8}
+  m_AnchoredPosition: {x: -899, y: -304}
   m_SizeDelta: {x: 2096, y: 3334}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8624446573538079870

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SKYLINE-NIGHT-2-trans (1)_0: -8317097758875327824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

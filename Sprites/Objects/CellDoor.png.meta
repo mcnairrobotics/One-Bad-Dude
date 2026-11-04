@@ -248,7 +248,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CellDoor_0: 4437551939511759870
+      CellDoor_1: -2940492724151766672
+      CellDoor_2: 8476067804902392848
+      CellDoor_3: -1535639725323247295
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

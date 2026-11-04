@@ -198,7 +198,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Realistic_Cloud_Transparent_PNG_Clip_Art_Image_0: -5124017512049022310
+      Realistic_Cloud_Transparent_PNG_Clip_Art_Image_1: 431268910542347503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
