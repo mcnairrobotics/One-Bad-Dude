@@ -7,6 +7,7 @@ public class ParallaxBackground : MonoBehaviour
 
     [Range(0f, 1f)]
     public float parallaxFactor = 0.5f;
+    public float parallaxFactorY = 1f;
 
     [Header("Three Background Pieces")]
     public SpriteRenderer leftRenderer;
@@ -20,6 +21,7 @@ public class ParallaxBackground : MonoBehaviour
     private Transform camTransform;
 
     private float parallaxX;
+    private float parallaxY;
 
     void Start()
     {
@@ -55,10 +57,10 @@ public class ParallaxBackground : MonoBehaviour
 
         // Initial parallax position.
         parallaxX = camTransform.position.x * parallaxFactor;
-
+        parallaxY = camTransform.position.y * parallaxFactorY;
         transform.position = new Vector3(
             parallaxX,
-            transform.position.y,
+            parallaxY,
             transform.position.z
         );
     }
@@ -73,6 +75,7 @@ public class ParallaxBackground : MonoBehaviour
         {
             parallaxX =
                 camTransform.position.x * parallaxFactor;
+            parallaxY = camTransform.position.y * parallaxFactorY;
         }
         else
         {
@@ -82,7 +85,7 @@ public class ParallaxBackground : MonoBehaviour
 
         transform.position = new Vector3(
             parallaxX,
-            transform.position.y,
+            parallaxY,
             transform.position.z
         );
 

@@ -155,9 +155,17 @@ PrefabInstance:
       propertyPath: m_Size.y
       value: 8.31
       objectReference: {fileID: 0}
+    - target: {fileID: 5338405299845498391, guid: 84134e3fda1c9954191eed9e06e94000, type: 3}
+      propertyPath: cyclopsSpawnChance
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5338405299845498391, guid: 84134e3fda1c9954191eed9e06e94000, type: 3}
+      propertyPath: randomChanceToSpawn
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5996398154178918612, guid: 84134e3fda1c9954191eed9e06e94000, type: 3}
       propertyPath: m_Name
-      value: GatedDoor
+      value: GatedDoor Variant
       objectReference: {fileID: 0}
     - target: {fileID: 7327744629203925193, guid: 84134e3fda1c9954191eed9e06e94000, type: 3}
       propertyPath: m_LocalPosition.x

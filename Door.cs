@@ -4,7 +4,9 @@ public class Door : MonoBehaviour
 {
     public GameObject thugToSpawn;
     public GameObject gunnerToSpawn;
+    public GameObject cyclopsToSpawn;
     public int gunnerSpawnChance;
+    public int cyclopsSpawnChance;
     private Transform player;
     public float spawnDist;
     public int randomChanceToSpawn = 5;
@@ -39,7 +41,9 @@ public class Door : MonoBehaviour
         float distance = Vector2.Distance(transform.position, player.position);
         if (distance < spawnDist && distance > 3 && Random.Range(0, 10) < randomChanceToSpawn && anim.GetCurrentAnimatorStateInfo(0).IsName("DoorChill"))
         {
-            if(Random.Range(0,10) < gunnerSpawnChance)
+            if (Random.Range(0, 10) < cyclopsSpawnChance)
+                anim.Play("DoorCyclops");
+            else if (Random.Range(0,10) < gunnerSpawnChance)
                 anim.Play("DoorGunner");
             else
                 anim.Play("Door");
@@ -99,7 +103,9 @@ public class Door : MonoBehaviour
             Instantiate(thugToSpawn, spawnPoint.position, spawnPoint.rotation);
         if(type == 1)
             Instantiate(gunnerToSpawn, spawnPoint.position, spawnPoint.rotation);
-        if(type == -1)
+        if (type == 2)
+            Instantiate(cyclopsToSpawn, spawnPoint.position, spawnPoint.rotation);
+        if (type == -1)
         {
             playerInDoor = false;
             player.gameObject.SetActive(true);

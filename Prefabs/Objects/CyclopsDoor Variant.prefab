@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6508036420240294681
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 88631549122696859, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.10729189
+      objectReference: {fileID: 0}
+    - target: {fileID: 1819329273561798942, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_Size.x
+      value: 3.850424
+      objectReference: {fileID: 0}
+    - target: {fileID: 1819329273561798942, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_Size.y
+      value: 9.910001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2159981722319498561, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2940492724151766672, guid: c5f87eb5592899044938ea4ce97cb3ae, type: 3}
+    - target: {fileID: 3094762167483275649, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659357265079019110, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 123.61246
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659357265079019110, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -17.581306
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659357265079019110, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.3588514
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659357265079019110, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9790752
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659357265079019110, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659357265079019110, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.2034988
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659357265079019110, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659357265079019110, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659357265079019110, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 23.483
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659357265079019110, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7886004147409593195, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: cyclopsSpawnChance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7886004147409593195, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: randomChanceToSpawn
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8381790386420833704, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
+      propertyPath: m_Name
+      value: CyclopsDoor Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 36c590aecd443a743aab40c70c88d4d2, type: 3}
