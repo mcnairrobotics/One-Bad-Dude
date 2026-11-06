@@ -932,7 +932,7 @@ MonoBehaviour:
   dead: 0
   moveSpeed: 6
   changeDirectionTime: 1
-  visionRange: 11
+  visionRange: 11.5
   yVisionRange: 4
   playerLayer:
     serializedVersion: 2
@@ -966,6 +966,7 @@ MonoBehaviour:
   alwaysLookTowardsPlayer: 0
   spriteLight: {fileID: 0}
   sr: {fileID: 0}
+  charge: 0
 --- !u!82 &3808209381698011734
 AudioSource:
   m_ObjectHideFlags: 0

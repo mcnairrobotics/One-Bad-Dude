@@ -44,9 +44,14 @@ public class Enemy : MonoBehaviour
     public bool alwaysLookTowardsPlayer;
     public UnityEngine.Rendering.Universal.Light2D spriteLight;
     public SpriteRenderer sr;
+    public bool charge;
+    private bool smellsPlayer;
+    private float initalScale;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        initalScale = transform.localScale.y;
+
         anim = gameObject.GetComponent<Animator>();
         audio = gameObject.GetComponent<AudioSource>();
         rb = GetComponent<Rigidbody2D>();
@@ -93,11 +98,21 @@ public class Enemy : MonoBehaviour
         if (playerInSight)
         {
             // Stop walking when attacking
-            rb.linearVelocity = Vector2.zero;
+            if(charge == false)
+            {
+                rb.linearVelocity = Vector2.zero;
+                anim.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
+
+            }
+            else
+            {
+                anim.SetFloat("Speed", 0);
+                rb.AddForce(new Vector2(moveDirection.x * moveSpeed * 1.2f, 0));
+
+            }
             //FacePlayer();
-            
+
             anim.SetTrigger("Attack");
-            anim.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
             //anim.Play("ThugAttack");
             /*if (Time.time >= nextShootTime)
             {
@@ -122,16 +137,18 @@ public class Enemy : MonoBehaviour
         {
             nextDirectionChangeTime = Time.time + changeDirectionTime;
             if(player.position.x > transform.position.x)
-                transform.localScale = new Vector3(1, 1, 1);
+                transform.localScale = new Vector3(initalScale, initalScale, initalScale);
             else
-                transform.localScale = new Vector3(-1, 1, 1);
+                transform.localScale = new Vector3(-initalScale, initalScale, initalScale);
         }
         else
         {
             moveDirection = new Vector2(Random.Range(-1f, 1f),  rb.linearVelocity.y).normalized;
+            if (smellsPlayer && Random.Range(0, 4) < 2)
+                moveDirection.x = 0;
             nextDirectionChangeTime = Time.time + changeDirectionTime;
-            if (moveDirection.x > 0) transform.localScale = new Vector3(1, 1, 1);
-            else if (moveDirection.x < 0) transform.localScale = new Vector3(-1, 1, 1);
+            if (moveDirection.x > 0) transform.localScale = new Vector3(initalScale, initalScale, initalScale);
+            else if (moveDirection.x < 0) transform.localScale = new Vector3(-initalScale, initalScale, initalScale);
         }
         
     }
@@ -166,8 +183,15 @@ public class Enemy : MonoBehaviour
                 return;
             }
             
+        }else if (distance <= visionRange)
+        {
+            smellsPlayer = true;
         }
-        playerInSight = false;
+        else
+        {
+            smellsPlayer = false;
+        }
+            playerInSight = false;
     }
 
     void FacePlayer()
