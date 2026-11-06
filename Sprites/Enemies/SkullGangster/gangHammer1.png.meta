@@ -1,0 +1,1103 @@
+fileFormatVersion: 2
+guid: bcfd30d7cffcf314195ea02cc0ff1a15
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gangHammer1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3144
+        width: 282
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750d005f892dd8f4a98ddad9d506ab75
+      internalID: 1382663092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3158
+        width: 334
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e9f52f42b241640b9dc2f995c2a299
+      internalID: -866418321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3144
+        width: 443
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8351b6674708e409a77184f1abe725
+      internalID: -1157543244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_4
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 3198
+        width: 467
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d4ac20a8f8bbf4288cf46913c8ae58
+      internalID: 1506257491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_5
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 3174
+        width: 386
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fdd4b5a067b8a4ab63809cd4f38493
+      internalID: -499567212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_6
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3174
+        width: 259
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ede95376f13ee47a8c15efef35c024
+      internalID: -920113717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_8
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 3176
+        width: 276
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96d2a698f784d54e8904780f614d79b
+      internalID: 2067853128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_9
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 3176
+        width: 276
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb33e8918f023f4db61d2e916df02c5
+      internalID: -247460973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_10
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 3186
+        width: 275
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648887cc78fabb749bc83f411c0759c8
+      internalID: -640858851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2161
+        width: 254
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970b3b87d1b93754c91325705f5b8500
+      internalID: 522456577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2162
+        width: 254
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209ee5b8e7e55a7429eb180d503141f3
+      internalID: -291657269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2166
+        width: 335
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37aee9ef389cb14591fee3cc2b29a97
+      internalID: 1769677664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_15
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2176
+        width: 318
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed260b7fca0d614aa207ad7fbb03e29
+      internalID: -1039486367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_17
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 2168
+        width: 272
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf90ac8c4173b2e4d96c025b87306165
+      internalID: 805852658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_18
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 2162
+        width: 264
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85518559b1ba3c544941736f49dee951
+      internalID: -1033501213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_19
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2170
+        width: 264
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2918fa4f6c29241a2601769b83502c
+      internalID: 1109322423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_20
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 2147
+        width: 334
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b0a278365e79d4d9b7369f4ad7f830
+      internalID: 1198594700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_21
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 2166
+        width: 302
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0117bbb865ced21498871fc31e35e650
+      internalID: -664167942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_22
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 2172
+        width: 280
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7337d60ebf2a345ad4125923ff7371
+      internalID: -778200958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_23
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 2165
+        width: 277
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fbb02e9f7e0d0419d68dd3549f59dd
+      internalID: 1538829984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_25
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 2152
+        width: 264
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab944572ebf9424da9c2435ead6cd2b
+      internalID: -162643208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1164
+        width: 222
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c49e1b7b9656489eb6a9ed9730ec3
+      internalID: -1613213192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_27
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1155
+        width: 231
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487bfc4c0a40fbd4e9c8b8a5275f996a
+      internalID: -30722656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_28
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1146
+        width: 210
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0c6041500899041ae59dee120bb9d4
+      internalID: 1337305730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_29
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1143
+        width: 236
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691b5ceca07a3824cb2d6e598033ceb7
+      internalID: 740519120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_30
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1142
+        width: 232
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aae30212068f7b49bd1b45e2860c44b
+      internalID: 1591372136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_31
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1153
+        width: 274
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dd1f0ea45e6e346b01c2e2bdd7fc25
+      internalID: 2019046283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_32
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1162
+        width: 277
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac64a3ce91c8f5409063050167c7f01
+      internalID: -1463134121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_33
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 1155
+        width: 214
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319ef29ecb0f9d1488adf5af2d08674d
+      internalID: -474176311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_34
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 1143
+        width: 236
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b935639052a034ebac5cca8a2eaa1b
+      internalID: 1369728883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_35
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 992
+        width: 513
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ee9ad08d519d14b888961d9d982837
+      internalID: 395356651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_36
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 973
+        width: 592
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a205739f32c9ef14d8290d38b479eb60
+      internalID: -700805301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 368
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c016527a3b831224da1477fb2df713d7
+      internalID: 830819620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 69
+        width: 416
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1d8f19f87a4f74a91d565f1848ba75
+      internalID: 2059792574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_39
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 27
+        width: 310
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a761e5d6c5722df47aed0ae53a1f0854
+      internalID: -569826722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_40
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2
+        width: 422
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893934e0c6b652940814c1c7c7c8f9d1
+      internalID: 1024309512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_41
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 69
+        width: 588
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa05e84c3bfe054cb8c861118cf3dc8
+      internalID: -30278499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_42
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 51
+        width: 490
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8d03025d0ea043b228ef349146a4e
+      internalID: 642084616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_43
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 33
+        width: 449
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3817587d2f1cd44e938aabb1c82fdbd
+      internalID: 1154825128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_44
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 37
+        width: 474
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884af0a8ab6124149a2df909a3831717
+      internalID: 2093046813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gangHammer1_3
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3144
+        width: 496
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b564263352d2aa42be4d6fd9bd74b97
+      internalID: -641515140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ce7ca0d772501da4686ce8622d94542b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gangHammer1_0: 1382663092
+      gangHammer1_1: -866418321
+      gangHammer1_10: -640858851
+      gangHammer1_11: 522456577
+      gangHammer1_12: -291657269
+      gangHammer1_13: 1769677664
+      gangHammer1_14: -591561018
+      gangHammer1_15: -1039486367
+      gangHammer1_16: -542260597
+      gangHammer1_17: 805852658
+      gangHammer1_18: -1033501213
+      gangHammer1_19: 1109322423
+      gangHammer1_2: -1157543244
+      gangHammer1_20: 1198594700
+      gangHammer1_21: -664167942
+      gangHammer1_22: -778200958
+      gangHammer1_23: 1538829984
+      gangHammer1_24: -1171945503
+      gangHammer1_25: -162643208
+      gangHammer1_26: -1613213192
+      gangHammer1_27: -30722656
+      gangHammer1_28: 1337305730
+      gangHammer1_29: 740519120
+      gangHammer1_3: -641515140
+      gangHammer1_30: 1591372136
+      gangHammer1_31: 2019046283
+      gangHammer1_32: -1463134121
+      gangHammer1_33: -474176311
+      gangHammer1_34: 1369728883
+      gangHammer1_35: 395356651
+      gangHammer1_36: -700805301
+      gangHammer1_37: 830819620
+      gangHammer1_38: 2059792574
+      gangHammer1_39: -569826722
+      gangHammer1_4: 1506257491
+      gangHammer1_40: 1024309512
+      gangHammer1_41: -30278499
+      gangHammer1_42: 642084616
+      gangHammer1_43: 1154825128
+      gangHammer1_44: 2093046813
+      gangHammer1_5: -499567212
+      gangHammer1_6: -920113717
+      gangHammer1_7: 258363341
+      gangHammer1_8: 2067853128
+      gangHammer1_9: -247460973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
