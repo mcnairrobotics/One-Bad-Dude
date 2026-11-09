@@ -787,12 +787,12 @@ TextureImporter:
       name: Squid Master_24
       rect:
         serializedVersion: 2
-        x: 4325
-        y: 1800
+        x: 4324
+        y: 1802
         width: 262
         height: 983
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.54101187, y: 0.41724727}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []

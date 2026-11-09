@@ -651,7 +651,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "These fools still challenge Vizio's \nmight. When will they learn?"
+  m_text: 'Why does our almighty let this evil
+
+    live? What is Vizio''s plan?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
@@ -1499,12 +1501,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Damn! It won''t matter if I save
+  m_text: 'Damnit! Why does Vizio not warn me? Is my devotion not enough?
 
-    her from that Demon if Vizio finds
-
-    out
-    about this.'
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
@@ -3480,7 +3479,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "If you harm even a hair on her \nhead freak, I will- "
+  m_text: "If you harm even a hair on her \nhead sorcerer, I will- "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
@@ -4108,7 +4107,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Lily! Repent before it's too late! \nIf Vizio finds out you said that..."
+  m_text: 'Do not blaspheme our god Lily.
+
+    He is the reason you are still alive.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
@@ -5014,6 +5015,7 @@ MonoBehaviour:
   pauseObject: {fileID: 0}
   difficultyText: {fileID: 0}
   TitleAnimator: {fileID: 0}
+  volumeSlider: {fileID: 0}
 --- !u!1 &1424826081
 GameObject:
   m_ObjectHideFlags: 0
@@ -6649,6 +6651,7 @@ MonoBehaviour:
   pauseObject: {fileID: 0}
   difficultyText: {fileID: 0}
   TitleAnimator: {fileID: 0}
+  volumeSlider: {fileID: 0}
 --- !u!1 &2082253310
 GameObject:
   m_ObjectHideFlags: 0
