@@ -80,7 +80,7 @@ public class Door : MonoBehaviour
             }
             if(giveMagic == true){
                 giveMagic = false;
-                pm.magic += 2;
+                pm.magic += 3;
                 gameObject.GetComponent<AudioSource>().Play();
             }
             if(giveMachinegun == true){

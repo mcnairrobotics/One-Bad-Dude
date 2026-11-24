@@ -42882,6 +42882,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3347572883193911902, guid: f244166dca997a34886e95ee5e9111ba, type: 3}
+      propertyPath: m_Pitch
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3610134326656226391, guid: f244166dca997a34886e95ee5e9111ba, type: 3}
       propertyPath: m_Name
       value: PlayerComposite
@@ -42938,6 +42942,14 @@ PrefabInstance:
       propertyPath: bikeAnim
       value: 
       objectReference: {fileID: 640358503}
+    - target: {fileID: 7545317925951284255, guid: f244166dca997a34886e95ee5e9111ba, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7545317925951284255, guid: f244166dca997a34886e95ee5e9111ba, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

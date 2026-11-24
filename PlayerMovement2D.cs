@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 using TMPro;
 using UnityEngine.Rendering;
 using Unity.VisualScripting;
@@ -61,7 +62,27 @@ public class PlayerMovement2D : MonoBehaviour
     public GameObject uiKey;
     public GameObject flash;
     public bool Invulnerable = false;
+    [Header ("Magic Settings")]
     public int magic = 6;
+    public int maxMagic = 10;
+    public Slider magicSlider;
+    private int magicIndex = 0;
+    [System.Serializable]
+    public class MagicData
+    {
+        public string displayName;
+        public string animTriggerName;
+        public Sprite icon;
+
+        [Header("Usage")]
+        public int magicCost = 2;
+        public bool unlocked = false;
+
+        [Header("Additional Settings")]
+        public float cooldown = 0f;
+        public AudioClip activationSound;
+    }
+    public MagicData[] magicDataArray;
     public bool machinegunMode = false;
     public bool waitTillNextFire = false;
     [SerializeField]
@@ -102,7 +123,10 @@ public class PlayerMovement2D : MonoBehaviour
         }
         if (clipNum == 7)
         {
-            magic -= 2;
+            magic -= magicDataArray[magicIndex].magicCost;
+            if (magic < 0)
+                magic = 0;
+            
         }
         audio.PlayOneShot(clips[clipNum]);
     }
@@ -157,13 +181,13 @@ public class PlayerMovement2D : MonoBehaviour
             }
             // moveInput = 0;
         }
-        else if (input.SpecialPressed && isGrounded && magic > 0 && canMove)
+        else if (input.SpecialPressed && isGrounded && magic >= magicDataArray[magicIndex].magicCost && canMove)
         {
             //if(ammo < 0)
             //    ammo = 0;
             //if ((ammo > 0 && clipAmmo > 0) || Melee == true)
             //{
-            animator.SetTrigger("Magic1");
+            animator.SetTrigger(magicDataArray[magicIndex].animTriggerName);
             //}
             //else
             //{
@@ -498,6 +522,8 @@ void FixedUpdate()
     }
     void OnTriggerEnter2D(Collider2D collision)
     {
+        if(Invulnerable)
+          return;
         if (collision.gameObject.CompareTag("Ammo"))
         {
             ammo += Random.Range(6, 9);
@@ -564,14 +590,18 @@ void FixedUpdate()
                 healthIcons[i].SetActive(false);
 
         }
-        for (int i = 0; i < magicIcons.Length; i++)
+        if(magic > maxMagic)
+            magic = maxMagic;
+        magicSlider.value = (float)magic / maxMagic;
+        //old magic system
+        /*for (int i = 0; i < magicIcons.Length; i++)
         {
             if (magic > i*2)
                 magicIcons[i].SetActive(true);
             else
                 magicIcons[i].SetActive(false);
 
-        }
-        
+        }*/
+
     }
 }
