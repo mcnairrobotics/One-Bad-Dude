@@ -234,6 +234,11 @@ public class Enemy : MonoBehaviour
             audio.PlayOneShot(clips[5]);
             TakeDamage(1);
         }
+        if (other.gameObject.name == "KickHitbox")
+        {
+            audio.PlayOneShot(clips[5]);
+            TakeDamage(3);
+        }
 
     }
     void OnDrawGizmosSelected()

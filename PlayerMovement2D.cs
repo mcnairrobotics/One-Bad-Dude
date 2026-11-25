@@ -66,7 +66,7 @@ public class PlayerMovement2D : MonoBehaviour
     public int magic = 6;
     public int maxMagic = 10;
     public Slider magicSlider;
-    private int magicIndex = 0;
+    public int magicIndex = 0;
     [System.Serializable]
     public class MagicData
     {
@@ -94,6 +94,8 @@ public class PlayerMovement2D : MonoBehaviour
     public float maxStepHeight = 0.25f;
     public float stepProbeForward = 0.08f;
     public float stepSkin = 0.02f;
+    public bool dynamicallyMovingX = false;
+    public Image magicIcon;
 
     private Collider2D playerCollider;
 
@@ -121,12 +123,20 @@ public class PlayerMovement2D : MonoBehaviour
             scale.x *= transform.localScale.x;
             bullet.transform.localScale = scale;
         }
-        if (clipNum == 7)
+        if (clipNum == 7)//eye power
         {
             magic -= magicDataArray[magicIndex].magicCost;
             if (magic < 0)
                 magic = 0;
             
+        }
+        if (clipNum == 9)//shadowkick
+        {
+            rb.linearVelocity = new Vector2(jumpForce * 4 * transform.localScale.x, 0);//jumpForce * 1.7f
+            magic -= magicDataArray[magicIndex].magicCost;
+            if (magic < 0)
+                magic = 0;
+
         }
         audio.PlayOneShot(clips[clipNum]);
     }
@@ -138,6 +148,7 @@ public class PlayerMovement2D : MonoBehaviour
         AmmoUpdate();
         /**/
         if (dead) return;
+        if (dynamicallyMovingX) return;
         // Input
         moveInput = input.Move.x;
         upDownInput = input.Move.y;
@@ -181,7 +192,7 @@ public class PlayerMovement2D : MonoBehaviour
             }
             // moveInput = 0;
         }
-        else if (input.SpecialPressed && isGrounded && magic >= magicDataArray[magicIndex].magicCost && canMove)
+        else if (input.SpecialPressed && (isGrounded || magicIndex == 1) && magic >= magicDataArray[magicIndex].magicCost && canMove)
         {
             //if(ammo < 0)
             //    ammo = 0;
@@ -323,7 +334,7 @@ public class PlayerMovement2D : MonoBehaviour
 void FixedUpdate()
 {
     if (dead) return;
-
+    if (dynamicallyMovingX) return;
     if (!canMove)
         moveInput = 0;
 
@@ -593,6 +604,7 @@ void FixedUpdate()
         if(magic > maxMagic)
             magic = maxMagic;
         magicSlider.value = (float)magic / maxMagic;
+        magicIcon.sprite = magicDataArray[magicIndex].icon;
         //old magic system
         /*for (int i = 0; i < magicIcons.Length; i++)
         {

@@ -51,6 +51,10 @@ public class breakableWall : MonoBehaviour
         {
             TakeDamage(2);
         }
+        if (other.gameObject.name == "KickHitbox")
+        {
+            TakeDamage(4);
+        }
 
     }
 }

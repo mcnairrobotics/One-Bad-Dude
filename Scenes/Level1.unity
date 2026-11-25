@@ -42942,6 +42942,10 @@ PrefabInstance:
       propertyPath: bikeAnim
       value: 
       objectReference: {fileID: 640358503}
+    - target: {fileID: 7528157605669577819, guid: f244166dca997a34886e95ee5e9111ba, type: 3}
+      propertyPath: magicIndex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7545317925951284255, guid: f244166dca997a34886e95ee5e9111ba, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
