@@ -7,6 +7,7 @@ public class EnemyCar : MonoBehaviour
     private bool dead;
     public GameObject[] damages;
     public GameObject carSploshion;
+    private SpriteRenderer sr;
     void Start()
     {
         if(PlayerPrefs.GetInt("Difficulty") == 0)
@@ -18,6 +19,15 @@ public class EnemyCar : MonoBehaviour
             maxHealth /= 2;
         }
         health = maxHealth;
+        sr = gameObject.GetComponent<SpriteRenderer>();
+    }
+    void Update()
+    {
+        foreach (SpriteRenderer bulletHole in gameObject.GetComponentsInChildren<SpriteRenderer>())
+        {
+            if(bulletHole.gameObject.name == "BulletHit_0 Variant(Clone)")
+                bulletHole.sortingOrder = sr.sortingOrder + 1;
+        }
     }
     public void TakeDamage(int damage)
     {

@@ -224,20 +224,26 @@ public class Enemy : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.gameObject.name == "Melee")
+        if (other.gameObject.name == "Melee")
         {
             audio.PlayOneShot(clips[5]);
             TakeDamage(1);
+            rb.linearVelocity = new Vector2(player.localScale.x *15, rb.linearVelocity.y);
+
         }
-        if(other.gameObject.name == "GodHitbox")
+        if (other.gameObject.name == "GodHitbox")
         {
             audio.PlayOneShot(clips[5]);
             TakeDamage(1);
+            rb.linearVelocity = new Vector2(player.localScale.x*15, rb.linearVelocity.y);
+
         }
         if (other.gameObject.name == "KickHitbox")
         {
             audio.PlayOneShot(clips[5]);
             TakeDamage(3);
+            rb.linearVelocity = new Vector2(player.localScale.x * 30, rb.linearVelocity.y);
+
         }
 
     }
